@@ -1,0 +1,1987 @@
+Rahul kumar Mahato Bokaro, JH |rahulkr.kr43@gmail.com |6207325688 |Rahul kr - Portfolio LinkedIn |GitHub Career Objective I’m an AI/ML enthusiast with a deep interest in building intelligent systems and exploring the latest advancements in Artificial Intelligence, Large Language Models (LLMs), and Generative AI.I have hands-on experience in developing machine learning & deep learning predictive modeling, NLP-based AI-driven applications.
+
+Seeking an opportunity to leverage my AI and machine learning skills to deliver impactful solutions, drive growth, and contribute to cutting-edge projects within a dynamic team Education Central University of South Bihar, Gaya , Master of Science in Data Science and Applied StatisticsPresent •CGPA: 8.27/10.0 | 3rd Semester SGPA: 9.02 Binod Bihari Mahato Koylanchal University, Dhanbad, Jharkhand , Bachelor of Science in Mathematics2019 – 2022 •GPA: 7.66/10 Skills Languages: Python ,R, SQL Technologies: Numpy ,Pandas,Seaborn, Scikit-learn,Mlflow,TensorFlow, Keras, PyTorch,Retrieval-Augmented Generation (RAG), Hugging Face Transformers, LangChain,GPT models. Tools & Platforms: Tableau ,IBM Spss, Linux , Git, Collab , Hugging Face Experience AI/ML Industrial training, National Institute of Electronics and Information Technology(NIELIT) , Patnapresent •Working on Deep Learning and NLP-based projects, focusing on building intelligent models for natural language understanding.
+
+Leveraging advanced neural networks and transformer-based deep learning architectures with recovered generation and few-shot voice cloning for personalized human-computer interaction Data science Poster Presentation Coordinator ,Central University of South Bihar, GayaDec 2024 •Organized and presented a poster on "Contributions to Data Science and Machine Learning by Indian Scholars and Industries".Highlighted how Indian statisticians contributed to solving real-world problems through innovative data science and machine learning methods. Projects An Emotionally Intelligent Voice Chatbot Using Deep Learning Present •Overview: Developed an advanced voice chatbot capable of emotionally intelligent conversations, powered by Retrieval-Augmented Generation (RAG) and few-shot voice cloning.
+
+The chatbot detects emotional tone in user input and generates personalized responses while replicating a specific person’s voice using minimal audio samples for a highly personalized conversational experience. •Applications: Customer support, virtual assistants, therapeutic chatbots, and personalized AI communication.•Tools Used: TensorFlow, Hugging Face Transformers, OpenAI Whisper, Python, Flask, Langchain Prediction of Air Quality Index (AQI) for Mumbai Region July 2024 - Dec 2024 •Developed a machine learning model to predict Air Quality Index (AQI) for Mumbai using historical air quality data.The project focuses on handling missing values, preprocessing data, and evaluating the performance of multiple regression models.Decision Tree and Random Forest models demonstrated superior performance.•Tools Used: Python: Pandas, NumPy, Matplotlib, Seaborn •Machine Learning: Linear Regression, Decision Tree, Random Forest, KNN, SVR (Scikit-learn)
+[![1mg, best e pharmacy in India](https://www.1mg.com/images/tata_1mg_logo.svg)](https://www.1mg.com/)
+  * [Medicines](https://www.1mg.com/)
+  * [Lab TestsSAFE](https://www.1mg.com/labs)
+  * [Consult Doctors](https://www.1mg.com/online-doctor-consultation)
+  * [Cancer Care](https://www.1mg.com/cancer-care/home)
+  * [Ayurveda](https://www.1mg.com/ayurveda)
+  * [Partnerships](https://www.1mg.com/corporate)
+  * [Care Plan](https://www.1mg.com/subscription-plan/subscriptions)
+
+
+[Login](https://www.1mg.com/all-diseases?label=b) | [Sign Up](https://www.1mg.com/all-diseases?label=b)
+[Offers](https://www.1mg.com/offers)
+[Need Help?](https://www.1mg.com/help)
+![](https://www.1mg.com/images/search_loader.svg)
+QUICK BUY! Get 15% off on medicines*
+[Quick order](https://www.1mg.com/order-with-prescription)
+  * [Health Resource Center](https://www.1mg.com/all-diseases?label=b)
+    * [All Diseases](https://www.1mg.com/all-diseases)
+    * [All Medicines](https://www.1mg.com/drugs-all-medicines)
+    * [Medicines by Therapeutic Class](https://www.1mg.com/drugs-therapeutic-classes)
+  * [Summer Essentials](https://www.1mg.com/categories/summer-essentials-912)
+    * [Sunscreen](https://www.1mg.com/categories/summer-essentials/sunscreen-210)
+    * [Rehydration Beverages](https://www.1mg.com/categories/summer-essentials/rehydration-beverages-382)
+    * [Herbal Juice](https://www.1mg.com/categories/summer-essentials/herbal-juice-174)
+    * [Karela Juices](https://www.1mg.com/categories/summer-essentials/herbal-juice/karela-juices-847)
+    * [Aloe Vera Juices](https://www.1mg.com/categories/summer-essentials/herbal-juice/aloe-vera-juices-848)
+    * [Amla Juices](https://www.1mg.com/categories/summer-essentials/herbal-juice/amla-juices-849)
+    * [Wheat Grass Juices](https://www.1mg.com/categories/summer-essentials/herbal-juice/wheat-grass-juices-850)
+    * [Triphala Juices](https://www.1mg.com/categories/summer-essentials/herbal-juice/triphala-juices-851)
+    * [Giloy Juices](https://www.1mg.com/categories/summer-essentials/herbal-juice/giloy-juices-852)
+    * [Tulsi Juices](https://www.1mg.com/categories/summer-essentials/herbal-juice/tulsi-juices-978)
+    * [Jamun Juices](https://www.1mg.com/categories/summer-essentials/herbal-juice/jamun-juices-979)
+    * [Cleansers & Facewash ](https://www.1mg.com/categories/summer-essentials/cleansers-facewash-512)
+    * [Soaps & Body Wash ](https://www.1mg.com/categories/summer-essentials/soaps-body-wash-2652)
+    * [Roll-on & Deodorants](https://www.1mg.com/categories/summer-essentials/roll-on-deodorants-3489)
+    * [Talcum Powder](https://www.1mg.com/categories/summer-essentials/talcum-powder-123)
+    * [Baby Care](https://www.1mg.com/categories/summer-essentials/baby-care-3369)
+    * [Antifungal Creams and Powders](https://www.1mg.com/categories/summer-essentials/antifungal-creams-and-powders-1166)
+  * [Vitamins & Nutrition](https://www.1mg.com/categories/vitamins-nutrition-5)
+    * [Multivitamins](https://www.1mg.com/categories/fitness-supplements/multivitamins-162)
+    * [Kids](https://www.1mg.com/categories/fitness-supplements/multivitamins/kids-503)
+    * [Men](https://www.1mg.com/categories/fitness-supplements/multivitamins/men-507)
+    * [Sports](https://www.1mg.com/categories/fitness-supplements/multivitamins/sports-907)
+    * [Vegetarian](https://www.1mg.com/categories/fitness-supplements/multivitamins/vegetarian-996)
+    * [Calcium](https://www.1mg.com/categories/vitamins-nutrition/calcium-94)
+    * [Minerals](https://www.1mg.com/categories/fitness-supplements/minerals-161)
+    * [Iron](https://www.1mg.com/categories/fitness-supplements/minerals/iron-428)
+    * [Vitamin B](https://www.1mg.com/categories/fitness-supplements/vitamin-b-576)
+    * [Vitamin D](https://www.1mg.com/categories/vitamins-nutrition/vitamin-d-121)
+    * [Vitamin C](https://www.1mg.com/categories/fitness-supplements/vitamin-c-734)
+    * [Vitamin A](https://www.1mg.com/categories/fitness-supplements/vitamin-a-508)
+    * [Global Supplements](https://www.1mg.com/categories/fitness-supplements/global-supplements-2385)
+    * [Now Foods](https://www.1mg.com/categories/now-foods-1224)
+    * [Solgar](https://www.1mg.com/categories/featured/solgar-2375)
+    * [Nordic naturals](https://www.1mg.com/categories/featured/nordic-naturals-2376)
+    * [Hair & Skin Supplements ](https://www.1mg.com/categories/fitness-supplements/hair-skin-supplements-2123)
+    * [Specialty Supplements](https://www.1mg.com/categories/vitamins-nutrition/specialty-supplements-164)
+    * [Antioxidants](https://www.1mg.com/categories/vitamins-nutrition/specialty-supplements/antioxidants-691)
+    * [Glucosamine](https://www.1mg.com/categories/vitamins-nutrition/specialty-supplements/glucosamine-689)
+    * [Vitamin K](https://www.1mg.com/categories/fitness-supplements/vitamin-k-444)
+    * [Gummies Vitamins](https://www.1mg.com/categories/fitness-supplements/gummies-vitamins-989)
+  * [Nutritional Drinks](https://www.1mg.com/categories/nutritional-drinks-196)
+    * [Green Tea & Herbal Tea](https://www.1mg.com/categories/nutritional-drinks/green-tea-herbal-tea-197)
+    * [Adult Daily Nutrition](https://www.1mg.com/categories/nutritional-drinks/adult-daily-nutrition-830)
+    * [Kids Nutrition (2-15 Yrs)](https://www.1mg.com/categories/nutritional-drinks/kids-nutrition-2-15-yrs-831)
+    * [Apple Cider Vinegar](https://www.1mg.com/categories/nutritional-drinks/apple-cider-vinegar-148)
+    * [Diabetes Nutrition](https://www.1mg.com/categories/nutritional-drinks/diabetes-nutrition-1013)
+    * [Specialized Nutrition](https://www.1mg.com/categories/nutritional-drinks/specialized-nutrition-3110)
+    * [Green Coffee ](https://www.1mg.com/categories/nutritional-drinks/green-coffee-3111)
+  * [Sexual Wellness](https://www.1mg.com/categories/sexual-wellness-22)
+    * [Condoms](https://www.1mg.com/categories/sexual-wellness/condoms-153)
+    * [Lubricants & Massage Gels](https://www.1mg.com/categories/sexual-wellness/lubricants-massage-gels-242)
+    * [Sexual Wellness Devices ](https://www.1mg.com/categories/sexual-wellness/sexual-wellness-devices-289)
+    * [Performance Enhancers](https://www.1mg.com/categories/sexual-wellness/performance-enhancers-243)
+    * [Oral Contraceptives ](https://www.1mg.com/categories/sexual-wellness/oral-contraceptives-3087)
+  * [Stomach Care](https://www.1mg.com/categories/stomach-care-30)
+    * [Constipation](https://www.1mg.com/categories/stomach-care/constipation-649)
+    * [Acidity](https://www.1mg.com/categories/stomach-care/acidity-714)
+    * [Pre and Probiotics](https://www.1mg.com/categories/stomach-care/pre-and-probiotics-624)
+    * [Indigestion](https://www.1mg.com/categories/stomach-care/indigestion-504)
+    * [Diarrhoea](https://www.1mg.com/categories/stomach-care/diarrhoea-645)
+    * [Bloating](https://www.1mg.com/categories/stomach-care/bloating-1139)
+  * [Fitness Supplements](https://www.1mg.com/categories/fitness-supplements-7)
+    * [Whey Protein](https://www.1mg.com/categories/fitness-supplements/whey-protein-98)
+    * [Fat Burners](https://www.1mg.com/categories/fitness-supplements/fat-burners-505)
+    * [Protein Supplements](https://www.1mg.com/categories/fitness-supplements/protein-supplements-3092)
+    * [Workout Essentials](https://www.1mg.com/categories/fitness-supplements/workout-essentials-166)
+    * [Mass Gainers](https://www.1mg.com/categories/fitness-supplements/mass-gainers-159)
+    * [Amino Acids](https://www.1mg.com/categories/fitness-supplements/amino-acids-146)
+    * [Arginine](https://www.1mg.com/categories/fitness-supplements/amino-acids/arginine-625)
+    * [BCAA](https://www.1mg.com/categories/fitness-supplements/amino-acids/bcaa-684)
+    * [Glutathione](https://www.1mg.com/categories/fitness-supplements/amino-acids/glutathione-685)
+    * [Glutamine](https://www.1mg.com/categories/fitness-supplements/amino-acids/glutamine-687)
+    * [Creatine](https://www.1mg.com/categories/fitness-supplements/amino-acids/creatine-688)
+    * [Carnitine](https://www.1mg.com/categories/fitness-supplements/amino-acids/carnitine-686)
+    * [Sports ](https://www.1mg.com/categories/fitness-supplements/sports-2128)
+    * [Plant Protein](https://www.1mg.com/categories/fitness-supplements/plant-protein-1012)
+  * [Pain Relief](https://www.1mg.com/categories/pain-relief-32)
+    * [Gel & Sprays](https://www.1mg.com/categories/pain-relief/gel-sprays-635)
+    * [Oils For Pain Relief](https://www.1mg.com/categories/pain-relief/oils-for-pain-relief-636)
+    * [Heating Aids & Belts ](https://www.1mg.com/categories/pain-relief/heating-aids-belts-637)
+    * [Pain Balm & Ointment](https://www.1mg.com/categories/pain-relief/pain-balm-ointment-638)
+    * [Pain Relief Tablets ](https://www.1mg.com/categories/pain-relief/pain-relief-tablets-3131)
+  * [Healthy Snacks ](https://www.1mg.com/categories/healthy-snacks-623)
+    * [Peanut Butter](https://www.1mg.com/categories/healthy-snacks/peanut-butter-450)
+    * [Honey](https://www.1mg.com/categories/healthy-snacks/honey-2359)
+    * [Dry Fruits & Berries ](https://www.1mg.com/categories/healthy-snacks/dry-fruits-berries-3109)
+    * [Cookies](https://www.1mg.com/categories/healthy-snacks/cookies-387)
+    * [Oats](https://www.1mg.com/categories/healthy-snacks/oats-3090)
+    * [Muesli & Cereals](https://www.1mg.com/categories/healthy-snacks/muesli-cereals-3108)
+    * [Edible Seeds & Nuts ](https://www.1mg.com/categories/healthy-snacks/edible-seeds-nuts-3106)
+    * [Superfoods](https://www.1mg.com/categories/healthy-snacks/superfoods-260)
+    * [Quinoa ](https://www.1mg.com/categories/healthy-snacks/quinoa-3078)
+    * [Other Snacks ](https://www.1mg.com/categories/healthy-snacks/other-snacks-3112)
+
+
+# Disease Index starting with - b
+[a](https://www.1mg.com/all-diseases)[b](https://www.1mg.com/all-diseases?label=b)[c](https://www.1mg.com/all-diseases?label=c)[d](https://www.1mg.com/all-diseases?label=d)[e](https://www.1mg.com/all-diseases?label=e)[f](https://www.1mg.com/all-diseases?label=f)[g](https://www.1mg.com/all-diseases?label=g)[h](https://www.1mg.com/all-diseases?label=h)[i](https://www.1mg.com/all-diseases?label=i)[j](https://www.1mg.com/all-diseases?label=j)[k](https://www.1mg.com/all-diseases?label=k)[l](https://www.1mg.com/all-diseases?label=l)[m](https://www.1mg.com/all-diseases?label=m)[n](https://www.1mg.com/all-diseases?label=n)[o](https://www.1mg.com/all-diseases?label=o)[p](https://www.1mg.com/all-diseases?label=p)[q](https://www.1mg.com/all-diseases?label=q)[r](https://www.1mg.com/all-diseases?label=r)[s](https://www.1mg.com/all-diseases?label=s)[t](https://www.1mg.com/all-diseases?label=t)[u](https://www.1mg.com/all-diseases?label=u)[v](https://www.1mg.com/all-diseases?label=v)[w](https://www.1mg.com/all-diseases?label=w)[x](https://www.1mg.com/all-diseases?label=x)[y](https://www.1mg.com/all-diseases?label=y)[z](https://www.1mg.com/all-diseases?label=z)
+Showing 1-19 of 19 results
+[![Baby colic](https://onemg.gumlet.io/a_ignore,w_64,h_64,c_fit,q_auto,f_auto/marketing/f039fc80-8fb9-448a-bc49-98df857f948b.jpg)Baby colicColic is referred to as long stretches of intense crying in otherwise healthy in...](https://www.1mg.com/diseases/baby-colic-982)
+[![Back pain](https://onemg.gumlet.io/a_ignore,w_64,h_64,c_fit,q_auto,f_auto/wo1mbrjsdx8txclceud4.jpg)Back painBack pain is one of the most common pain complaints that almost everyone has had ...](https://www.1mg.com/diseases/back-pain-943)
+[![Bacterial infections](https://onemg.gumlet.io/a_ignore,w_64,h_64,c_fit,q_auto,f_auto/marketing/e0ac5795-cbd8-4048-a646-d5f42d1443a5.jpg)Bacterial infectionsBacterial infections are caused by bacteria, a kind of microorganism that is made...](https://www.1mg.com/diseases/bacterial-infections-248)
+[![Bacterial skin infections](https://onemg.gumlet.io/a_ignore,w_64,h_64,c_fit,q_auto,f_auto/marketing/f1eebf4d-7610-4a10-b0b4-01486b0d15cf.jpg)Bacterial skin infectionsBacterial skin infections are common and caused by a wide variety of bacteria. Th...](https://www.1mg.com/diseases/bacterial-skin-infections-267)
+[![Bed-wetting](https://onemg.gumlet.io/a_ignore,w_64,h_64,c_fit,q_auto,f_auto/marketing/30faf444-2dfb-40b8-a57b-88aff310aa02.jpg)Bed-wettingBedwetting refers to the loss of urine during sleep at least twice a week in chil...](https://www.1mg.com/diseases/bed-wetting-127)
+[![Bell's palsy](https://onemg.gumlet.io/a_ignore,w_64,h_64,c_fit,q_auto,f_auto/u1ucssv83gamffyofmxa.jpg)Bell's palsyBell’s palsy, named after the scientist Sir Charles Bell, who described and resea...](https://www.1mg.com/diseases/bells-palsy-904)
+[![Benign prostatic hyperplasia](https://onemg.gumlet.io/a_ignore,w_64,h_64,c_fit,q_auto,f_auto/a9df4db0p4cmyeumkg4y.jpg)Benign prostatic hyperplasiaBenign prostatic hyperplasia (BPH) is a medical condition that commonly occurs in...](https://www.1mg.com/diseases/benign-prostatic-hyperplasia-91)
+[![Bipolar disorder](https://onemg.gumlet.io/a_ignore,w_64,h_64,c_fit,q_auto,f_auto/marketing/94a29335-1dd0-49e5-8cb6-74305f68afc9.jpg)Bipolar disorderBipolar disorder is a mental illness that causes unusual shifts in mood, energy,...](https://www.1mg.com/diseases/bipolar-disorder-529)
+[![Black Hairy Tongue](https://onemg.gumlet.io/a_ignore,w_64,h_64,c_fit,q_auto,f_auto/marketing/ae4d6781-befd-456b-9f05-955785e0a12d.jpg)Black Hairy TongueBlack hairy tongue (BHT) is a relatively common, harmless condition that affects...](https://www.1mg.com/diseases/black-hairy-tongue-1039)
+[![Bloating](https://onemg.gumlet.io/a_ignore,w_64,h_64,c_fit,q_auto,f_auto/cuvixvz6v3yey8ldu7q6.jpg)BloatingA lot of people complain about gas trouble but don't take it seriously because th...](https://www.1mg.com/diseases/bloating-63)
+[![Blood cancer](https://onemg.gumlet.io/a_ignore,w_64,h_64,c_fit,q_auto,f_auto/azqfxdly4hnsekunblbh.jpg)Blood cancerBlood cancer is a group of diseases affecting the production and function of bloo...](https://www.1mg.com/diseases/blood-cancer-217)
+[![Body Ache](https://onemg.gumlet.io/a_ignore,w_64,h_64,c_fit,q_auto,f_auto/q4ic6gewut1fp1j3mptr.jpg)Body AcheA feeling of generalized, dull aching pain all over the body that may or may not ...](https://www.1mg.com/diseases/body-ache-906)
+[![Body Odor](https://onemg.gumlet.io/a_ignore,w_64,h_64,c_fit,q_auto,f_auto/marketing/473f6f72-59ef-4d25-9884-c1434dcd39d7.jpg)Body OdorBody odor is a reasonably common condition. Most cases are related to poor person...](https://www.1mg.com/diseases/body-odor-1026)
+[![Breast cancer](https://onemg.gumlet.io/a_ignore,w_64,h_64,c_fit,q_auto,f_auto/wqixioo6yye0edkmefkh.jpg)Breast cancerBreast cancer is a type of cancer that forms in the cells of the breast, most com...](https://www.1mg.com/diseases/breast-cancer-134)
+[![Bronchitis](https://onemg.gumlet.io/a_ignore,w_64,h_64,c_fit,q_auto,f_auto/qt7vblqovm0r0uxvukvo.jpg)BronchitisBronchitis is an inflammatory reaction of the lining of the bronchial tubes (or a...](https://www.1mg.com/diseases/bronchitis-905)
+[![Bruxism](https://onemg.gumlet.io/a_ignore,w_64,h_64,c_fit,q_auto,f_auto/marketing/e415179d-c5cd-4135-a4b5-8d1263123b3a.jpg)BruxismBruxism is a condition marked by the habitual grinding or clenching of teeth, typ...](https://www.1mg.com/diseases/bruxism-1032)
+[![Bulimia nervosa](https://onemg.gumlet.io/a_ignore,w_64,h_64,c_fit,q_auto,f_auto/marketing/fea5b9ac-7970-477d-a6da-367a1cca3e77.jpg)Bulimia nervosaBulimia nervosa is a eating disorder characterised by episodes of binge eating a ...](https://www.1mg.com/diseases/bulimia-nervosa-870)
+[![Bunions](https://onemg.gumlet.io/a_ignore,w_64,h_64,c_fit,q_auto,f_auto/marketing/191f24be-9c2c-4a4a-8529-7ce5092fc906.jpg)BunionsA bunion refers to a bump-like structure on the side of the big toe. Over some ti...](https://www.1mg.com/diseases/bunions-1022)
+[![Burns](https://onemg.gumlet.io/a_ignore,w_64,h_64,c_fit,q_auto,f_auto/marketing/c544a66d-18f7-41b2-ba0d-9ddfe752ad5c.jpg)BurnsBurns are injuries to the skin and underlying tissues that can be caused by heat...](https://www.1mg.com/diseases/burns-456)
+## INDIA’S LARGEST HEALTHCARE PLATFORM
+260m+
+Visitors
+31m+
+Orders Delivered
+1800+
+Cities
+Get the link to download App
+Send Link
+### Know Us
+  * [About Us](https://www.1mg.com/aboutUs)
+  * [Contact Us](https://www.1mg.com/contactUs)
+  * [Press Coverage](https://www.1mg.com/press-coverage)
+  * [Careers](https://www.1mg.com/jobs)
+  * [Business Partnership](https://partners.1mg.com)
+  * [Become a Health Partner](https://www.1mg.com/healthpartner)
+  * [Corporate Governance](https://www.1mg.com/corporategovernance)
+
+
+### Our Policies
+  * [Privacy Policy](https://www.1mg.com/PrivacyPolicy)
+  * [Terms and Conditions ](https://www.1mg.com/Tnc)
+  * [Editorial Policy](https://www.1mg.com/editorial-policy-processes)
+  * [Return Policy](https://www.1mg.com/return-policy)
+  * [IP Policy](https://www.1mg.com/ip-policy)
+  * [Grievance Redressal Policy](https://www.1mg.com/grievance-redressal-policy)
+  * [Fake Jobs and Fraud Disclaimer](https://www.1mg.com/FakeJobsAndFraudDisclaimer)
+
+
+### Our Services
+  * [Order Medicines](https://www.1mg.com/)
+  * [Book Lab Tests](https://www.1mg.com/labs)
+  * [Consult a Doctor](https://www.1mg.com/online-doctor-consultation)
+  * [Ayurveda Articles](https://www.1mg.com/ayurveda)
+  * [Hindi Articles](https://www.1mg.com/hi/patanjali)
+  * [Care Plan](https://www.1mg.com/subscription-plan/subscriptions)
+
+
+### Connect
+  * Social Links
+  * [![Facebook](https://onemg.gumlet.io/vqpr5zx9ofpsyafjwwin.svg)](https://www.facebook.com/1mgOfficial)[![Instagram](https://onemg.gumlet.io/wwynoy59i3iakt8te5xl.svg)](https://www.instagram.com/1mgofficialpage/)[![Twitter](https://onemg.gumlet.io/cwrpdmlzckwzvv9e1gjv.svg)](https://twitter.com/1mgofficial)[![YouTube](https://onemg.gumlet.io/tywtfwyzxb8ujnqmbuau.svg)](https://www.youtube.com/c/1mgofficial)[![Linkedin](https://onemg.gumlet.io/hqfglkzkfxaxaypniixn.svg)](https://www.linkedin.com/company/1mg)[![Medium Link](https://onemg.gumlet.io/ny7nk9wxxlcxpeh1jbgg.svg)](https://medium.com/1mgofficial)
+  * Want daily dose of health?
+  * SIGN UP
+
+
+### Download App
+  * [![Download app through google play store](https://onemg.gumlet.io/marketing/6284f3d0-a998-4e94-8cea-91f0961895fc.png)](https://play.google.com/store/apps/details?id=com.aranoah.healthkart.plus)
+  * [![Download app through apple store](https://onemg.gumlet.io/marketing/45552652-1551-4004-984b-89af60d89e50.png)](https://itunes.apple.com/in/app/1mg/id554578419?mt=8)
+
+
+## Reliable
+All products displayed on Tata 1mg are procured from verified and licensed pharmacies. All labs listed on the platform are accredited
+## Secure
+Tata 1mg uses Secure Sockets Layer (SSL) 128-bit encryption and is Payment Card Industry Data Security Standard (PCI DSS) compliant
+## Affordable
+Find affordable medicine substitutes, save up to 50% on health products, up to 80% off on lab tests and free doctor consultations.
+[![LegitScript approved](https://static.legitscript.com/seals/729605.png)](https://legitscript.com "Verify LegitScript Approval")
+India's only LegitScript and ISO/ IEC 27001:2022 certified online healthcare platform
+##  Know more about Tata 1mg
+![downArrow](https://assets.1mg.com/hkp/2.0.0/static/images/down-arrowRebrand.svg)
+### Access medical and health information
+Tata 1mg provides you with medical information which is curated, written and verified by experts, accurate and trustworthy. Our experts create high-quality content about medicines, diseases, lab investigations, Over-The-Counter (OTC) health products, Ayurvedic herbs/ingredients, and alternative remedies.     
+### Order medicines online
+Get free medicine home delivery in over 1800 cities across India. You can also order Ayurvedic, Homeopathic and other Over-The-Counter (OTC) health products. Your safety is our top priority. All products displayed on Tata 1mg are procured from verified and licensed pharmacies.
+### Book lab tests
+Book any lab tests and preventive health packages from certified labs and get tested from the comfort of your home. Enjoy free home sample collection, view reports online and consult a doctor online for free.
+### Consult a doctor online
+Got a health query? Consult doctors online from the comfort of your home for free. Chat privately with our registered medical specialists to connect directly with verified doctors. Your privacy is guaranteed.
+
+Ashwagandha is an important herb of the Ayurvedic system of medicine. It is also known as Indian ginseng or winter cherry. The root of the herb has a distinctive smell that resembles the sweat of a horse, giving it the name Ashwagandha. In the Ayurvedic textbook ‘Bhavaprakasha’, the properties of Ashwagandha are illustrated in below shloka:
+
+गन्धान्ता वाजिनामादिरश्वगन्धा हयाद्वया। वराहकर्णी वरदा बलदा कुष्ठगन्धिनी ||
+अश्वगन्धाऽनिलश्लेष्मश्वित्रशोथक्षयापहा । बल्या रसायनी तिक्ता कपायोष्णाऽतिशुक्रला ॥ -भावप्रकाश
+
+Ashwagandha is known to provide aid in managing problems associated with stress and anxiety due to its Rasayana (Rejuvenating) and Vata balancing properties. These properties may also help in diabetes management. It also has Vajikarana (aphrodisiac) property which helps in improving stamina and treats conditions like erectile dysfunction. Root powder of Ashwagandha can be taken with milk to help manage male infertility and erectile dysfunction. It is used as a nervine tonic for various nerve-related problems. It provides aid in the management of stress and anxiety. It stabilizes the body's response to stressful conditions.
+One important precaution with Ashwagandha is that it should be avoided during pregnancy as it might increase uterine contractions[2][33][3].
+What are the synonyms of Ashwagandha?
+Withania somnifera, Indian Ginseng, Ajagandha, Vajigandha, Winter Cherry, Varahkarni, Asgandha[1]
+What is the source of Ashwagandha?
+Plant Based
+Benefits of Ashwagandha
+What are the benefits of Ashwagandha for Stress?
+scientificModern Science View	Ashwagandha may improve the individual’s ability to deal with stress.
+Stress increases the secretion of adrenocorticotropic hormone (ACTH) which in turn increases the cortisol levels (stress hormone) in the body. Ashwagandha powder reduces the level of cortisol and helps to reduce stress and stress-related problems[3].
+
+ayurvedicAyurvedic View	Stress can usually be attributed to an imbalance of Vata dosha, and often presents with irritability, insomnia, and fear. Taking Ashwagandha powder helps in balancing Vata and thus reduces the symptoms of stress.
+Tip:
+1. Take 1/4-1/2 teaspoon of Ashwagandha root powder and boil it in 2 cups of water.
+2. Add a pinch of ginger. Boil till it reduces to half.
+3. Cool the mixture and add honey to enhance its taste.
+4. Drink this tea to relax your mind.
+What are the benefits of Ashwagandha for Anxiety?
+scientificModern Science View	Ashwagandha may improve the individual’s ability to deal with stress and stress-related problems like anxiety.
+Stress increases the secretion of adrenocorticotropic hormone (ACTH) which in turn increases the cortisol levels (stress hormone) in the body. Ashwagandha powder reduces the level of cortisol and helps to reduce stress and its associated problems like anxiety[3].
+ayurvedicAyurvedic View	According to Ayurveda, anxiety is associated with aggravated Vata dosha, so one must concentrate on pacifying excess Vata in the body. Ashwagandha has the property of balancing Vata dosha and is good for managing anxiety.
+What are the benefits of Ashwagandha for Male infertility?
+scientificModern Science View	Ashwagandha is a potent aphrodisiac and might help in stress-induced male infertility by improving the level of testosterone. Ashwagandha has antioxidant property and fights against the free radicals. This prevents damage and death of sperm cells leading to better sperm count and quality. Thus Ashwagandha helps to lower the risk of stress-induced male infertility along with enhancing male sexual health[7].
+
+ayurvedicAyurvedic View	Ashwagandha helps to reduce stress-induced male infertility by lowering stress. This is due to its Vata balancing property. It also helps to reduce the chance of male infertility by improving sperm quality and quantity. This is because of its Vrishya (aphrodisiac) property.
+Tip:
+1. Take 1/4-1/2 teaspoon of Ashwagandha root powder along with ghee, sugar and honey daily for a month once or twice a day to improve sperm quality.
+2. Or, mix 1/4-1/2 teaspoon of Ashwagandha root powder in a glass of warm milk. Drink this at bedtime.
+What are the benefits of Ashwagandha for Diabetes?
+scientificModern Science View	Ashwagandha might control blood sugar in diabetic patients by increasing insulin production and improving insulin sensitivity.
+Studies state that Ashwagandha makes the cells less resistant to insulin. This improves insulin sensitivity and increases glucose utilization by the cells. Ashwagandha also protects and increases the number of the insulin-producing cells thus increasing insulin secretion. Together, it helps to manage the risk of diabetes[12-14].
+Tip:
+1. Take 1 glass of milk and 1/2 a glass of water in a pan and bring it to boil.
+2. Add 1/4-1/2 teaspoon of Ashwagandha root powder and boil for another 5 minutes.
+3. Add crushed almonds and walnut (around 2 teaspoons) to the mixture.
+4. Drink this mixture to manage blood sugar level.
+ayurvedicAyurvedic View	According to Ayurveda, there are two types of diabetes therapy. One is Aptarpana (de-nourishment) and Santarpana (replenishment). Aptarpana treatment is useful in obese diabetics with Kapha body type and Santarpana treatment is useful in lean diabetics usually with Vata or Pitta type body. Ashwagandha works on both types of therapies by balancing Vata and Kapha dosha.
+Tip:
+Take 1 Ashwagandha capsule or tablet twice a day with milk or warm water after 2 hours of meals along with your existing treatment.
+
+What are the benefits of Ashwagandha for Arthritis?
+scientificModern Science View	Ashwagandha might reduce pain associated with arthritis.
+Studies state that Ashwagandha has analgesic property. It is seen that the roots and leaves of Ashwagandha contain withaferin A which inhibits the production of pain mediators such as prostaglandins. This reduces the pain and inflammation associated with arthritis[17-20].
+
+ayurvedicAyurvedic View	Ashwagandha is useful to manage pain in arthritis. According to Ayurveda, arthritis occurs due to an aggravation of Vata dosha and is known as Sandhivata. It causes pain, swelling, and joint mobility. Ashwagandha powder has Vata balancing property and gives relief from the symptoms of arthritis-like pain and swelling in the joints.
+Tip:
+1. Take 1/4-1/2 teaspoon of Ashwagandha root powder.
+2. Mix it in 1 glass of milk.
+3. Drink this thrice a day.
+4. Continue for at least 1-2 months for better results.
+What are the benefits of Ashwagandha for Hypertension (high blood pressure)?
+scientificModern Science View	Ashwagandha may improve the individual’s ability to deal with stress and stress-related problems like high blood pressure.
+Stress increases the secretion of adrenocorticotropic hormone (ACTH) which in turn increases the cortisol levels (stress hormone) in the body. Ashwagandha powder reduces the level of cortisol and helps to reduce stress and its associated problems like high blood pressure[3].
+Tip:
+1. Take 1/4-1/2 teaspoon of Ashwagandha root powder in a cup of water.
+2. Boil the mixture in a pan for at least 10 minutes.
+3. Add a few drops of lemon and 1 teaspoon of honey to enhance the taste.
+4. Drink this mixture once a day in the morning.
+ayurvedicAyurvedic View	Hypertension is known as Rakta Gata Vata in Ayurveda which means elevated pressure of the blood in the arteries. The aim of Ayurvedic treatment for hypertension is identifying the root cause of the condition and then taking herbs that can eradicate the problem from its roots. Stress or anxiety is also a root cause of hypertension and taking Ashwagandha helps to reduce stress or anxiety and thus control high blood pressure.
+Tip:
+Start with 1 capsule or tablet of Ashwagandha two hours after meals with milk. Also, monitor your blood pressure regularly while taking Ashwagandha with other antihypertensive drugs.
+What are the benefits of Ashwagandha for Parkinson's disease?
+scientificModern Science View	Ashwagandha might be useful in Parkinson’s disease.
+Parkinson’s disease is due to damage of the nerve cells which affects movement, muscle control and balance of the body. Ashwagandha prevents damage of nerve cells due to its antioxidant property. This reduces the risk of Parkinson and its associated problems[21-23].
+ayurvedicAyurvedic View	Ashwagandha helps to control the symptoms of Parkinson’s disease.
+A disease condition 'Vepathu' described in Ayurveda may be correlated with Parkinson's disease. It is caused by vitiated Vata. Taking Ashwagandha powder balances Vata and also helps to reduce the degeneration of cells which controls the symptoms of Parkinson’s disease.
+How effective is Ashwagandha?
+Insufficient evidence	Anxiety, Arthritis, Diabetes, Hypertension (high blood pressure), Male infertility, Parkinson's disease, Stress
+Precautions when using Ashwagandha
+Advice from Experts
+Important
+scientificModern Science View	Ashwagandha may cause gastrointestinal disturbances, so please consult a doctor before taking Ashwagandha or its supplements if you are suffering from peptic ulcer[26].
+ayurvedicAyurvedic View	Ashwagandha may cause gastrointestinal disturbances. So it is generally advisable to use Ashwagandha with caution in people with Pitta and Ama imbalance.
+Breastfeeding
+Important
+scientificModern Science View	Due to lack of scientific evidence, Ashwagandha should be avoided if you are breastfeeding[26].
+ayurvedicAyurvedic View	Ayurvedic doctor supervision is needed while taking Ashwagandha during breastfeeding, self medication should be avoided.
+Minor Medicine Interaction
+scientificModern Science View	Ashwagandha increases the production of thyroid hormones(T4). So it is generally advisable to monitor your thyroid levels regularly while taking Ashwagandha along with hyperthyroidism drugs[4].
+Moderate Medicine Interaction
+Important
+scientificModern Science View	1. Ashwagandha may possess immunomodulatory effects. So it is advisable to consult a doctor if you are taking Ashwagandha or its supplements along with immunomodulatory drugs[26].
+2. Ashwagandha may cause sedation. So it is advisable to consult a doctor before taking Ashwagandha or its supplements along with sedatives as it may cause excessive sleepiness[4].
+
+
+Patients with diabetes
+scientificModern Science View	Ashwagandha may lower blood glucose levels. So it is generally advisable to monitor the sugar levels regularly if you are taking Ashwagandha or its supplements along with other anti-diabetic drugs[26].
+Patients with heart disease
+scientificModern Science View	Ashwagandha may lower blood pressure. So it is generally advisable to monitor the blood pressure regularly if you are taking Ashwagandha or its supplements along with anti-hypertensive drugs[26].
+Patients with kidney disease
+Important
+scientificModern Science View	Ashwagandha has diuretic properties. This might lead to kidney lesions (abnormal growth in the kidney). So please consult a doctor before taking Ashwagandha or its supplements if you already have kidney problems[26].
+Pregnancy
+Important
+scientificModern Science View	Avoid Ashwagandha during pregnancy as it may increase uterine contractions[26].
+ayurvedicAyurvedic View	Consult an Ayurvedic doctor before taking Ashwagandha during pregnancy, self-medication should be avoided.
+Side Effects
+Important
+scientificModern Science View	1. Sedation
+2. Low blood pressure
+3. Diarrhea
+4. Nausea
+5. Abdominal pain[26]
+alcohol
+scientificModern Science View	Ashwagandha may cause sedation. Avoid consuming alcohol while taking Ashwagandha as it may cause excessive sleepiness.[28].
+Recommended Dosage of Ashwagandha
+Ashwagandha Tablet - 1 tablet twice a day or as prescribed by the doctor
+Ashwagandha Capsule - 1 capsule twice a day or as prescribed by the doctor.
+Ashwagandha Churna - 1/4-1/2 teaspoon twice a day or as prescribed by the doctor.
+How to use Ashwagandha
+1. Ashwagandha Tablets
+Take 1 Ashwagandha tablet or as prescribed by the doctor
+with warm milk or water after taking food twice a day.
+
+2. Ashwagandha Capsules
+Take 1 Ashwagandha capsule or as prescribes by the doctor
+with warm milk or water after taking food twice a day.
+
+3. Ashwagandha Powder (Churna)
+a. With milk or honey
+Take 1/4-1/2 teaspoon Ashwagandha powder (churna) with milk or honey or as prescribed by the doctor.
+
+b. Ashwagandha Tea
+i. Add 1 teaspoon of Ashwagandha powder to 2 cups of water.
+ii. Bring it to a boil.
+iii. Boil until it reduces to 1/2 of the original quantity.
+iv. Add some milk and honey to it.
+v. Drink once a day.
+vi. You can skip honey in case of high blood sugar level.
+
+c. Ashwagandha Milkshake
+i. Roast 4 tablespoons of Ashwagandha powder (churna) in 1 cup of pure ghee.
+ii. Add 1-2 teaspoon honey to it.
+iii. To consume, add 1 teaspoon of this powder to 1 glass of cold milk.
+iv. Blend it well and drink immediately for better taste.
+v. You can store this mixture in the refrigerator and use when needed[29].
+vi. Skip honey in case of high blood sugar level.
+
+d. Ashwagandha Ladoo
+i. Take 2 tablespoons of Ashwagandha powder (churna).
+ii. Add 1 tablespoon of jaggery powder to it.
+iii. Add a pinch of black salt and pepper to the mixture to enhance the taste.
+iv. Knead the mixture evenly and properly.
+v. Make round shape laddu with the above mixture in a circular motion between your palms[30].
+vi. You can store them in the refrigerator for 3-4 days.
+
+e. Ashwagandha Shrikhand
+i. Take 250 gms thick curd.
+ii. Put the curd in a muslin cloth to drain all the water to get hung curd.
+iii. Remove the hung curd from muslin cloth and keep it in the refrigerator.
+iv. Divide the hung curd into 4 parts.
+v. Add sugar/honey as per your taste and 1 tablespoon Ashwagandha powder to each part.
+vi. You can also add some dry fruits and cardamom powder to enhance its taste.
+vii. Knead each portion well to make it smooth.
+viii. Cool it in the refrigerator for some time.
+ix. You can replace sugar or honey with jaggery[31].
+Frequently asked questions
+Q. In what forms Ashwagandha is available?
+scientificModern Science View	Ashwagandha is available in 3 forms:
+1. Powder (Churna)
+2. Capsules
+3. Tablet
+Q. How to take Ashwagandha extract?
+ayurvedicAyurvedic View	Generally, Ashwagandha extract is available in the form of capsules or tablets in the market. Ashwagandha extract can be taken 600-1200 mg/day. 1-2 capsule or tablet can be taken once a day.
+Q. How to use Ashwagandha oil?
+ayurvedicAyurvedic View	Ashwagandha oil is said to pacify Vata and Kapha doshas and increase Pitta energy. Ashwagandha oil is safe to use locally and for full body massages.
+Tip:
+1. Take some oil in your palm and apply generously over the affected area.
+2. Massage the oil.
+3. Cover your body immediately after using this oil.
+4. Avoid body contact to cold weather immediately after massaging with Ashwagandha oil.
+Q. How to take Ashwagandha powder?
+ayurvedicAyurvedic View	You can take Ashwagandha powder with either milk or honey.
+i. Take 1/4-1/2 teaspoon Ashwagandha powder along with 1 cup lukewarm milk or 1 teaspoon honey.
+ii. Take it preferably 2 hours after meals.
+References
+The Ayurvedic Pharmacopoeia Of India. Part 1 Volume 1.
+Singh N, Bhalla M, de Jager P, et al.An overview on Ashwagandha:A rasayana (rejuvenator) of Ayurveda.Afr J Tradit Complement Altern Med.2011;8:208-13.
+Chandrasekhar K, Kapoor J, Anishetty S. “A prospective, randomized double-blind, placebo-controlled study of safety and efficacy of a high-concentration full-spectrum extract of Ashwagandha root in reducing stress and anxiety in adults.”Indian J. Psychol Med.2012;34(3):255.
+WebMD.Ashwagandha:Uses, Side effects, Interactions, Dosage [Internet]. Atlanta [last updated in 2016].
+Moyer AE, Rodin J, Grilo CM, et al. Stress-induced cortisol response and fat distribution in women.Obes Res.1994;2(3):255-262.
+Khedgikar V, Kushwaha P, Gautam J, et al. Withaferin A: A proteasomal inhibitor promotes healing after injury and exerts anabolic effect on osteoporotic bone.Cell Death Dis.2013;4:e778.
+Shukla KK, Mahdi AA, Mishra V, et al.Withania somnifera improves semen quality by combating oxidative stress and cell death and improving essential metal concentrations.Reprod Biomed Online. 2011;22(5):421-427.
+Sachan S, Mishra HS, Yadav KN.Ashwagandha: Solution to stress and insomnia.IJAMY. 2015;8(3):153-159.
+Kushwaha S, Betsy A, Chawla P. Effect of Ashwagandha (Withania somnifera) root powder supplementation in treatment of hypertension. Ethno Med.2012;6(2):111-115.
+Modi MB, Donga SB, Dei L. Clinical evaluation of Ashokarishta, Ashwagandha Churna and Praval Pishti in the management of menopausal syndrome. Ayu.2012;33(4):511-6
+Gannon JM, Forrest PE, Chengappa KNR. Subtle changes in thyroid indices during a placebo-controlled study of an extract of Withania somnifera in persons with bipolar disorder. J Ayurveda Integr Med. 2014;5(4):241–245.
+Andallu B, Radhika B. Hypoglycemic, diuretic and hypocholesterolemic effect of winter cherry (Withania somnifera, Dunal) root. Indian J Exp Biol. 2000:607-609.
+Anwer T, Sharma M, Pillai KK, et al. Effect of Withania somnifera on Insulin Sensitivity in Non Insulin Dependent Diabetes Mellitus Rats.Basic Clin Pharmacol Toxicol. 2008;102(6):498-503.
+Anwer T, Sharma M, Pillai KK, Khan G.Protective effect of Withania somnifera against oxidative stress and pancreatic beta-cell damage in type 2 diabetic rats.Acta Pol Phar.2012;69(6):1095-1101.
+Pradhan SL, Pradhan PS.Ayurvedic medicine and anaesthesia.Indian J Anaesth. 2011; 55(4): 334–339.
+Mahdi AA, Shukla KK, Ahmad MK, et al.Withania somnifera improves semen quality in stress-related male fertility.Evid Based Complement Alternat Med.2011.
+Prince SE, Sonal C, Khan RM. Evaluation of analgesic, antipyretic and ulcerogenic effect of Withaferin A. Int J Integr Biol. 2009;6(2):52–56.
+Twaij HAA., Elisha EE, Khalid RM.Analgesic studies on some Iraqi medicinal plants.Int J Crude Drug Res.1989;27:109–112.
+Chandra LM.Rheumatoid Arthritis, Osteoarthritis, and Gout.Scientific Basis for Ayurvedic Therapies.Boca Raton: CRC Press LLC.2004;10:167-184.
+Giri KR.Comparative study of anti-inflammatory activity of Withania somnifera (Ashwagandha) with hydrocortisone in experimental animals (Albino rats).Journal of Medicinal Plants Studies.2016;4(1):78-83.
+Nagashayana N, Sankarankutty P, Nampoothiri MRV, et al. Association of l-DOPA with recovery following Ayurveda medication in Parkinson's Disease. J Neurol Sci.2000;176:124-127.
+McGeer E, Yasojima K, McGeer PL.Inflammation and the pathogenesis of Parkinson’s disease.British Columbia Medical Journal.2001;43(3):138-141.
+Sankar RS, Manivasagam T, Surendran S.Ashwagandha leaf extract:A potential agent in treating oxidative damage and physiological abnormalities seen in a mouse model of Parkinson’s disease.Neurosci Lett.2009;17;454(1):11-15.
+Choudhary D, Bhattacharyya S, Joshi K.Body Weight Management in Adults Under Chronic Stress Through Treatment With Ashwagandha Root Extract: A Double-Blind, Randomized, Placebo-Controlled Trial.Journal of Evidence-Based Complementary & Alternative Medicine.2017;22(1):96-106.
+Gupta A, Wamankar S, Gidwani B, et al.Herbal drugs for thyroid treatment.IJPBS.2016;6(1):62-70.
+Ulbricht CE.Natural Standard:Herb and Supplement Guide, An Evidence Based Reference.Elsevier;2010.
+Pais P, Villar A, Rull S.Determination of the potency of a novel saw palmetto supercritical CO 2 extract (SPSE) for 5α-reductase isoform II inhibition using a cell-free in vitro test system.Res Rep Urol.2016;8:41-49.
+Monograph: Withania somnifera.Alternative Medicine Review.2004;9(2):211-214.
+Singh N, Pandey R, Singh N, et.al.Utilization of Ashwagandha(W. somnifera) for development of value added products.2014.Asian J. Dairy & Food Res.2014;33(3):221-225.
+Viswaroopan D , Raj AGR, Shailaja U,et.al.Preparation of Ashwagandha (Withania Somnifera (L.) Dunal) ghee – A practical approach inspired by traditional knowledge.Pharma Innovation.2015;4(4):85-89.
+Landge UB, Pawar BK, Choudhari DM,et.al.Preparation of shrikhand using Ashwagandha powder as addictive.J Dairying Foods & HS.2011;30(2):79-84.
+Balkrishnan A.Ashwagandha.Ayurved Jadi Buti Rehsya.Danik Bhaskar.2017.
+Gaurav N, Kumar A, Tyagi M, et al.Morphology of withania somnifera (distribution, morphology, phytosociology of Withania somnifera L. Dunal).IJCSR.2015;1(7):164-173.
+Kaushik MK, Kaul SC, Wadhwa R, et al.Triethylene glycol, an active component of Ashwagandha (Withania somnifera) leaves, is responsible for sleep induction.PLoS One. 2017; 12(2): e0172508.
+Wankhede S, Langade D, Joshi K, et al.Examining the effect of Withania somnifera supplementation on muscle strength and recovery: a randomized controlled trial.J Int Soc Sports Nutr.2015;12:43.
+Dongre S, Langade D, Bhattacharyya S.Efficacy and safety of Ashwagandha (Withania somnifera) root extract in improving sexual function in women: A pilot study.Biomed Res Int. 2015.
+
+hilajit is a mineral based extract which is pale-brown to blackish-brown in color. It is found in the Himalayan rocks and is composed of a gummy substance. Shilajit contains humus, organic plant materials and fulvic acid. It consists of more than 84 minerals including copper, silver, zinc, iron, and lead.
+Shilajit is a health rejuvenator that improves sexual stamina and also improves energy levels. This helps manage chronic fatigue, tiredness, lethargy and fatigue due to diabetes. Shilajit is known to improve the testosterone level and enhance male fertility. It is also beneficial in anemia and memory loss[2][5][6][13].
+What are the synonyms of Shilajit?
+Asphaltum punjabinum, Black bitumen, Mineral pitch, Memiya, Silajat, Shilajatu, Silajatu, Kanmandam, Saileya Shilaja, Shiladhatuja, Shilamaya, Shilasweda, Shilaniryasa, Asmaja, Asmajatuka, Girija, Adrija, Gaireya [1]
+What is the source of Shilajit?
+Metal & Mineral based
+Benefits of Shilajit
+What are the benefits of Shilajit for Fatigue?
+scientificModern Science View	Fatigue occurs when your body cells do not produce enough energy. Shilajit is used as a revitalizer to enhance physical performance and relieve fatigue. This is due to the presence of fulvic and humic acid which helps the mitochondria present in the cells to produce energy[13].
+ayurvedicAyurvedic View	Shilajit is useful in managing fatigue in the day to day life. Fatigue refers to a feeling of tiredness, weakness or lack of energy. According to Ayurveda, fatigue is referred to as 'Klama' which is due to imbalance in the Kapha dosha. Shilajit helps to reduce fatigue due to its Balya (strength provider) and Rasayana (rejuvenating) properties. It also helps balance Kapha and thus reduce fatigue.
+Tip:
+1. Take 1 Shilajit capsule with lukewarm milk after meals.
+2. Continue this once a day for 2-3 months for better results.
+What are the benefits of Shilajit for Alzheimer's disease?
+scientificModern Science View	Shilajit might reduce the risk of Alzheimer’s disease. In Alzheimer’s patients, there is an increase in the production of a protein called amyloid beta protein leading to the formation of amyloid plaques or clusters in the brain. A study states that fulvic acid present in Shilajit can reduce the formation of amyloid plaques in the brain. This might make Shilajit a promising therapy for Alzheimer’s disease[10].
+ayurvedicAyurvedic View	Alzheimer's disease is an age-related, irreversible, nervous disorder. Some of the symptoms of Alzheimer's disease are memory loss and a change in behavior.
+Shilajit helps to reduce the symptoms of Alzheimer's disease by balancing Vata dosha. It also has Rasayana (rejuvenating) property that reduces weakness of the nervous system and improves its functioning.
+Tip:
+1. Take 2-4 pinch of Shilajit powder.
+2. Mix it with honey or take with lukewarm milk.
+3. Take it twice a day after meals.
+What are the benefits of Shilajit for Respiratory tract infection?
+scientificModern Science View	Shilajit might help manage respiratory tract infections most prevalent in children. A study states that Shilajit can act against HRSV, a virus that causes respiratory tract infections commonly in children due to its antiviral property[11].
+ayurvedicAyurvedic View	Shilajit helps to remove the obstruction in the respiratory tract. This is because the main doshas involved in respiratory problems are Vata and Kapha. The vitiated Vata combines with deranged Kapha dosha in the lungs causing obstruction in the respiratory passage.
+Shilajit helps to balance Vata-Kapha and remove the obstruction in the respiratory passage. It also helps to increase immunity to fight against infection due to its Rasayana (rejuvenating) property.
+Tip:
+1. Take 2-4 pinch of Shilajit powder.
+2. Mix it with honey.
+3. Take it twice a day after meals.
+What are the benefits of Shilajit for Cancer?
+scientificModern Science View	Free radicals which are generated during cancer chemotherapy can damage the normal cells around the vicinity of the tumor cell. This makes cancer treatment painful. Fulvic and humic acid present in Shilajit destroys the free radicals with its antioxidant property. This helps in minimizing the pain in cancer treatment[12].
+ayurvedicAyurvedic View	In Ayurveda, Cancer is described as inflammatory or non-inflammatory swelling and is called either as ‘Granthi’ (minor neoplasm) or ‘Arbuda‘ (major neoplasm).
+In the case of cancer, all three doshas, Vata-Pitta-Kapha gets out of control. This leads to a loss in mutual coordination among cells leading to tissue damage. Shilajit helps to build mutual coordination and prevents tissue damage because of its Balya (strength provider) and Rasayana (rejuvenating) properties.
+What are the benefits of Shilajit for Heavy metal toxicity?
+scientificModern Science View	Shilajit might help detoxify the body because of the presence of fulvic and humic acids as they are porous in nature. They absorb harmful chemicals and toxins that build up in the body including heavy metals like lead and mercury and eliminates them[2].
+What are the benefits of Shilajit for Hypoxia (low oxygen in tissues)?
+scientificModern Science View	Hypoxia is a condition in which the body or some parts of the body do not receive enough oxygen. This might be due to an inadequate amount of blood in the body or inability of blood to carry enough oxygen. Fulvic acid present in Shilajit helps in blood formation and enhances the oxygen-carrying capacity of the blood. Thus, it helps prevent hypoxia[2].
+ayurvedicAyurvedic View	Shilajit is known as Yogavahi which means it has the ability to enhance the absorption of elements like iron as well as improves the oxygen-carrying capacity of blood.
+Tip:
+1. Take 1 Shilajit capsule.
+2. Swallow it with lukewarm milk after meals, twice a day.
+How effective is Shilajit?
+Insufficient evidence	Alzheimer's disease, Cancer, Fatigue, Heavy metal toxicity, Hypoxia (low oxygen in tissues), Respiratory tract infection
+FAQs about Shilajit benefits
+down-arrowCan Shilajit help in High-Altitude Cerebral Edema (HACE)?down-arrowCan Shilajit be used to treat anemia?down-arrowWhat are the benefits of Shilajit gold for men?down-arrowCan Shilajit slow down the aging process?down-arrowWhat are some of the best Shilajit brands?down-arrowCan Shilajit cause constipation?
+Precautions when using Shilajit
+Advice from Experts
+scientificModern Science View	Shilajit might increase the activity of the immune system. So it is generally advisable to consult a doctor before you take Shilajit if you are suffering from immunological disorders like multiple sclerosis, systemic lupus erythematosus (SLE) and rheumatoid arthritis(RA)[2].
+Tip:
+Use black pepper and ghee for managing Shilajit associated complications.
+ayurvedicAyurvedic View	Shilajit might impact the uric acid levels in the body. So it is generally advised to monitor the uric acid levels regularly if you are taking Shilajit or Shilajit supplements along with uric acid-lowering drugs[9].
+Breastfeeding
+scientificModern Science View	Avoid Shilajit or Shilajit supplements if you are breastfeeding due to lack of scientific evidence[4].
+Patients with diabetes
+scientificModern Science View	Shilajit may lower blood glucose level. So it is generally advised to monitor the blood glucose level regularly if you are taking Shilajit or Shilajit supplements along with anti-diabetic drugs[9].
+Pregnancy
+scientificModern Science View	Avoid Shilajit or Shilajit supplements during pregnancy due to lack of scientific evidence[4].
+Side Effects
+Important
+ayurvedicAyurvedic View	Due to its hot potency, high dose of Shilajit can lead to a burning sensation in the body due to an imbalance of Pitta Dosha.
+Recommended Dosage of Shilajit
+Shilajit Powder - 2-4 pinch once a day or as directed by the doctor.
+Shilajit Capsule - 1 capsule twice a day or as directed by the doctor.
+Shilajit Tablet - 1 tablet twice a day or directed by the doctor.
+How to use Shilajit
+1. Shilajit Powder
+a. Take 2-4 pinch of Shilajit Powder.
+b. Mix it with honey or take with lukewarm milk.
+c. Take it twice a day after meals[5].
+
+2. Shilajit Capsule
+a. Take 1 Shilajit capsule.
+b. Swallow it with lukewarm milk after meals, twice a day[5].
+
+3. Shilajit Tablet
+a. Take 1 Shilajit Tablet.
+b. Swallow it with lukewarm milk after meals, twice a day.
+
+4. Shilajit Black Tea
+a. Put 1.5 cups of water in a pan.
+b. Add ½ teaspoon of tea and bring it to boil for 5 minutes.
+c. Strain and add 2 pinch of Shilajit powder.
+d. Mix well and drink Shilajit tea in the morning[7].
+Frequently asked questions
+Q. How to store Shilajit?
+scientificModern Science View	Shilajit should be stored in a cool and dry place at room temperature.
+Q. Can I take Shilajit with Ashwagandha?
+ayurvedicAyurvedic View	It is advisable to consult a doctor before taking Shilajit with Ashwagandha. This is because both the ingredients have some common properties of strengthening the body. Taking Shilajit with Ashwagandha would exert a stronger effect on the body. Apart from this, the nature of your body and the status of digestive fire also plays a deciding factor in this.
+Q. Can women take Shilajit gold capsule?
+ayurvedicAyurvedic View	Yes, women can take Shilajit gold capsule to maintain a healthy body. Shilajit helps to reduce joint pain and general weakness because of its Vata balancing, Balya and Rasayana (rejuvenating) properties.
+Q. Can shilajit be taken in summers?
+scientificModern Science View	Yes, Shilajit can be taken in any season including summers. Although, it is advisable to consult your doctor before taking it.
+ayurvedicAyurvedic View	Shilajit can be taken in all seasons as it has Rasayana (rejuvenating) property. Even though it has Ushna Veerya (hot potency), it’s Laghu Guna (light in digestion) property makes it easily digestible if taken in adequate dosage in all seasons.
+Q. Can Shilajit help in High-Altitude Cerebral Edema (HACE)?
+scientificModern Science View	High-Altitude Cerebral Edema (HACE) occurs when there is a swelling in the brain tissue due to low atmospheric pressure in high altitudes. Shilajit has diuretic property and removes excess fluids from the whole body including the brain. This might reduce swelling of the brain tissue and problems associated with HACE like loss of coordination and feeling of unconsciousness[2].
+Q. Can Shilajit be used to treat anemia?
+scientificModern Science View	Yes, Shilajit is useful in case of anemia. Iron deficiency in the body leads to anemia or low red blood cell count. Fulvic acid in Shilajit helps in the absorption of iron making it available to the bone marrow cells for formation of blood[2][6]. This helps reduce the symptoms of anemia.
+Q. What are the benefits of Shilajit gold for men?
+scientificModern Science View	Shilajit gold is beneficial for men in reducing the risk of fertility problems. Shilajit gold contains a biologically active substance di-benzo-alpha-pyrone (DBP) which is known to increase the sperm count. Studies state that Shilajit might also improve sperm motility and the level of testosterone in males[5].
+ayurvedicAyurvedic View	Shilajit acts as Balya (tonic) and has Rasayana (rejuvenating) properties. This helps in improving energy levels and libido.
+Q. Can Shilajit slow down the aging process?
+scientificModern Science View	Shilajit might help slow down the aging process. Fulvic acid present in Shilajit has an antioxidant property which destroys free radicals in the body and prevents cell damage. Oral consumption of Shilajit helps protect the skin from premature aging by reducing fine lines and wrinkles[7].
+ayurvedicAyurvedic View	Shilajit helps to reduce the signs of aging such as fine lines and wrinkles. According to Ayurveda, it is due to an aggravated Vata and quick degeneration of cells. Shilajit helps in controlling the signs of aging because of its Balya (strength provider) and Rasayana (rejuvenating) properties. It helps to prevent the degeneration of cells and slow down the aging process.
+Q. What are some of the best Shilajit brands?
+scientificModern Science View	Some of the best selling Shilajit brands in India are:
+1. Dabur Shilajit Gold
+2. Patanjali Shilajit
+Q. Is Shilajit gold safe?
+scientificModern Science View	Shilajit gold is safe to take but consult your doctor if you have any health problems and in case of pregnancy or breastfeeding. It contains humic and fulvic acid, amino acids, trace elements, vitamins and enzymes. These constituents help your body to absorb nutrients from the food you eat. This helps reduce weakness and rejuvenates your body.
+Q. Can Shilajit cause constipation?
+scientificModern Science View	No, Shilajit does not cause constipation. It contains many components having potent antioxidant property. Certain antioxidants neutralize and eliminate harmful chemicals and toxins from the body. Due to this, it is a rare possibility that Shilajit might cause constipation. However, different supplements act differently in every individual therefore it is advisable to consult your doctor before starting any health supplement[14].
+References
+Dr. Reddy PS, ed. “Shilajatu”.A Textbook of Rasashastra.2017.
+Meena H, Pandey HK, Arya MC, et al.Shilajit: A panacea for high-altitude problems.Int J Ayurveda Res.2010;1(1):37–40.
+Khaksari M, Mahmmodi R, Shahrokhi N, et al.The effects of shilajit on brain edema, intracranial pressure and neurologic outcomes following the traumatic brain injury in rat.Iran J Basic Med Sci.2013;16(7):858-864.
+WebMD.Fulvic Acid:Uses, Side effects, Interactions, Dosage [Internet]. Atlanta [last updated in 2016].External Link
+Pandit S, Biswas S, Jana U, et al.Clinical evaluation of purified Shilajit on testosterone levels in healthy volunteers.Andrologia.2016;48(5):570-575.
+C Velmurugan, B VIvek, E Wilson, et al.Evaluation of safety profile of black shilajit after 91 days repeated administration in rats.Asian Pac J Trop Biomed.2012;2(3):210-214.
+Gallardo CC, Guzman L, Maccioni RB.Shilajit : A natural phytocomplex with potential procognitive activity.International Journal of Alzheimer’s Disease.2012:4.
+Bansal P, Banerjee S.Effect of Withinia somnifera and shilajit on alcohol addiction in mice.Pharmacogn Mag.2016;12(2):S121–S128.
+Patel DV, Chandola H, Baghel MS, et al.Clinical efficacy of Shankhapushpi and a herbo-mineral compound in type-II diabetes.Ayu.2012;33(2):230–237.
+Cornejo A1, Jiménez JM, Caballero L, et al.Fulvic acid inhibits aggregation and promotes disassembly of tau fibrils associated with Alzheimer's disease.J Alzheimers Dis. 2011;27(1):143-53.
+Cagno V, Donalisio M, Civra A, et al.In vitro evaluation of the antiviral properties of Shilajit and investigation of its mechanisms of action.J Ethnopharmacol. 2015;166:129-134.
+Pant K, Singh B, Thakur N.Shilajit: A humic matter panacea for cancer.International Journal of Toxicological and Pharmacological Research. 2012;4(2):17-25.
+Surapaneni DK, Adapa SR, Preeti K, et al.Shilajit attenuates behavioral symptoms of chronic fatigue syndrome by modulating the hypothalamic-pituitary-adrenal axis and mitochondrial bioenergetics in rats.J Ethnopharmacol.2012;143(1):91-99.External Link
+Carrasco-Gallardo C, Guzmán L, Maccioni RB. Shilajit: a natural phytocomplex with potential procognitive activity. Int J Alzheimers Dis. 2012;2012:674142.
+Disclaimer
+The content is purely informative and educational in nature and should not be construed as medical advice. Please use the content only in consultation with an appropriate certified medical or healthcare professional.
+
+Giloy, also known as Amrita or Guduchi in Hindi, is an herb that helps improve digestion and boost immunity. It has heart-shaped leaves that resemble betel leaves. All parts of the plant are used in Ayurvedic medicine. However, the stem is thought to have the most beneficial compounds. In the Ayurvedic textbook ‘Bhavaprakasha’, the properties of Giloy are described in below shloka:
+
+काश्मरी तुवरा तिक्ता वीर्योष्णा मधुरा गुरु।
+दीपनी पाचनी मेध्या भेदिनी भ्रमशोषजित्। दोषतृष्णाऽऽमशूलार्शोविषदाहन्धरापहा ॥
+तत्त्फलं बृंहणं वृष्यं गुरु केश्यं रसायनम्। वातपित्ततृषारक्तक्षयमूत्रविबन्धनुत् ॥
+स्वादु पार्क हिमं स्निग्धं तुवराम्लं विशुद्धिकृत् । हन्याद दाहतृषावातरक्तपित्तक्षतक्षयान् ॥ - भावप्रकाश
+
+Giloy is Titka (bitter) in taste and Ushna (hot) in potency. After metabolization, it becomes Madhura (sweet) and Guru (heavy) in nature. It has Deepan (appetizer) and Pachan (digestive) properties which help in improving digestion. Giloy also helps to reduce excessive thirst, pain, and burning sensation because of its Tridosha balancing property. Regular use of Giloy can boost energy and immunity because of its Balya (strength provider) and Rasayana (rejuvenating) qualities.
+The bitter taste of Giloy may help manage blood glucose levels in diabetic patients. Giloy also helps in weight management by improving overall metabolism.
+Drinking fresh Giloy juice helps to improve immunity and can be used to manage fevers due to its antipyretic activity. It also increases platelet count and might help in dengue fever.
+Giloy powder, Kadha (tea), or tablets can also be used for various skin problems as it helps to remove toxins from the body.
+You can apply Giloy leaf paste on the skin to fasten the wound healing process as it helps increase collagen production and skin regeneration[1-3][5].
+What are the synonyms of Giloy?
+Tinospora cordifolia, Guduchi, Madhuparni, Amruta, Amritavallari, Chhinnaruha, Chakralakshanika, Somvalli, Rasayani, Devnirmita, Gulvel, Vatsadani, Jwarari, Bahuchinna, Amrita
+What is the source of Giloy?
+Plant Based
+Benefits of Giloy
+What are the benefits of Giloy for Dengue?
+scientificModern Science View	Giloy is useful in managing dengue fever.
+It has anti-inflammatory and antipyretic (that reduce fever) properties. Regular intake of Giloy during dengue helps in improving the immune system. It also helps in increasing platelet count. Together, it helps to manage dengue fever[5][6].
+What are the benefits of Giloy for Fever?
+scientificModern Science View	Giloy is an anti-inflammatory, antipyretic (that reduce fever) herb and is useful in building up the immune system and the body's defense against infections. It enhances the activity of macrophages (the cells responsible for fighting foreign bodies as well as microorganisms) and thus helps in early recovery[1].
+ayurvedicAyurvedic View	Giloy helps in reducing fever due to its Javarghana (antipyretic) property. As per Ayurveda, there are two factors leading to high fever, first is Ama and second is any foreign particle or organisms. Giloy helps reduce fever by improving digestion and absorption due to its Deepan (appetizer) and Pachan (digestive) properties which in turn prevents the formation of Ama. It also improves immunity to fight foreign particles or organisms due to its Rasayana property.
+Tip:
+1. Take 2-3 teaspoon of Giloy Juice.
+2. Add the same quantity of water to it and drink it on an empty stomach in the morning once a day.
+What are the benefits of Giloy for Hay fever?
+scientificModern Science View	Giloy reduces the symptoms of Hay fever which is also known as allergic rhinitis. It reduces the symptoms like nasal discharge, sneezing, nasal itching, nasal obstruction. It also increases the count of the leukocytes (white blood cells) to fight against infection[4][11].
+ayurvedicAyurvedic View	Allergy occurs due to the imbalance of Kapha as a result of the accumulation of Ama (toxic remains in the body due to improper digestion) in the body. Giloy prevents the formation of Ama due to its Deepan (appetizer) and Pachan (digestive) nature and helps in balancing Kapha. It also helps improves immunity due to its Rasayana (rejuvenating) properties.
+
+Tip:
+1. Take 1/4-1/2 teaspoon of Giloy churna
+2. Add 1 teaspoon honey.
+3. Have it after lunch and dinner.
+What are the benefits of Giloy for Diabetes?
+scientificModern Science View	Giloy might be useful in managing diabetes by improving blood glucose levels. It also helps to manage diabetes-related complications such as ulcers, wounds, kidney damage due to its antioxidant and anti-inflammatory properties[2].
+ayurvedicAyurvedic View	Giloy helps control high blood sugar level and various diabetic complications by improving digestion and absorption due to its Deepan (appetizer) and Pachan (digestive) properties which in turn prevents the formation of Ama.
+Tip:
+Take 1/2 teaspoon of Giloy Churna twice a day with water after taking lunch and dinner.
+What are the benefits of Giloy for Liver disease?
+scientificModern Science View	Liver injury due to an overdose of alcohol can be managed by using Guduchi Satwa, an Ayurvedic formulation prepared from Giloy. It acts by lowering total cholesterol level in the liver. It also improves the level of antioxidant enzymes (reduces damage by free radicals) and oxidative-stress markers thereby enhancing overall liver function[9].
+ayurvedicAyurvedic View	Giloy helps to improve metabolism and liver functions due to its Deepan (appetizer) and Pachan (digestive) properties. Giloy also inhibits degeneration and promotes new cell growth due to its Rasayana (rejuvenating) quality.
+Tip:
+1. Take 2-3 teaspoon of Giloy Juice.
+2. Add the same quantity of water to it and drink it on an empty stomach in the morning once a day.
+What are the benefits of Giloy for Cancer?
+scientificModern Science View	Giloy might be useful in managing breast cancer because of its anti-proliferative property.
+Rutin and quercetin present in Giloy inhibit cell proliferation and growth of breast cancer cells due to its anti-cancer property. It also changes the expression of apoptotic genes and induces apoptosis (cell death) in breast cancer cells[8].
+ayurvedicAyurvedic View	Giloy might reduce the risk of cancer by balancing Vata-Pitta-Kapha and also by controlling the growth and spread of cancer cells. Giloy also prevents cell damage due to its Rasayana property.
+Tip:
+1. Take 2-3 teaspoon of fresh Giloy juice.
+2. Add the same quantity of water and drink it on an empty stomach in the morning.
+3. Continue for at least 2-3 months for better results.
+What are the benefits of Giloy for High cholesterol?
+ayurvedicAyurvedic View	Giloy helps to control high cholesterol level in the body by improving the metabolism and eliminating toxins from the body which are responsible for high cholesterol. This is due to its Deepan (appetizer), Pachan (digestive) nature and Rasayana (rejuvenating) properties.
+Tip:
+1. Take 2-3 teaspoons of Giloy juice.
+2. Add to 1 glass of water and drink it.
+What are the benefits of Giloy for Gout?
+ayurvedicAyurvedic View	Giloy is used in Vata rog like Gouty arthritis due to its Vata balancing and blood purifying actions.
+What are the benefits of Giloy for Rheumatoid arthritis?
+scientificModern Science View	Giloy might be beneficial for the management of pain and inflammation in arthritis.
+Giloy suppresses arthritic inflammation by inhibiting the production of pro-inflammatory cytokines (molecules that promote inflammation). In case of auto-immune disease, the body's own immune system attacks the body and Giloy is known to boost the immune system. When you take Giloy in case of autoimmune diseases, it may over-stimulate the immune system[4].
+What are the benefits of Giloy for Diarrhea?
+ayurvedicAyurvedic View	Giloy helps to reduce digestion related problems like indigestion, hyperacidity, and flatulence due to its Pachan (digestive) properties.
+Tip:
+1. Take 1/4-1/2 teaspoon of Giloy powder.
+2. Add to 1 glass of lukewarm water and mix well.
+3. Have it after lunch and dinner.
+How effective is Giloy?
+Likely effective	Dengue, Hay fever
+Insufficient evidence	Cancer, Diabetes, Diarrhea, Fever, Gonorrhea, Gout, High cholesterol, Liver disease, Lymphomas, Rheumatoid arthritis, Stomach ulcers, Syphilis
+FAQs about Giloy benefits
+down-arrowCan Giloy (Guduchi) cure asthma and cough?down-arrowCan Giloy juice act as a stress reliever?down-arrowCan Giloy (Guduchi) cure arthritis?down-arrowCan Giloy (Guduchi) help during aflatoxicosis (aflatoxin-induced poisoning) of the kidneys?down-arrowCan Giloy (Guduchi) juice help in weight loss?down-arrowIs Giloy useful in PCOS?
+Precautions when using Giloy
+Advice from Experts
+scientificModern Science View	Giloy may cause the immune system to become more active which could further increase the symptoms of autoimmune diseases. Therefore, it is advisable to avoid Giloy if you are suffering from autoimmune diseases such as rheumatoid arthritis, multiple sclerosis and lupus (systemic lupus erythematosus)[4].
+scientificModern Science View	Giloy may interfere with the blood sugar levels during or after surgery. Therefore, it is advisable to avoid Giloy at least 2 weeks before a scheduled surgery[4].
+Allergy
+scientificModern Science View	Use Giloy or its constituents only under a doctor’s supervision if you are allergic to it[4].
+Breastfeeding
+scientificModern Science View	Avoid medicinal use of Giloy during breastfeeding due to the lack of scientific evidence[4].
+Moderate Medicine Interaction
+scientificModern Science View	Giloy may cause the immune system to become more active. Therefore, it is advisable to avoid Giloy along with immunosuppressants[4].
+Patients with diabetes
+scientificModern Science View	Giloy may lower blood glucose level. So it is generally advised to monitor the blood glucose if you are taking Giloy along with anti-diabetic drugs[4].
+Pregnancy
+scientificModern Science View	Avoid medicinal use of Giloy during pregnancy due to the lack of scientific evidence[4].
+Side Effects
+Important
+scientificModern Science View	Giloy is safe when used for short-term and in the recommended dosage[4].
+FAQs about Giloy precautions
+down-arrowCan Giloy be taken if you have autoimmune disorders?down-arrowIs Giloy safe for kids?down-arrowCan I take Giloy Kadha for one year or lifetime?down-arrowCan I take Giloy juice on an empty stomach?down-arrowDoes Giloy cause constipation?
+Recommended Dosage of Giloy
+Giloy Juice - 2-3 teaspoon of juice, once or twice a day.
+Giloy Churna - ¼-½ teaspoon twice a day.
+Giloy Tablet - 1-2 tablet twice a day.
+Giloy Capsule - 1-2 capsule twice a day.
+Giloy Extract - 1 pinch twice a day.
+How to use Giloy
+1. Giloy Juice
+a. Take 2-3 teaspoon of Giloy juice.
+b. Add the same quantity of water.
+c. Drink it preferably before meals once or twice a day to boost your immunity[5].
+
+2. Giloy Satva
+a. Take 1 pinch of Giloy satva.
+b. Mix it with honey and take it twice a day after taking food, for effective relief in liver disorders[9].
+
+3. Giloy Churna
+a. Take ½ teaspoon of Giloy churna.
+b. Mix it with honey or drink it with lukewarm water.
+c. Take it preferably after meals twice a day.
+
+4. Giloy Kwath
+a. Take 1-2 teaspoon of Giloy powder.
+b. Add to 2 cups of water and boil it till the volume reduces to 1/2 cup.
+c. Drink it twice a day, preferably before or after lunch and dinner.
+
+5. Giloy Ghan Vati (Tablet)
+a. Take 1-2 Giloy Ghan vati.
+b. Swallow it with water after taking food twice a day.
+
+6. Giloy Capsule
+a. Take 1-2 Giloy capsule.
+b. Swallow it with water after taking food twice a day.
+Benefits of Giloy
+1. Wounds
+Giloy helps in healing of wound, cuts or abrasions due to its Kashaya (astringent) and Ropan (healing) properties.
+Tip:
+1. Make a fine paste of Giloy leaves.
+2. Add honey or rose water to it.
+3. Apply it on the affected area and leave it for at least 2-3 hours.
+4. Wash with plain water afterward.
+
+2. Eye Problem
+Giloy reduces the risk of eye problems like burning sensation, redness
+and itching due to its Kashaya (astringent) and Ropan (healing) nature.
+Tip:
+1. Boil some Giloy leaves in water.
+2. Let the water cool for some time.
+3. Apply this Giloy water over the eyelids.
+4. Wait for 10-15 minutes and wash your eyes with lukewarm water.
+
+3. Hair loss
+Giloy helps to control hair loss and dandruff because of its Katu (pungent) and Kashaya (astringent) nature. Giloy also helps in hair growth due to its Rasayana (rejuvenating) properties.
+Tip:
+1. Make a fine paste of Giloy leaves.
+2. Add honey or rose water to it.
+3. Apply it on the scalp and leave it for at least 2-3 hours.
+4. Wash it with any herbal shampoo.
+Precautions when using Giloy
+Allergy
+scientificModern Science View	Apply Giloy to a small area first to test for possible allergic reactions.
+scientificModern Science View	Always use Giloy or its constituents only under doctor’s supervision if you are allergic to Giloy.
+Tip:
+Use Giloy with honey or milk for external applications.
+Recommended Dosage of Giloy
+Giloy Juice - 1-2 teaspoon or as per your requirement.
+Giloy Powder - ¼-½ teaspoon or as per your requirement.
+How to use Giloy
+1. Giloy Paste with Milk
+a. Take ¼-½ teaspoon of Giloy powder.
+b. Mix it with milk and apply on the skin.
+c. Use this remedy 2-3 times a week to control blemishes and hyperpigmentation.
+
+2. Giloy Juice with Honey
+a. Take 1-2 teaspoon of Giloy juice.
+b. Mix it with honey and apply evenly on the skin.
+c. Use this remedy 2-3 times a week to control dryness and wrinkles.
+Frequently asked questions
+Q. What is Giloy satva and how it is prepared?
+ayurvedicAyurvedic View	According to Ayurveda, Satva is the process of extracting starch to use it for medicinal purpose.
+How to make Giloy Satva:
+1. Take Giloy stem and a vessel.
+2. Crush roughly and soak in enough water for about 6-8 hours in the vessel.
+3. After this, mash the stem properly to enable the release of starch into the water.
+4. Place the vessel undisturbed for sometime to allow the starch to settle down at the bottom.
+5. Take out the clear water carefully without disturbing the starch sediment.
+6. Dry this starch completely under shade to get Giloy Satva.
+
+Q. How to make Giloy kadha?
+ayurvedicAyurvedic View	Giloy Kadha (decoction) can be made by these two processes:
+1. Take a few fresh Giloy leaves or stem and boil them in water (400ml) till the water is reduced to one fourth. Cool the liquid and strain.
+2. In case of unavailability of fresh Giloy leaves or stem, you can buy Giloy powder from any Ayurvedic store. Use 1 tablespoon of the powder and boil it in 2 cups of water. Boil until the volume is reduced to one fourth. Cool and strain.
+Q. Can I consume Giloy and Amla Juice every morning and before bed?
+ayurvedicAyurvedic View	You can drink Giloy and Amla juice every morning but avoid taking at night. For better results, drink it on an empty stomach in the morning.
+Q. How to use Giloy leaves?
+scientificModern Science View	Giloy leaves are very beneficial for health. One can chew fresh leaves of Giloy for improving general health as well as to manage arthritis. You can also consume Giloy juice for skin diseases as it helps to flush out toxins from the body. Furthermore, consumption of a decoction made from boiling Giloy leaves helps to manage gout, fever and indigestion.
+ayurvedicAyurvedic View	Giloy leaves can be used as a decoction which is generally given in the conditions of indigestion, anorexia and nausea as its help improve digestion due to its Ushna (hot), Deepana (appetizer) and Pachana (digestion) properties. The leaves are used as a paste that can be applied on wounds as well as for problems like itching, burning or redness of the eyes. This is due to its Kashaya (astringent) and Ropana (healing) properties. Giloy leaves paste can also be applied on the scalp to prevent hair problems like hair fall due to its Katu (pungent) and Kashaya (astringent) properties.
+Q. Can we eat Giloy leaves?
+scientificModern Science View	Yes, Fresh leaves of Giloy can be chewed on a daily basis for maintaining a healthy body.
+Q. Can Giloy (Guduchi) cure asthma and cough?
+scientificModern Science View	Giloy is used for the management of asthma and chronic cough. It has good anti-inflammatory property and inhibits the response of pro-inflammatory agents (molecules that promote inflammation). This reduces the inflammation of air passages in case of asthma and cough. Giloy extract also controls mucus hypersecretion due to an increase in the number of goblet cells (cells which secretes mucus) associated with asthma[5].
+ayurvedicAyurvedic View	Giloy plant has an excellent result in Kapha related disorders like asthma, cough and nasal allergy. It works on Kapha related problems through two ways: Giloy helps to balance Kapha due to its Ushna Virya property and it boost the immune system to fight foreign particles or organisms due to its Rasayana property.
+Tip:
+Take 1-2 tablet of Giloy Ghan vati with honey after taking light food twice a day.
+Q. Can Giloy juice act as a stress reliever?
+scientificModern Science View	Giloy plant is also known as an adaptogenic (manages stress hormone) herb. It works by suppressing overactivation of the sympathetic nervous system thus reducing mental stress and anxiety. It exerts a calming effect on the mind[3].
+ayurvedicAyurvedic View	According to Ayurveda, stress or anxiety occurs due to involvement of aggravated Vata in the body. Giloy (Guduchi) has Vata balancing property because of which it helps reduce mental stress or anxiety and also suppresses hyperactive nervous system.
+Tips:
+1. Take 2-3 teaspoon of Giloy Juice.
+2. Add the same quantity of water to it and drink it on an empty stomach in the morning once a day.
+Q. Can Giloy (Guduchi) cure arthritis?
+scientificModern Science View	Giloy is useful for the management of arthritis. Giloy reduces inflammation in arthritis by inhibiting the production of pro-inflammatory cytokines (molecules that promote inflammation).
+It also stimulates the growth of osteoblasts (cells that helps in bone formation) thus helping in bone formation as well as prevents damage of bone and cartilage[1].
+However, Giloy is said to boost the immune system and might not be favorable in the case of rheumatoid arthritis (an autoimmune disease). In such a case, consult your doctor before taking Giloy or Giloy supplements[4].
+ayurvedicAyurvedic View	In Ayurveda, Giloy or Guduchi is one of the useful herbs for treating arthritis. Ayurveda believes that Ama has the main involvement in any types of arthritis and Giloy works to reduce Ama by improving digestion and absorption due to its Deepan (appetizer) and Pachan (digestive) properties. Giloy works on reducing Ama, thereby decreasing pain and swelling in the body.
+Tip:
+Take Giloy churna or Giloy Ghan vati twice a day with warm water after taking foods.
+Q. Can Giloy (Guduchi) help during aflatoxicosis (aflatoxin-induced poisoning) of the kidneys?
+scientificModern Science View	Giloy protects the kidneys against aflatoxin-induced nephrotoxicity (toxicity in the kidneys due to aflatoxin). This is due to the presence of alkaloids in it. Giloy has antioxidant property and destroys free radicals generated during aflatoxicosis thus preventing kidney damage[1].
+ayurvedicAyurvedic View	Giloy helps to improve kidney functions because of its Rasayana property. It also removes extra toxins by increasing blood flow to the kidney due to its Shodhan quality.
+Tip:
+Take 1-2 Giloy Ghan vati (tablet) after taking food.
+Q. Can Giloy be taken if you have autoimmune disorders?
+scientificModern Science View	It is advisable to consult a doctor before taking Giloy if you are having any autoimmune disorders like rheumatoid arthritis, systemic lupus erythematosus or other conditions.
+In the case of auto-immune disorders, the body's own immune system attacks the body and Giloy is known to boost the immune system. When you take Giloy in case of autoimmune diseases, it may over-stimulate the immune system[4].
+Q. Is Giloy safe for kids?
+scientificModern Science View	Giloy can be given to children for a short period of time to manage the loss of appetite, stomach problems, fever and to improve general debility[10].
+Q. Can Giloy (Guduchi) juice help in weight loss?
+ayurvedicAyurvedic View	Yes, Giloy juice helps to control weight when taken regularly for atleast 1-2 months. This is because an increase in weight is due to unhealthy food habits and lifestyle which leads to a weak digestive fire. This increases accumulation of Ama (toxic remains in the body due to improper digestion) causing an imbalance in Meda dhatu and thus resulting in obesity. Using Giloy helps to improve the digestive fire and reduces Ama which is the prime cause of obesity. This is due to its Deepan (appetizer) and Pachan (digestive) properties.
+Q. Is Giloy useful in PCOS?
+ayurvedicAyurvedic View	Although there are not enough scientific evidence on the direct use of Giloy for PCOS. It is said to improve the immunity of people with PCOS[12].
+Q. Is Giloy juice good for high blood pressure?
+ayurvedicAyurvedic View	Giloy juice helps to maintain overall health. According to Ayurveda, Giloy can help control high blood pressure due to digestive problems. Giloy improves metabolism and helps maintain a good digestive system. This helps reduce the risk of high blood pressure levels.
+
+Q. Can I take Giloy Kadha for one year or lifetime?
+ayurvedicAyurvedic View	Giloy or Giloy Kadha can be taken for various health benefits. But it is advisable to consult your doctor in order to know how long Giloy or Giloy kadha can be taken.
+Q. Can I take Giloy juice on an empty stomach?
+scientificModern Science View	Yes, Giloy juice can be taken on an empty stomach in the morning to manage fever, liver disorders and stress[1][9].
+
+Tip:
+1. Take 2-3 teaspoon of Giloy juice.
+2. Add the same quantity of water to it and drink it on an empty stomach in the morning once a day.
+
+Q. Does Giloy cause constipation?
+ayurvedicAyurvedic View	Generally, Giloy does not cause constipation but if you face this problem you can take Giloy powder with lukewarm water.
+
+Q. Does Giloy help boost immunity?
+scientificModern Science View	Yes, Giloy being an immunomodulator helps to regulate and strengthen immunity. It is due to the presence of certain chemical constituents like magnoflorine that activate the lymphocytes or immunity boosting cells. These cells further help the body to build immunity by fighting against disease causing pathogens[14][15].
+ayurvedicAyurvedic View	Yes, consuming Giloy helps to boost up your immunity due to its Rasayana (rejuvenation) property. This helps your body to develop the tendency to fight back against all viral or bacterial infections and maintain good internal health.
+Tips:
+1. Take 2-3 teaspoons of Giloy juice.
+2. Add the same quantity of water to it.
+3. Drink it preferably before meals once or twice a day to boost your immunity.
+Q. Does Giloy help improve your digestion system?
+scientificModern Science View	Yes, Giloy might help to improve the digestive system. This is due to the presence of a digestive enzyme known as amylase in the Giloy stem helps in the digestion of starch which is the main source of carbohydrates in the human diet. The conversion of dietary starch into glucose by amylase helps promote digestion[11].
+ayurvedicAyurvedic View	Yes, Giloy helps to manage the digestive system. Agnimandya (low digestive fire) is the main reason behind weak or poor digestion. Giloy helps to improve your digestion due to its Ushna (hot), Deepana (appetizer) and Pachana (digestion) properties. This helps to improve your Agni (digestive fire) and promote digestion while also enhancing your appetite.
+Q. Does Giloy help fight respiratory problems?
+scientificModern Science View	Yes, Giloy might be beneficial in fighting respiratory diseases due to the presence of certain constituents that possess antimicrobial property. It helps to fight respiratory infections-causing microbes keeping the respiratory system healthy[12].
+ayurvedicAyurvedic View	Respiratory problems generally occur due to an imbalance of Vata and Kapha dosha which might sometimes cause obstruction in the respiratory pathway by the formation and accumulation of mucus. Giloy helps to fight respiratory problems due to its Ushna (hot) and Vata-Kapha balancing properties. This helps to melt the mucus and clear all the obstructions resulting in normal breathing.
+Q. Does Giloy increase platelets?
+scientificModern Science View	Yes, Giloy helps improve the production of platelets from bone marrow due to the presence of certain phytochemical constituents as they possess antioxidant and immunomodulatory properties[16].
+ayurvedicAyurvedic View	Giloy helps improve platelets production. The Rasayana (Rejuvenating) property of Giloy helps increases the platelet counts and also improves the overall immunity of the body.
+Q. What are the health benefits of Giloy Stem?
+scientificModern Science View	Giloy stem possesses various benefits. Giloy being an immunomodulator helps to regulate and strengthen immunity. It’s stem also contains amylase, a digestive enzyme that helps in the digestion of starch which is the main source of carbohydrates in the human diet and thus promotes digestion[11].
+ayurvedicAyurvedic View	Giloy stem is useful in improving immunity. This provides strength to the body to fight against various infections. Taking Giloy stem juice improves the digestive system by increasing the digestive fire. It also helps to balance Tridosha (Vata-pitta-Kapha) that makes your overall body healthy and strong.
+Q. What are the benefits of Giloy for the skin?
+scientificModern Science View	Giloy is beneficial for the skin in many ways. Giloy has wound healing property due to the presence of certain compounds like phenolic compounds, glycosides, steroids etc. It works by increasing the tensile strength of the healing tissue which leads to collagen production and contraction of the wound. This helps in faster healing of the wound. Giloy also helps to manage insect and snake bites[13][14].
+ayurvedicAyurvedic View	Skin problems might occur due to an imbalance of any of the three doshas (Vata, Pita, Kapha), which might lead to inflammation, dryness, itching or irritation of the skin. Giloy helps to manage all these skin problems due to its Tridosha (Vata, Pitta and Kapha) balancing, Snigdha (oily), Kashaya (astringent) and Ropana (healing) properties. This leads to healthy and disease-free skin.
+References
+Saha S, Ghosh S.Tinospora cordifolia: One plant, many roles. Anc Sci Life. 2012; 31(4):151–159.
+Sharma R, Amin H, Prajapati K, et al.Antidiabetic claims of Tinospora cordifolia (Willd.) Miers: Critical appraisal and role in therapy.Asian Pac J Trop Biomed.2015;5(1):68-78.
+Upadhyay AK, Kumar K, Kumar A, et al.Tinospora cordifolia (Willd.) Hook. f. and Thoms. (Guduchi) – Validation of the Ayurvedic pharmacology through experimental and clinical studies.Int J Ayurveda Res.2010;1(2):112–121.",https://www.webmd.com/vitamins-supplements/ingredientmono-1157-tinospora%20cordifolia.aspx,"Lalla JK, Ogale S, Seth S. A review on dengue and treatments.RRJPTS.2014;2(4).
+Sharma V, Pandey D.Beneficial effects of Tinospora cordifolia on blood profiles in male mice exposed to lead.Toxicol Int.2010;17(1):8–11.
+Tiwari M, Dwivedi UN, Kakkar P.Tinospora cordifolia extract modulates COX-2, iNOS, ICAM-1, pro-inflammatory cytokines and redox status in murine model of asthma.J Ethnopharmacol.2014;153(2):326-37.
+Ansari JA, Rastogi N, Ahmad MK, et al.ROS mediated pro-apoptotic effects of Tinospora cordifolia on breast cancer cells.Front Biosci (Elite Ed).2017;9:89-100.
+Chavan T, Ghadge A, Karandikar M, et al.Hepatoprotective activity of Satwa, an Ayurvedic formulation, against alcohol-induced liver injury in rats.Altern Ther Health Med.2017;23(4):34-40.
+Mishra A, Kumar S, Pandey AK.Scientific validation of the medicinal efficacy of Tinospora cordifolia.Scientific World Journal.2013.
+Kalikar MV, Thawani VR, Varadpande UK, et al. Immunomodulatory effect of Tinospora cordifolia extract in human immuno-deficiency virus positive patients. Indian J Pharmacol.2008;40(3):107-110.
+Siriwardene SAD, Karunathilaka LPA, Kodituwakku ND, et al. Clinical efficacy of Ayurveda treatment regimen on Subfertility with Poly Cystic Ovarian Syndrome (PCOS).Ayu.2010;31(1): 24–27. External Link
+Mukherjee A, Sengupta S, Ray L et al.Evaluation of Tinospora cordifolia amylase as a commercial digestive enzyme of plant origin.Journal of Herbs, Spices & Medicinal Plants.2012;18(1):58-76.
+Mishra A, Kumar S, Pandey AK.Scientific validation of the medicinal efficacy of Tinospora cordifolia. The Scientific World Journal.2013:1-8.
+Barua CC, Talukdar A, Barua AG et al.Evaluation of the wound healing activity of methanolic extract of Azadirachta indica (neem) and tinospora cordifolia (guduchi) in rats.Pharmacologyonline.2010;1:70-77.External Link
+Saha S, Ghosh S.Tinospora cordifolia: one plant, many roles.Anc Sci Life.2012;31(4):151-9.External Link
+Mittal J.Tinospora cordifolia: a multipurpose medicinal plant- A review. Journal of Medicinal Plants Studies.2014;2(2):32-47. External Link
+Chauhan DS, Lata S, Sharma RK, et al. Evaluation of Role of Tinospora Cordifolia (T.cord.) In Experimentally Induced (Busulfan Induced) Thrombocytopenia In Rabbits.Indian journal of research.2016;5(6):96-99.External Link
+Disclaimer
+The content is purely informative and educational in nature and should not be construed as medical advice. Please use the content only in consultation with an appropriate certified medical or healthcare professional.
+
+
+Showing 1-18 of 18 results
+Acidity
+Acidity
+Acidity is one of the most common ailments that almost everyone experiences once ...
+Acne
+Acne
+Acne is a common condition that most of us have dealt with at some point in our ...
+Addison's disease
+Addison's disease
+Addison's disease is a rare disorder characterized by inadequate production of th...
+Airplane ear
+Airplane ear
+Have you experienced ear discomfort while flying, especially while the airplane i...
+Allergic conditions
+Allergic conditions
+Allergies are caused when the body’s immune system responds abnormally to an exte...
+Alzheimer's disease
+Alzheimer's disease
+Alzheimer's disease (AD) is a slowly progressive disorder of the brain that fades...
+Amenorrhea
+Amenorrhea
+Amenorrhea is defined as the absence of menstruation during the reproductive year...
+Anal fissure
+Anal fissure
+An anal fissure is a cut, crack, tear or open sore in the lining of the anus (th...
+Anaphylaxis
+Anaphylaxis
+Anaphylaxis is a severe, life-threatening allergic reaction that can affect multi...
+Anorexia Nervosa
+Anorexia Nervosa
+Anorexia nervosa, often simply referred to as anorexia, is a behavioral and life-...
+Anxiety
+Anxiety
+Anxiety disorders are the most common types of mental health conditions. Accordin...
+Appendicitis
+Appendicitis
+Appendix is a small, closed-ended, narrow pouch that projects from the large inte...
+Arthritis
+Arthritis
+Arthritis is a common condition that affects joints and bones (especially the kne...
+Ascites
+Ascites
+Ascites is a medical condition that results in the accumulation of fluids within ...
+Asthma
+Asthma
+Asthma is a long term condition in which air passages in the lungs become narrow ...
+Atopic dermatitis
+Atopic dermatitis
+Atopic dermatitis, or eczema, is a long-lasting skin condition causing itchy, re...
+Attention deficit hyperactivity disorder (ADHD)
+Attention deficit hyperactivity disorder (ADHD)
+ADHD is a mental health condition characterized by hyperactivity, impulsivity, an...
+Autism
+Autism
+Autism, now known as autism spectrum disorder (ASD), refers to a broad range of c...
+
+Showing 1-19 of 19 results
+Baby colic
+Baby colic
+Colic is referred to as long stretches of intense crying in otherwise healthy in...
+Back pain
+Back pain
+Back pain is one of the most common pain complaints that almost everyone has had ...
+Bacterial infections
+Bacterial infections
+Bacterial infections are caused by bacteria, a kind of microorganism that is made...
+Bacterial skin infections
+Bacterial skin infections
+Bacterial skin infections are common and caused by a wide variety of bacteria. Th...
+Bed-wetting
+Bed-wetting
+Bedwetting refers to the loss of urine during sleep at least twice a week in chil...
+Bell's palsy
+Bell's palsy
+Bell’s palsy, named after the scientist Sir Charles Bell, who described and resea...
+Benign prostatic hyperplasia
+Benign prostatic hyperplasia
+Benign prostatic hyperplasia (BPH) is a medical condition that commonly occurs in...
+Bipolar disorder
+Bipolar disorder
+Bipolar disorder is a mental illness that causes unusual shifts in mood, energy,...
+Black Hairy Tongue
+Black Hairy Tongue
+Black hairy tongue (BHT) is a relatively common, harmless condition that affects...
+Bloating
+Bloating
+A lot of people complain about gas trouble but don't take it seriously because th...
+Blood cancer
+Blood cancer
+Blood cancer is a group of diseases affecting the production and function of bloo...
+Body Ache
+Body Ache
+A feeling of generalized, dull aching pain all over the body that may or may not ...
+Body Odor
+Body Odor
+Body odor is a reasonably common condition. Most cases are related to poor person...
+Breast cancer
+Breast cancer
+Breast cancer is a type of cancer that forms in the cells of the breast, most com...
+Bronchitis
+Bronchitis
+Bronchitis is an inflammatory reaction of the lining of the bronchial tubes (or a...
+Bruxism
+Bruxism
+Bruxism is a condition marked by the habitual grinding or clenching of teeth, typ...
+Bulimia nervosa
+Bulimia nervosa
+Bulimia nervosa is a eating disorder characterised by episodes of binge eating a ...
+Bunions
+Bunions
+A bunion refers to a bump-like structure on the side of the big toe. Over some ti...
+Burns
+Burns
+Burns are injuries to the skin and underlying tissues that can be caused by heat...
+
+
+
+==================================================
+URL: https://www.1mg.com/ayurveda/ashwagandha-1
+Scraped at: 2025-05-22 03:00:38.144066
+==================================================
+
+[![1mg, best e pharmacy in India](https://www.1mg.com/images/tata_1mg_logo.svg)](https://www.1mg.com/)
+  * [Medicines](https://www.1mg.com/)
+  * [Lab TestsSAFE](https://www.1mg.com/labs)
+  * [Consult Doctors](https://www.1mg.com/online-doctor-consultation)
+  * [Cancer Care](https://www.1mg.com/cancer-care/home)
+  * [Ayurveda](https://www.1mg.com/ayurveda)
+  * [Partnerships](https://www.1mg.com/corporate)
+  * [Care Plan](https://www.1mg.com/subscription-plan/myplan)
+
+
+[Login](https://www.1mg.com/ayurveda/ashwagandha-1) | [Sign Up](https://www.1mg.com/ayurveda/ashwagandha-1)
+[Offers](https://www.1mg.com/offers)
+[Need Help?](https://www.1mg.com/help)
+![](https://www.1mg.com/images/search_loader.svg)
+QUICK BUY! Get 15% off on medicines*
+[Quick order](https://www.1mg.com/order-with-prescription)
+  * [Health Resource Center](https://www.1mg.com/ayurveda/ashwagandha-1)
+    * [All Diseases](https://www.1mg.com/all-diseases)
+    * [All Medicines](https://www.1mg.com/drugs-all-medicines)
+    * [Medicines by Therapeutic Class](https://www.1mg.com/drugs-therapeutic-classes)
+  * [Summer Essentials](https://www.1mg.com/categories/summer-essentials-912)
+    * [Sunscreen](https://www.1mg.com/categories/summer-essentials/sunscreen-210)
+    * [Rehydration Beverages](https://www.1mg.com/categories/summer-essentials/rehydration-beverages-382)
+    * [Herbal Juice](https://www.1mg.com/categories/summer-essentials/herbal-juice-174)
+    * [Karela Juices](https://www.1mg.com/categories/summer-essentials/herbal-juice/karela-juices-847)
+    * [Aloe Vera Juices](https://www.1mg.com/categories/summer-essentials/herbal-juice/aloe-vera-juices-848)
+    * [Amla Juices](https://www.1mg.com/categories/summer-essentials/herbal-juice/amla-juices-849)
+    * [Wheat Grass Juices](https://www.1mg.com/categories/summer-essentials/herbal-juice/wheat-grass-juices-850)
+    * [Triphala Juices](https://www.1mg.com/categories/summer-essentials/herbal-juice/triphala-juices-851)
+    * [Giloy Juices](https://www.1mg.com/categories/summer-essentials/herbal-juice/giloy-juices-852)
+    * [Tulsi Juices](https://www.1mg.com/categories/summer-essentials/herbal-juice/tulsi-juices-978)
+    * [Jamun Juices](https://www.1mg.com/categories/summer-essentials/herbal-juice/jamun-juices-979)
+    * [Cleansers & Facewash ](https://www.1mg.com/categories/summer-essentials/cleansers-facewash-512)
+    * [Soaps & Body Wash ](https://www.1mg.com/categories/summer-essentials/soaps-body-wash-2652)
+    * [Roll-on & Deodorants](https://www.1mg.com/categories/summer-essentials/roll-on-deodorants-3489)
+    * [Talcum Powder](https://www.1mg.com/categories/summer-essentials/talcum-powder-123)
+    * [Baby Care](https://www.1mg.com/categories/summer-essentials/baby-care-3369)
+    * [Antifungal Creams and Powders](https://www.1mg.com/categories/summer-essentials/antifungal-creams-and-powders-1166)
+  * [Vitamins & Nutrition](https://www.1mg.com/categories/vitamins-nutrition-5)
+    * [Multivitamins](https://www.1mg.com/categories/fitness-supplements/multivitamins-162)
+    * [Kids](https://www.1mg.com/categories/fitness-supplements/multivitamins/kids-503)
+    * [Men](https://www.1mg.com/categories/fitness-supplements/multivitamins/men-507)
+    * [Sports](https://www.1mg.com/categories/fitness-supplements/multivitamins/sports-907)
+    * [Vegetarian](https://www.1mg.com/categories/fitness-supplements/multivitamins/vegetarian-996)
+    * [Calcium](https://www.1mg.com/categories/vitamins-nutrition/calcium-94)
+    * [Minerals](https://www.1mg.com/categories/fitness-supplements/minerals-161)
+    * [Iron](https://www.1mg.com/categories/fitness-supplements/minerals/iron-428)
+    * [Vitamin B](https://www.1mg.com/categories/fitness-supplements/vitamin-b-576)
+    * [Vitamin D](https://www.1mg.com/categories/vitamins-nutrition/vitamin-d-121)
+    * [Vitamin C](https://www.1mg.com/categories/fitness-supplements/vitamin-c-734)
+    * [Vitamin A](https://www.1mg.com/categories/fitness-supplements/vitamin-a-508)
+    * [Global Supplements](https://www.1mg.com/categories/fitness-supplements/global-supplements-2385)
+    * [Now Foods](https://www.1mg.com/categories/now-foods-1224)
+    * [Solgar](https://www.1mg.com/categories/featured/solgar-2375)
+    * [Nordic naturals](https://www.1mg.com/categories/featured/nordic-naturals-2376)
+    * [Hair & Skin Supplements ](https://www.1mg.com/categories/fitness-supplements/hair-skin-supplements-2123)
+    * [Specialty Supplements](https://www.1mg.com/categories/vitamins-nutrition/specialty-supplements-164)
+    * [Antioxidants](https://www.1mg.com/categories/vitamins-nutrition/specialty-supplements/antioxidants-691)
+    * [Glucosamine](https://www.1mg.com/categories/vitamins-nutrition/specialty-supplements/glucosamine-689)
+    * [Vitamin K](https://www.1mg.com/categories/fitness-supplements/vitamin-k-444)
+    * [Gummies Vitamins](https://www.1mg.com/categories/fitness-supplements/gummies-vitamins-989)
+  * [Nutritional Drinks](https://www.1mg.com/categories/nutritional-drinks-196)
+    * [Green Tea & Herbal Tea](https://www.1mg.com/categories/nutritional-drinks/green-tea-herbal-tea-197)
+    * [Adult Daily Nutrition](https://www.1mg.com/categories/nutritional-drinks/adult-daily-nutrition-830)
+    * [Kids Nutrition (2-15 Yrs)](https://www.1mg.com/categories/nutritional-drinks/kids-nutrition-2-15-yrs-831)
+    * [Apple Cider Vinegar](https://www.1mg.com/categories/nutritional-drinks/apple-cider-vinegar-148)
+    * [Diabetes Nutrition](https://www.1mg.com/categories/nutritional-drinks/diabetes-nutrition-1013)
+    * [Specialized Nutrition](https://www.1mg.com/categories/nutritional-drinks/specialized-nutrition-3110)
+    * [Green Coffee ](https://www.1mg.com/categories/nutritional-drinks/green-coffee-3111)
+  * [Sexual Wellness](https://www.1mg.com/categories/sexual-wellness-22)
+    * [Condoms](https://www.1mg.com/categories/sexual-wellness/condoms-153)
+    * [Lubricants & Massage Gels](https://www.1mg.com/categories/sexual-wellness/lubricants-massage-gels-242)
+    * [Sexual Wellness Devices ](https://www.1mg.com/categories/sexual-wellness/sexual-wellness-devices-289)
+    * [Performance Enhancers](https://www.1mg.com/categories/sexual-wellness/performance-enhancers-243)
+    * [Oral Contraceptives ](https://www.1mg.com/categories/sexual-wellness/oral-contraceptives-3087)
+  * [Stomach Care](https://www.1mg.com/categories/stomach-care-30)
+    * [Constipation](https://www.1mg.com/categories/stomach-care/constipation-649)
+    * [Acidity](https://www.1mg.com/categories/stomach-care/acidity-714)
+    * [Pre and Probiotics](https://www.1mg.com/categories/stomach-care/pre-and-probiotics-624)
+    * [Indigestion](https://www.1mg.com/categories/stomach-care/indigestion-504)
+    * [Diarrhoea](https://www.1mg.com/categories/stomach-care/diarrhoea-645)
+    * [Bloating](https://www.1mg.com/categories/stomach-care/bloating-1139)
+  * [Fitness Supplements](https://www.1mg.com/categories/fitness-supplements-7)
+    * [Whey Protein](https://www.1mg.com/categories/fitness-supplements/whey-protein-98)
+    * [Fat Burners](https://www.1mg.com/categories/fitness-supplements/fat-burners-505)
+    * [Protein Supplements](https://www.1mg.com/categories/fitness-supplements/protein-supplements-3092)
+    * [Workout Essentials](https://www.1mg.com/categories/fitness-supplements/workout-essentials-166)
+    * [Mass Gainers](https://www.1mg.com/categories/fitness-supplements/mass-gainers-159)
+    * [Amino Acids](https://www.1mg.com/categories/fitness-supplements/amino-acids-146)
+    * [Arginine](https://www.1mg.com/categories/fitness-supplements/amino-acids/arginine-625)
+    * [BCAA](https://www.1mg.com/categories/fitness-supplements/amino-acids/bcaa-684)
+    * [Glutathione](https://www.1mg.com/categories/fitness-supplements/amino-acids/glutathione-685)
+    * [Glutamine](https://www.1mg.com/categories/fitness-supplements/amino-acids/glutamine-687)
+    * [Creatine](https://www.1mg.com/categories/fitness-supplements/amino-acids/creatine-688)
+    * [Carnitine](https://www.1mg.com/categories/fitness-supplements/amino-acids/carnitine-686)
+    * [Sports ](https://www.1mg.com/categories/fitness-supplements/sports-2128)
+    * [Plant Protein](https://www.1mg.com/categories/fitness-supplements/plant-protein-1012)
+  * [Pain Relief](https://www.1mg.com/categories/pain-relief-32)
+    * [Gel & Sprays](https://www.1mg.com/categories/pain-relief/gel-sprays-635)
+    * [Oils For Pain Relief](https://www.1mg.com/categories/pain-relief/oils-for-pain-relief-636)
+    * [Heating Aids & Belts ](https://www.1mg.com/categories/pain-relief/heating-aids-belts-637)
+    * [Pain Balm & Ointment](https://www.1mg.com/categories/pain-relief/pain-balm-ointment-638)
+    * [Pain Relief Tablets ](https://www.1mg.com/categories/pain-relief/pain-relief-tablets-3131)
+  * [Healthy Snacks ](https://www.1mg.com/categories/healthy-snacks-623)
+    * [Peanut Butter](https://www.1mg.com/categories/healthy-snacks/peanut-butter-450)
+    * [Honey](https://www.1mg.com/categories/healthy-snacks/honey-2359)
+    * [Dry Fruits & Berries ](https://www.1mg.com/categories/healthy-snacks/dry-fruits-berries-3109)
+    * [Cookies](https://www.1mg.com/categories/healthy-snacks/cookies-387)
+    * [Oats](https://www.1mg.com/categories/healthy-snacks/oats-3090)
+    * [Muesli & Cereals](https://www.1mg.com/categories/healthy-snacks/muesli-cereals-3108)
+    * [Edible Seeds & Nuts ](https://www.1mg.com/categories/healthy-snacks/edible-seeds-nuts-3106)
+    * [Superfoods](https://www.1mg.com/categories/healthy-snacks/superfoods-260)
+    * [Quinoa ](https://www.1mg.com/categories/healthy-snacks/quinoa-3078)
+    * [Other Snacks ](https://www.1mg.com/categories/healthy-snacks/other-snacks-3112)
+
+
+Introduction
+
+
+Benefits
+
+
+Precautions
+
+
+Recommended dosage
+
+
+How to use
+
+
+FAQs
+
+
+References
+
+
+Author Details
+![author-image](https://onemg.gumlet.io/a_ignore,w_48,h_48,q_auto,f_auto/qozhwqtacigecpsjkaqd.jpg)
+Scientific View By
+[Diksha Gupta](https://www.1mg.com/editorial-policy-processes/diksha-gupta-17)
+B.Pharm
+Ayurvedic View By
+[Dr. Deepak Soni](https://www.1mg.com/editorial-policy-processes/dr.-deepak-soni-13)
+BAMS
+Reviewed By
+[Dr. Ashish Ranjan](https://www.1mg.com/editorial-policy-processes/dr.-ashish-ranjan-3)
+MD (Pharmacology), MBBS
+Last updated
+11 Mar 2024 | 09:26 PM (IST)
+### We provide you with authentic, trustworthy and revelant information
+[Want to know more](https://www.1mg.com/editorial-policy-processes)
+### Have issue with the content? 
+Report Problem
+# Ashwagandha
+[![whatsapp-logo](https://www.1mg.com/images/whatsapp-logo.svg)](whatsapp://send?text=Ashwagandha - https://www.1mg.com/ayurveda/ashwagandha-1?utm_source=WhatsApp)
+![Ashwagandha](https://onemg.gumlet.io/images/sdzsl07upy0u3sxckqyj/ashwagandha-0.jpg)
+Ashwagandha
+Ashwagandha is an important herb of the Ayurvedic system of medicine. It is also known as Indian ginseng or winter cherry. The root of the herb has a distinctive smell that resembles the sweat of a horse, giving it the name Ashwagandha. In the Ayurvedic textbook ‘Bhavaprakasha’, the properties of Ashwagandha are illustrated in below shloka:गन्धान्ता वाजिनामादिरश्वगन्धा हयाद्वया। वराहकर्णी वरदा बलदा कुष्ठगन्धिनी ||अश्वगन्धाऽनिलश्लेष्मश्वित्रशोथक्षयापहा । बल्या रसायनी तिक्ता कपायोष्णाऽतिशुक्रला ॥ -भावप्रकाशAshwagandha is known to provide aid in managing problems associated with stress and anxiety due to its Rasayana (Rejuvenating) and Vata balancing properties. These properties may also help in diabetes management. It also has Vajikarana (aphrodisiac) property which helps in improving stamina and treats conditions like erectile dysfunction. Root powder of Ashwagandha can be taken with milk to help manage male infertility and erectile dysfunction. It is used as a nervine tonic for various nerve-related problems. It provides aid in the management of stress and anxiety. It stabilizes the body's response to stressful conditions.One important precaution with Ashwagandha is that it should be avoided during pregnancy as it might increase uterine contractions[2][33][3].
+### What are the synonyms of Ashwagandha?
+Withania somnifera, Indian Ginseng, Ajagandha, Vajigandha, Winter Cherry, Varahkarni, Asgandha[1]
+### What is the source of Ashwagandha?
+Plant Based
+## Benefits of Ashwagandha
+### What are the benefits of Ashwagandha for Stress?
+![scientific](https://onemg.gumlet.io/marketing/veb2valla4xaequxvnja.png)
+Modern Science View
+Ashwagandha may improve the individual’s ability to deal with stress. Stress increases the secretion of adrenocorticotropic hormone (ACTH) which in turn increases the cortisol levels (stress hormone) in the body. Ashwagandha powder reduces the level of cortisol and helps to reduce stress and stress-related problems[3].
+![ayurvedic](https://onemg.gumlet.io/marketing/uexqe6sqz25ttyznrflk.png)
+Ayurvedic View
+Stress can usually be attributed to an imbalance of Vata dosha, and often presents with irritability, insomnia, and fear. Taking Ashwagandha powder helps in balancing Vata and thus reduces the symptoms of stress.Tip:1. Take 1/4-1/2 teaspoon of Ashwagandha root powder and boil it in 2 cups of water.2. Add a pinch of ginger. Boil till it reduces to half.3. Cool the mixture and add honey to enhance its taste.4. Drink this tea to relax your mind.
+### What are the benefits of Ashwagandha for Anxiety?
+![scientific](https://onemg.gumlet.io/marketing/veb2valla4xaequxvnja.png)
+Modern Science View
+Ashwagandha may improve the individual’s ability to deal with stress and stress-related problems like anxiety.Stress increases the secretion of adrenocorticotropic hormone (ACTH) which in turn increases the cortisol levels (stress hormone) in the body. Ashwagandha powder reduces the level of cortisol and helps to reduce stress and its associated problems like anxiety[3].
+![ayurvedic](https://onemg.gumlet.io/marketing/uexqe6sqz25ttyznrflk.png)
+Ayurvedic View
+According to Ayurveda, anxiety is associated with aggravated Vata dosha, so one must concentrate on pacifying excess Vata in the body. Ashwagandha has the property of balancing Vata dosha and is good for managing anxiety. 
+### What are the benefits of Ashwagandha for Male infertility?
+![scientific](https://onemg.gumlet.io/marketing/veb2valla4xaequxvnja.png)
+Modern Science View
+Ashwagandha is a potent aphrodisiac and might help in stress-induced male infertility by improving the level of testosterone. Ashwagandha has antioxidant property and fights against the free radicals. This prevents damage and death of sperm cells leading to better sperm count and quality. Thus Ashwagandha helps to lower the risk of stress-induced male infertility along with enhancing male sexual health[7].
+![ayurvedic](https://onemg.gumlet.io/marketing/uexqe6sqz25ttyznrflk.png)
+Ayurvedic View
+Ashwagandha helps to reduce stress-induced male infertility by lowering stress. This is due to its Vata balancing property. It also helps to reduce the chance of male infertility by improving sperm quality and quantity. This is because of its Vrishya (aphrodisiac) property.Tip:1. Take 1/4-1/2 teaspoon of Ashwagandha root powder along with ghee, sugar and honey daily for a month once or twice a day to improve sperm quality.2. Or, mix 1/4-1/2 teaspoon of Ashwagandha root powder in a glass of warm milk. Drink this at bedtime. 
+### What are the benefits of Ashwagandha for Diabetes?
+![scientific](https://onemg.gumlet.io/marketing/veb2valla4xaequxvnja.png)
+Modern Science View
+Ashwagandha might control blood sugar in diabetic patients by increasing insulin production and improving insulin sensitivity. Studies state that Ashwagandha makes the cells less resistant to insulin. This improves insulin sensitivity and increases glucose utilization by the cells. Ashwagandha also protects and increases the number of the insulin-producing cells thus increasing insulin secretion. Together, it helps to manage the risk of diabetes[12-14].Tip:1. Take 1 glass of milk and 1/2 a glass of water in a pan and bring it to boil.2. Add 1/4-1/2 teaspoon of Ashwagandha root powder and boil for another 5 minutes.3. Add crushed almonds and walnut (around 2 teaspoons) to the mixture.4. Drink this mixture to manage blood sugar level.
+![ayurvedic](https://onemg.gumlet.io/marketing/uexqe6sqz25ttyznrflk.png)
+Ayurvedic View
+According to Ayurveda, there are two types of diabetes therapy. One is Aptarpana (de-nourishment) and Santarpana (replenishment). Aptarpana treatment is useful in obese diabetics with Kapha body type and Santarpana treatment is useful in lean diabetics usually with Vata or Pitta type body. Ashwagandha works on both types of therapies by balancing Vata and Kapha dosha. Tip: Take 1 Ashwagandha capsule or tablet twice a day with milk or warm water after 2 hours of meals along with your existing treatment.
+### What are the benefits of Ashwagandha for Arthritis?
+![scientific](https://onemg.gumlet.io/marketing/veb2valla4xaequxvnja.png)
+Modern Science View
+Ashwagandha might reduce pain associated with arthritis.Studies state that Ashwagandha has analgesic property. It is seen that the roots and leaves of Ashwagandha contain withaferin A which inhibits the production of pain mediators such as prostaglandins. This reduces the pain and inflammation associated with arthritis[17-20]. 
+![ayurvedic](https://onemg.gumlet.io/marketing/uexqe6sqz25ttyznrflk.png)
+Ayurvedic View
+Ashwagandha is useful to manage pain in arthritis. According to Ayurveda, arthritis occurs due to an aggravation of Vata dosha and is known as Sandhivata. It causes pain, swelling, and joint mobility. Ashwagandha powder has Vata balancing property and gives relief from the symptoms of arthritis-like pain and swelling in the joints.Tip:1. Take 1/4-1/2 teaspoon of Ashwagandha root powder.2. Mix it in 1 glass of milk.3. Drink this thrice a day.4. Continue for at least 1-2 months for better results.
+### What are the benefits of Ashwagandha for Hypertension (high blood pressure)?
+![scientific](https://onemg.gumlet.io/marketing/veb2valla4xaequxvnja.png)
+Modern Science View
+Ashwagandha may improve the individual’s ability to deal with stress and stress-related problems like high blood pressure.Stress increases the secretion of adrenocorticotropic hormone (ACTH) which in turn increases the cortisol levels (stress hormone) in the body. Ashwagandha powder reduces the level of cortisol and helps to reduce stress and its associated problems like high blood pressure[3].Tip: 1. Take 1/4-1/2 teaspoon of Ashwagandha root powder in a cup of water.2. Boil the mixture in a pan for at least 10 minutes.3. Add a few drops of lemon and 1 teaspoon of honey to enhance the taste.4. Drink this mixture once a day in the morning.
+![ayurvedic](https://onemg.gumlet.io/marketing/uexqe6sqz25ttyznrflk.png)
+Ayurvedic View
+Hypertension is known as Rakta Gata Vata in Ayurveda which means elevated pressure of the blood in the arteries. The aim of Ayurvedic treatment for hypertension is identifying the root cause of the condition and then taking herbs that can eradicate the problem from its roots. Stress or anxiety is also a root cause of hypertension and taking Ashwagandha helps to reduce stress or anxiety and thus control high blood pressure.Tip: Start with 1 capsule or tablet of Ashwagandha two hours after meals with milk. Also, monitor your blood pressure regularly while taking Ashwagandha with other antihypertensive drugs.
+### What are the benefits of Ashwagandha for Parkinson's disease?
+![scientific](https://onemg.gumlet.io/marketing/veb2valla4xaequxvnja.png)
+Modern Science View
+Ashwagandha might be useful in Parkinson’s disease.Parkinson’s disease is due to damage of the nerve cells which affects movement, muscle control and balance of the body. Ashwagandha prevents damage of nerve cells due to its antioxidant property. This reduces the risk of Parkinson and its associated problems[21-23].
+![ayurvedic](https://onemg.gumlet.io/marketing/uexqe6sqz25ttyznrflk.png)
+Ayurvedic View
+Ashwagandha helps to control the symptoms of Parkinson’s disease. A disease condition 'Vepathu' described in Ayurveda may be correlated with Parkinson's disease. It is caused by vitiated Vata. Taking Ashwagandha powder balances Vata and also helps to reduce the degeneration of cells which controls the symptoms of Parkinson’s disease.
+### How effective is Ashwagandha?
+Insufficient evidence
+Anxiety, Arthritis, Diabetes, Hypertension (high blood pressure), Male infertility, Parkinson's disease, Stress
+## Precautions when using Ashwagandha
+Advice from Experts
+Important
+![scientific](https://onemg.gumlet.io/marketing/veb2valla4xaequxvnja.png)
+Modern Science View
+Ashwagandha may cause gastrointestinal disturbances, so please consult a doctor before taking Ashwagandha or its supplements if you are suffering from peptic ulcer[26]. 
+![ayurvedic](https://onemg.gumlet.io/marketing/uexqe6sqz25ttyznrflk.png)
+Ayurvedic View
+Ashwagandha may cause gastrointestinal disturbances. So it is generally advisable to use Ashwagandha with caution in people with Pitta and Ama imbalance.
+Breastfeeding
+Important
+![scientific](https://onemg.gumlet.io/marketing/veb2valla4xaequxvnja.png)
+Modern Science View
+Due to lack of scientific evidence, Ashwagandha should be avoided if you are breastfeeding[26]. 
+![ayurvedic](https://onemg.gumlet.io/marketing/uexqe6sqz25ttyznrflk.png)
+Ayurvedic View
+Ayurvedic doctor supervision is needed while taking Ashwagandha during breastfeeding, self medication should be avoided.
+Minor Medicine Interaction
+![scientific](https://onemg.gumlet.io/marketing/veb2valla4xaequxvnja.png)
+Modern Science View
+Ashwagandha increases the production of thyroid hormones(T4). So it is generally advisable to monitor your thyroid levels regularly while taking Ashwagandha along with hyperthyroidism drugs[4]. 
+Moderate Medicine Interaction
+Important
+![scientific](https://onemg.gumlet.io/marketing/veb2valla4xaequxvnja.png)
+Modern Science View
+1. Ashwagandha may possess immunomodulatory effects. So it is advisable to consult a doctor if you are taking Ashwagandha or its supplements along with immunomodulatory drugs[26].2. Ashwagandha may cause sedation. So it is advisable to consult a doctor before taking Ashwagandha or its supplements along with sedatives as it may cause excessive sleepiness[4]. 
+Patients with diabetes
+![scientific](https://onemg.gumlet.io/marketing/veb2valla4xaequxvnja.png)
+Modern Science View
+Ashwagandha may lower blood glucose levels. So it is generally advisable to monitor the sugar levels regularly if you are taking Ashwagandha or its supplements along with other anti-diabetic drugs[26].
+Patients with heart disease
+![scientific](https://onemg.gumlet.io/marketing/veb2valla4xaequxvnja.png)
+Modern Science View
+Ashwagandha may lower blood pressure. So it is generally advisable to monitor the blood pressure regularly if you are taking Ashwagandha or its supplements along with anti-hypertensive drugs[26].
+Patients with kidney disease
+Important
+![scientific](https://onemg.gumlet.io/marketing/veb2valla4xaequxvnja.png)
+Modern Science View
+Ashwagandha has diuretic properties. This might lead to kidney lesions (abnormal growth in the kidney). So please consult a doctor before taking Ashwagandha or its supplements if you already have kidney problems[26].
+Pregnancy
+Important
+![scientific](https://onemg.gumlet.io/marketing/veb2valla4xaequxvnja.png)
+Modern Science View
+Avoid Ashwagandha during pregnancy as it may increase uterine contractions[26]. 
+![ayurvedic](https://onemg.gumlet.io/marketing/uexqe6sqz25ttyznrflk.png)
+Ayurvedic View
+Consult an Ayurvedic doctor before taking Ashwagandha during pregnancy, self-medication should be avoided.
+Side Effects
+Important
+![scientific](https://onemg.gumlet.io/marketing/veb2valla4xaequxvnja.png)
+Modern Science View
+1. Sedation2. Low blood pressure3. Diarrhea4. Nausea5. Abdominal pain[26]
+alcohol
+![scientific](https://onemg.gumlet.io/marketing/veb2valla4xaequxvnja.png)
+Modern Science View
+Ashwagandha may cause sedation. Avoid consuming alcohol while taking Ashwagandha as it may cause excessive sleepiness.[28].
+## Recommended Dosage of Ashwagandha
+  * Ashwagandha Tablet - 1 tablet twice a day or as prescribed by the doctor 
+  * Ashwagandha Capsule - 1 capsule twice a day or as prescribed by the doctor.
+  * Ashwagandha Churna - 1/4-1/2 teaspoon twice a day or as prescribed by the doctor.
+
+
+## How to use Ashwagandha
+1. Ashwagandha TabletsTake 1 Ashwagandha tablet or as prescribed by the doctor with warm milk or water after taking food twice a day. 2. Ashwagandha CapsulesTake 1 Ashwagandha capsule or as prescribes by the doctor with warm milk or water after taking food twice a day. 3. Ashwagandha Powder (Churna)a. With milk or honeyTake 1/4-1/2 teaspoon Ashwagandha powder (churna) with milk or honey or as prescribed by the doctor.b. Ashwagandha Teai. Add 1 teaspoon of Ashwagandha powder to 2 cups of water.ii. Bring it to a boil.iii. Boil until it reduces to 1/2 of the original quantity.iv. Add some milk and honey to it.v. Drink once a day.vi. You can skip honey in case of high blood sugar level. c. Ashwagandha Milkshakei. Roast 4 tablespoons of Ashwagandha powder (churna) in 1 cup of pure ghee.ii. Add 1-2 teaspoon honey to it.iii. To consume, add 1 teaspoon of this powder to 1 glass of cold milk.iv. Blend it well and drink immediately for better taste.v. You can store this mixture in the refrigerator and use when needed[29].vi. Skip honey in case of high blood sugar level. d. Ashwagandha Ladooi. Take 2 tablespoons of Ashwagandha powder (churna).ii. Add 1 tablespoon of jaggery powder to it.iii. Add a pinch of black salt and pepper to the mixture to enhance the taste.iv. Knead the mixture evenly and properly.v. Make round shape laddu with the above mixture in a circular motion between your palms[30].vi. You can store them in the refrigerator for 3-4 days. e. Ashwagandha Shrikhandi. Take 250 gms thick curd.ii. Put the curd in a muslin cloth to drain all the water to get hung curd.iii. Remove the hung curd from muslin cloth and keep it in the refrigerator.iv. Divide the hung curd into 4 parts.v. Add sugar/honey as per your taste and 1 tablespoon Ashwagandha powder to each part.vi. You can also add some dry fruits and cardamom powder to enhance its taste.vii. Knead each portion well to make it smooth.viii. Cool it in the refrigerator for some time.ix. You can replace sugar or honey with jaggery[31].
+## Frequently asked questions
+### Q. In what forms Ashwagandha is available? 
+![scientific](https://onemg.gumlet.io/marketing/veb2valla4xaequxvnja.png)
+Modern Science View
+Ashwagandha is available in 3 forms: 1. Powder (Churna)2. Capsules3. Tablet
+### Q. How to take Ashwagandha extract? 
+![ayurvedic](https://onemg.gumlet.io/marketing/uexqe6sqz25ttyznrflk.png)
+Ayurvedic View
+Generally, Ashwagandha extract is available in the form of capsules or tablets in the market. Ashwagandha extract can be taken 600-1200 mg/day. 1-2 capsule or tablet can be taken once a day.
+### Q. How to use Ashwagandha oil?
+![ayurvedic](https://onemg.gumlet.io/marketing/uexqe6sqz25ttyznrflk.png)
+Ayurvedic View
+Ashwagandha oil is said to pacify Vata and Kapha doshas and increase Pitta energy. Ashwagandha oil is safe to use locally and for full body massages. Tip:1. Take some oil in your palm and apply generously over the affected area.2. Massage the oil.3. Cover your body immediately after using this oil.4. Avoid body contact to cold weather immediately after massaging with Ashwagandha oil. 
+### Q. How to take Ashwagandha powder?
+![ayurvedic](https://onemg.gumlet.io/marketing/uexqe6sqz25ttyznrflk.png)
+Ayurvedic View
+You can take Ashwagandha powder with either milk or honey.i. Take 1/4-1/2 teaspoon Ashwagandha powder along with 1 cup lukewarm milk or 1 teaspoon honey.ii. Take it preferably 2 hours after meals.
+## References
+  1. The Ayurvedic Pharmacopoeia Of India. Part 1 Volume 1.
+  2. Singh N, Bhalla M, de Jager P, et al.An overview on Ashwagandha:A rasayana (rejuvenator) of Ayurveda.Afr J Tradit Complement Altern Med.2011;8:208-13.
+  3. Chandrasekhar K, Kapoor J, Anishetty S. “A prospective, randomized double-blind, placebo-controlled study of safety and efficacy of a high-concentration full-spectrum extract of Ashwagandha root in reducing stress and anxiety in adults.”Indian J. Psychol Med.2012;34(3):255.
+  4. WebMD.Ashwagandha:Uses, Side effects, Interactions, Dosage [Internet]. Atlanta [last updated in 2016].
+  5. Moyer AE, Rodin J, Grilo CM, et al. Stress-induced cortisol response and fat distribution in women.Obes Res.1994;2(3):255-262. 
+  6. Khedgikar V, Kushwaha P, Gautam J, et al. Withaferin A: A proteasomal inhibitor promotes healing after injury and exerts anabolic effect on osteoporotic bone.Cell Death Dis.2013;4:e778.
+  7. Shukla KK, Mahdi AA, Mishra V, et al.Withania somnifera improves semen quality by combating oxidative stress and cell death and improving essential metal concentrations.Reprod Biomed Online. 2011;22(5):421-427.
+  8. Sachan S, Mishra HS, Yadav KN.Ashwagandha: Solution to stress and insomnia.IJAMY. 2015;8(3):153-159.
+  9. Kushwaha S, Betsy A, Chawla P. Effect of Ashwagandha (Withania somnifera) root powder supplementation in treatment of hypertension. Ethno Med.2012;6(2):111-115.
+  10. Modi MB, Donga SB, Dei L. Clinical evaluation of Ashokarishta, Ashwagandha Churna and Praval Pishti in the management of menopausal syndrome. Ayu.2012;33(4):511-6
+  11. Gannon JM, Forrest PE, Chengappa KNR. Subtle changes in thyroid indices during a placebo-controlled study of an extract of Withania somnifera in persons with bipolar disorder. J Ayurveda Integr Med. 2014;5(4):241–245.
+  12. Andallu B, Radhika B. Hypoglycemic, diuretic and hypocholesterolemic effect of winter cherry (Withania somnifera, Dunal) root. Indian J Exp Biol. 2000:607-609.
+  13. Anwer T, Sharma M, Pillai KK, et al. Effect of Withania somnifera on Insulin Sensitivity in Non Insulin Dependent Diabetes Mellitus Rats.Basic Clin Pharmacol Toxicol. 2008;102(6):498-503.
+  14. Anwer T, Sharma M, Pillai KK, Khan G.Protective effect of Withania somnifera against oxidative stress and pancreatic beta-cell damage in type 2 diabetic rats.Acta Pol Phar.2012;69(6):1095-1101.
+  15. Pradhan SL, Pradhan PS.Ayurvedic medicine and anaesthesia.Indian J Anaesth. 2011; 55(4): 334–339.
+  16. Mahdi AA, Shukla KK, Ahmad MK, et al.Withania somnifera improves semen quality in stress-related male fertility.Evid Based Complement Alternat Med.2011.
+  17. Prince SE, Sonal C, Khan RM. Evaluation of analgesic, antipyretic and ulcerogenic effect of Withaferin A. Int J Integr Biol. 2009;6(2):52–56.
+  18. Twaij HAA., Elisha EE, Khalid RM.Analgesic studies on some Iraqi medicinal plants.Int J Crude Drug Res.1989;27:109–112.
+  19. Chandra LM.Rheumatoid Arthritis, Osteoarthritis, and Gout.Scientific Basis for Ayurvedic Therapies.Boca Raton: CRC Press LLC.2004;10:167-184.
+  20. Giri KR.Comparative study of anti-inflammatory activity of Withania somnifera (Ashwagandha) with hydrocortisone in experimental animals (Albino rats).Journal of Medicinal Plants Studies.2016;4(1):78-83.
+  21. Nagashayana N, Sankarankutty P, Nampoothiri MRV, et al. Association of l-DOPA with recovery following Ayurveda medication in Parkinson's Disease. J Neurol Sci.2000;176:124-127.
+  22. McGeer E, Yasojima K, McGeer PL.Inflammation and the pathogenesis of Parkinson’s disease.British Columbia Medical Journal.2001;43(3):138-141.
+  23. Sankar RS, Manivasagam T, Surendran S.Ashwagandha leaf extract:A potential agent in treating oxidative damage and physiological abnormalities seen in a mouse model of Parkinson’s disease.Neurosci Lett.2009;17;454(1):11-15.
+  24. Choudhary D, Bhattacharyya S, Joshi K.Body Weight Management in Adults Under Chronic Stress Through Treatment With Ashwagandha Root Extract: A Double-Blind, Randomized, Placebo-Controlled Trial.Journal of Evidence-Based Complementary & Alternative Medicine.2017;22(1):96-106.
+  25. Gupta A, Wamankar S, Gidwani B, et al.Herbal drugs for thyroid treatment.IJPBS.2016;6(1):62-70.
+  26. Ulbricht CE.Natural Standard:Herb and Supplement Guide, An Evidence Based Reference.Elsevier;2010. 
+  27. Pais P, Villar A, Rull S.Determination of the potency of a novel saw palmetto supercritical CO 2 extract (SPSE) for 5α-reductase isoform II inhibition using a cell-free in vitro test system.Res Rep Urol.2016;8:41-49.
+  28. Monograph: Withania somnifera.Alternative Medicine Review.2004;9(2):211-214.
+  29. Singh N, Pandey R, Singh N, et.al.Utilization of Ashwagandha(W. somnifera) for development of value added products.2014.Asian J. Dairy & Food Res.2014;33(3):221-225.
+  30. Viswaroopan D , Raj AGR, Shailaja U,et.al.Preparation of Ashwagandha (Withania Somnifera (L.) Dunal) ghee – A practical approach inspired by traditional knowledge.Pharma Innovation.2015;4(4):85-89.
+  31. Landge UB, Pawar BK, Choudhari DM,et.al.Preparation of shrikhand using Ashwagandha powder as addictive.J Dairying Foods & HS.2011;30(2):79-84.
+  32. Balkrishnan A.Ashwagandha.Ayurved Jadi Buti Rehsya.Danik Bhaskar.2017.
+  33. Gaurav N, Kumar A, Tyagi M, et al.Morphology of withania somnifera (distribution, morphology, phytosociology of Withania somnifera L. Dunal).IJCSR.2015;1(7):164-173.
+  34. Kaushik MK, Kaul SC, Wadhwa R, et al.Triethylene glycol, an active component of Ashwagandha (Withania somnifera) leaves, is responsible for sleep induction.PLoS One. 2017; 12(2): e0172508.
+  35. Wankhede S, Langade D, Joshi K, et al.Examining the effect of Withania somnifera supplementation on muscle strength and recovery: a randomized controlled trial.J Int Soc Sports Nutr.2015;12:43.
+  36. Dongre S, Langade D, Bhattacharyya S.Efficacy and safety of Ashwagandha (Withania somnifera) root extract in improving sexual function in women: A pilot study.Biomed Res Int. 2015. 
+
+
+Disclaimer
+The content is purely informative and educational in nature and should not be construed as medical advice. Please use the content only in consultation with an appropriate certified medical or healthcare professional.
+[![consult doctor](https://onemg.gumlet.io/marketing/c10b0715-4375-4e04-b271-1d6aaca082dd.png)](https://www.1mg.com/online-consultation?utm_source=ayurveda&utm_medium=ashwagandha&utm_campaign=1)
+[CONSULT A DOCTOR ONLINE](https://www.1mg.com/online-consultation?utm_source=ayurveda&utm_medium=ashwagandha&utm_campaign=1)
+## INDIA’S LARGEST HEALTHCARE PLATFORM
+260m+
+Visitors
+31m+
+Orders Delivered
+1800+
+Cities
+Get the link to download App
+Send Link
+### Know Us
+  * [About Us](https://www.1mg.com/aboutUs)
+  * [Contact Us](https://www.1mg.com/contactUs)
+  * [Press Coverage](https://www.1mg.com/press-coverage)
+  * [Careers](https://www.1mg.com/jobs)
+  * [Business Partnership](https://partners.1mg.com)
+  * [Become a Health Partner](https://www.1mg.com/healthpartner)
+  * [Corporate Governance](https://www.1mg.com/corporategovernance)
+
+
+### Our Policies
+  * [Privacy Policy](https://www.1mg.com/PrivacyPolicy)
+  * [Terms and Conditions ](https://www.1mg.com/Tnc)
+  * [Editorial Policy](https://www.1mg.com/editorial-policy-processes)
+  * [Return Policy](https://www.1mg.com/return-policy)
+  * [IP Policy](https://www.1mg.com/ip-policy)
+  * [Grievance Redressal Policy](https://www.1mg.com/grievance-redressal-policy)
+  * [Fake Jobs and Fraud Disclaimer](https://www.1mg.com/FakeJobsAndFraudDisclaimer)
+
+
+### Our Services
+  * [Order Medicines](https://www.1mg.com/)
+  * [Book Lab Tests](https://www.1mg.com/labs)
+  * [Consult a Doctor](https://www.1mg.com/online-doctor-consultation)
+  * [Ayurveda Articles](https://www.1mg.com/ayurveda)
+  * [Hindi Articles](https://www.1mg.com/hi/patanjali)
+  * [Care Plan](https://www.1mg.com/subscription-plan/subscriptions)
+
+
+### Connect
+  * Social Links
+  * [![Facebook](https://onemg.gumlet.io/vqpr5zx9ofpsyafjwwin.svg)](https://www.facebook.com/1mgOfficial)[![Instagram](https://onemg.gumlet.io/wwynoy59i3iakt8te5xl.svg)](https://www.instagram.com/1mgofficialpage/)[![Twitter](https://onemg.gumlet.io/cwrpdmlzckwzvv9e1gjv.svg)](https://twitter.com/1mgofficial)[![YouTube](https://onemg.gumlet.io/tywtfwyzxb8ujnqmbuau.svg)](https://www.youtube.com/c/1mgofficial)[![Linkedin](https://onemg.gumlet.io/hqfglkzkfxaxaypniixn.svg)](https://www.linkedin.com/company/1mg)[![Medium Link](https://onemg.gumlet.io/ny7nk9wxxlcxpeh1jbgg.svg)](https://medium.com/1mgofficial)
+  * Want daily dose of health?
+  * SIGN UP
+
+
+### Download App
+  * [![Download app through google play store](https://onemg.gumlet.io/marketing/6284f3d0-a998-4e94-8cea-91f0961895fc.png)](https://play.google.com/store/apps/details?id=com.aranoah.healthkart.plus)
+  * [![Download app through apple store](https://onemg.gumlet.io/marketing/45552652-1551-4004-984b-89af60d89e50.png)](https://itunes.apple.com/in/app/1mg/id554578419?mt=8)
+
+
+## Reliable
+All products displayed on Tata 1mg are procured from verified and licensed pharmacies. All labs listed on the platform are accredited
+## Secure
+Tata 1mg uses Secure Sockets Layer (SSL) 128-bit encryption and is Payment Card Industry Data Security Standard (PCI DSS) compliant
+## Affordable
+Find affordable medicine substitutes, save up to 50% on health products, up to 80% off on lab tests and free doctor consultations.
+[![LegitScript approved](https://static.legitscript.com/seals/729605.png)](https://legitscript.com "Verify LegitScript Approval")
+India's only LegitScript and ISO/ IEC 27001:2022 certified online healthcare platform
+##  Know more about Tata 1mg
+![downArrow](https://assets.1mg.com/hkp/2.0.0/static/images/down-arrowRebrand.svg)
+### Access medical and health information
+Tata 1mg provides you with medical information which is curated, written and verified by experts, accurate and trustworthy. Our experts create high-quality content about medicines, diseases, lab investigations, Over-The-Counter (OTC) health products, Ayurvedic herbs/ingredients, and alternative remedies.
+### Order medicines online
+Get free medicine home delivery in over 1800 cities across India. You can also order Ayurvedic, Homeopathic and other Over-The-Counter (OTC) health products. Your safety is our top priority. All products displayed on Tata 1mg are procured from verified and licensed pharmacies.
+### Book lab tests
+Book any lab tests and preventive health packages from certified labs and get tested from the comfort of your home. Enjoy free home sample collection, view reports online and consult a doctor online for free.
+### Consult a doctor online
+Got a health query? Consult doctors online from the comfort of your home for free. Chat privately with our registered medical specialists to connect directly with verified doctors. Your privacy is guaranteed.
+© 2025 Tata 1mg. All rights reserved. All medicines are dispensed in compliance with the Drugs and Cosmetics Act, 1940 and Drugs and Cosmetics Rules, 1945. We do not process requests for Schedule X and habit forming drugs.
+![visa](https://onemg.gumlet.io/marketing/81385fef-60c9-460b-9e3e-7ee30d0b91e6.png)![mastercard](https://onemg.gumlet.io/marketing/485586d3-dbe2-431c-be78-19de749e6716.png)![american express](https://onemg.gumlet.io/marketing/1ca7a79d-fac8-449f-b437-1b164183c74a.png)![rupay](https://onemg.gumlet.io/marketing/82ecbac1-7229-49ed-986b-ec304b319467.png)![net banking](https://onemg.gumlet.io/marketing/37d1e22f-58b5-4a12-b238-d2c78cd34cfe.png)![cash on delivery](https://onemg.gumlet.io/marketing/194521ba-479d-41bf-a60e-cb68a8cfa6e8.png)
+
+Click to show search results on Map
+Show 
+All
+ entriesSearch:
+S.No.	Name	Address	Phone	Email	Category	Distance (km)	Type
+1	Apollo Surgical & Urology Center	Purani Jail Road, Nawada, Nawada, Dist. Nawada	8969860124	surgicalsapollonawada@gmail.com	Private	-	Camps
+
+Stock
+2	Beena Bhawani Blood Center	inside maa janki hospital bairiya golamber, Muzaffarpur, Dist. Muzaffarpur	9211845114	beenabhawanibloodcentre@gmail.com	Private	-	Camps
+
+Stock
+3	Bhagwan Mahavir Institute Of Medical Science	BMIMS Pawapuri Nalanda, Nalanda, Dist. Nalanda	06112-262793	bloodcentrepawapuri@gmail.com	Govt.	-	Camps
+
+Stock
+4	Bharat Blood Centre, Patna	Bharat Blood Bank,Churi Bazar, Dharahara Kothi, Patna, Dist. Patna	9334151682	bharatbloodbank0612@gmail.com	Private	-	Camps
+
+Stock
+5	Bihar Charitable Blood Centre Motihari E. Champaran	(Unit of Atut Welfare Foundation), Rahmania Medical Centre, NH 28A, Bariyarpur, Motihari , Motihari, Dist. Purba Champaran	0		Private	-	Camps
+
+Stock
+6	Bihar State Blood Centre, Pmch, Patna	Bihar State Blood Bank PMCH, Ashok Raj Path, Bankipur, Patna, Dist. Patna	9835261061	bbpmch@gmail.com	Govt.	-	Camps
+
+Stock
+7	Blood Bank And Research Center	Mira Nursing Home, Ashok Nagar, Pokharia, Begusarai, Begusarai, Dist. Begusarai	7782871426	bbrcbegusarai@gmail.com	Private	-	Camps
+
+Stock
+8	Blood Center Niveda Hospital Patna	G-44, PC Colony, Kankarbagh, Patna, Dist. Patna	8051499145	bloodcenternivedahospital44@gmail.com	Private	-	Camps
+
+Stock
+9	Blood Center Sadar Hospital Arwal	SH Arwal, Arwal, Dist. Arwal	9504546290	bloodcentresharwal@gmail.com	Govt.	-	Camps
+
+Stock
+10	Blood Centre Abhay Institute Of Medical Sciences	M/S Blood Bank Abhay Institute of Medical Sciences Pvt. Ltd, HARIO, Dobhi Road, Gaya, Dist. Gaya	9006298774	aimsbloodbank@gmail.com	Private	-	Camps
+
+Stock
+11	Blood Centre Anmmch, Gaya	Blood Bank, ANMMCH Gaya, Gaya, Dist. Gaya	7992367813	bloodbankanmmc@gmail.com	Govt.	-	Camps
+
+Stock
+12	Blood Centre Duncan Hospital	The DUNCAN HOSPITAL, BLOOD BANK DEPARTMENT, Raxaul, Raxaul, Dist. Purba Champaran	9931847216	duncanbloodbankanup@gmail.com	Charitable/Vol	-	Camps
+
+Stock
+13	Blood Centre Himalaya Medical College and Hospital	Chiksi, Paliganj, Paliganj, Dist. Patna	9304637349	bloodcenterhmch@gmail.com	Charitable/Vol	-	Camps
+
+Stock
+14	Blood Centre Hitech Emergency Hospital	M/S Hitech Emergency Hospital Blood Bank, (A keshaw Hospital Pvt. Ltd.) SAGUNA MORE, KHAGAUL ROAD DANAPUR, , Patna, Dist. Patna	0612-3262107,9708036570	bbhitechemergency@gmail.com	Private	-	Camps
+
+Stock
+15	Blood Centre Igims Patna	Blood Bank IGIMS Sheikhpura, Patna, Dist. Patna	8544413216, 0612-2297631, 0612-2297215	director@gmail.com	Govt.	-	Camps
+
+Stock
+16	Blood Centre Jlnmch Bhagalpur	Mayaganj Tilkamanjhi, Bhagalpur, Dist. Bhagalpur	9934456029	rbbjlnmch@gmail.com	Govt.	-	Camps
+
+Stock
+17	Blood Centre Kmch, Katihar	Karim Bagh, Post Box No.- 23, Katihar, Katihar, Dist. Katihar	09955215438	bloodbankkmc100@gmail.com	Private	-	Camps
+
+Stock
+18	Blood Centre Kurji Holy Family Hospital, Patna	Blood Bank Kurji Holy Family Hospital,Sadakat Ashram, Patna, Dist. Patna	9835880918	khfhosp@gmail.com	Charitable/Vol	-	Camps
+
+Stock
+19	Blood Centre Max Seven Hospital	Max Seven Hospital Pvt. Ltd., NH 57, Lichi Bagan, Naulakha, Kasba, Dist. Purnia	9874777680	mshbloodcentre@gmail.com	Charitable/Vol	-	Camps
+
+Stock
+20	Blood Centre Mgmm College And Hospital	Mata Gujri Memorial Medical College & L.S.K. Hospital, Kishanganj BIHAR, Kishanganj, Dist. Kishanganj	6295486633	mgmkne@gmail.com	Private	-	Camps
+
+Stock
+21	Blood Centre Mjk Hospital, Betiah	Blood Bank MJK Hospital Betia West Champaran, Betiah, Dist. Pashchim Champaran	9431642371, 09122159981	bb2bth@gmail.com	Govt.	-	Camps
+
+Stock
+22	Blood Centre Nandipat Memorial Hospital & Research Centre, Sitamarhi	Ring Bandh, Near Saraswati Vidya Mandir, Sitamarhi, Dist. Sitamarhi	8228882221	npmhrc@gmail.com	Private	-	Camps
+
+Stock
+23	Blood Centre NMCH Patna	Blood Bank NMCH Patna, Agamkuan, Patna, Dist. Patna	9971818317	bankbloodnmchpatna@gmail.com	Govt.	-	Camps
+
+Stock
+24	Blood Centre P.N. H. Mahatma Budha Education Center	Blood Bank P.N. H. Mahatma Budha Education Center, East Gandhi Maidan, Siwan, Siwan, Dist. Siwan	7783006060, 0615-4245245, 9430523283	bloodbankpnhsiwan24@gmail.com	Charitable/Vol	-	Camps
+
+Stock
+25	Blood Centre Sadar Hospital, Ara	Sadar Hospital Ara, Shivganj, Dist-Bhojpur, Bhojpur Ara , Dist. Bhojpur	7870288755	bloodbankara@gmail.com	Govt.	-	Camps
+
+Stock
+26	Blood Centre Sadar Hospital Araria	Sadar Hospital Araria, Araria, Dist. Araria	0	bloodcentershararia@gmail.com	Govt.	-	Camps
+
+Stock
+27	Blood Centre Sadar Hospital, Aurangabad	Sadar Hospital, Aurangabad, Old G.B.Road, Aurangabad, Dist. Aurangabad	7277287443	bloodbankabadbihar@gmail.com	Govt.	-	Camps
+
+Stock
+28	Blood Centre Sadar Hospital Banka	SH Banka, Banka, Dist. Banka	88096 55885	bcshbank@gmail.com	Govt.	-	Camps
+
+Stock
+29	Blood Centre Sadar Hospital, Bhabua, Kaimur	Sadar Hospital Bhabua Kachahari Road , Bhabua, Bhabua, Dist. Kaimur (Bhabua)	9470003362	bbshkai2@gmail.com	Govt.	-	Camps
+
+Stock
+30	Blood Centre Sadar Hospital Bhagalpur	SH Bhagalpur, Bhagalpur, Dist. Bhagalpur	8271580382	bloodcentrebgp@gmail.com	Govt.	-	Camps
+
+Stock
+31	Blood Centre Sadar Hospital, Biharsharif	Blood Center Sadar Hospital Biharsharif Nalanda, Blood Center Sadar Hospital Biharsharif Nalanda, Biharsharif, Dist. Nalanda	9304081072	bbshbiharsarifnalanda@gmail.com	Govt.	-	Camps
+
+Stock
+32	Blood Centre Sadar Hospital, Buxar	Sadar Hospital, Central Jail, BUXAR, Buxar, Dist. Buxar	6183222017	bloodbankshbuxar@gmail.com	Govt.	-	Camps
+
+Stock
+33	Blood Centre Sadar Hospital, Chhapra	Blood Bank, Sadar Hospital Chhapra, Chhapra, Dist. Saran	9431088277	bloodbankchapra@gmail.com	Govt.	-	Camps
+
+Stock
+34	Blood Centre Sadar Hospital, Gopalganj	Blood Bank, Sadar Hospital Gopalganj, , Gopalganj, Dist. Gopalganj	9431283852	ddbloodbank.sadargpj@gmail.com	Govt.	-	Camps
+
+Stock
+35	Blood Centre Sadar Hospital , Hajipur	Blood Bank Sadar Hospital Hajipur, Hajipur, Dist. Vaishali	8051988279	shbbhajipur36@gmail.com	Govt.	-	Camps
+
+Stock
+36	Blood Centre Sadar Hospital, Jamui	Sadar Hospital Jamui , Jamui, Dist. Jamui	9470003349, 9431251684	bbjamui@gmail.com	Govt.	-	Camps
+
+Stock
+37	Blood Centre Sadar Hospital, Jehanabad	Amar Shahid Jagdeo Prasad Sadar Hospital Jehanabad Premises, Jehanabad, Dist. Jehanabad	9835407198, 06114225857	bloodbankshjeh@gmail.com	Govt.	-	Camps
+
+Stock
+38	Blood Centre Sadar Hospital Katihar	Sadar Hospital Katihar, Katihar, Dist. Katihar	7488179535	shkatbb1@gmail.com	Govt.	-	Camps
+
+Stock
+39	Blood Centre Sadar Hospital, Kishanganj	Sadar Hospital Kishanganj Campus , Kishanganj, Dist. Kishanganj	9470003401, 8544331639, 06456-223502	bloodbankkishanganjsadar@gmail.com	Govt.	-	Camps
+
+Stock
+40	Blood Centre Sadar Hospital, Lakhisarai	Sadar Hospital Lakhisarai (Second Floor) , Lakhisarai, Dist. Lakhisarai	7033901456	bloodbanklak@gmail.com	Govt.	-	Camps
+
+Stock
+41	Blood Centre Sadar Hospital, Madhubani	Blood Bank Sadar Hospital Madhubani, Madhubani, Dist. Madhubani	9431636181	BBSHMBI@gmail.com	Govt.	-	Camps
+
+Stock
+42	Blood Centre Sadar Hospital, Motihari, East Champaran	Sadar Hospital Motihari Campus, East Champaran, Motihari, Dist. Purba Champaran	7033605933	bcshmotihari@gmail.com	Govt.	-	Camps
+
+Stock
+43	Blood Centre Sadar Hospital, Munger	Blood Bank Sadar Hospital Munger , Munger, Dist. Munger	09472974539	bbmunger0@gmail.com	Govt.	-	Camps
+
+Stock
+44	Blood Centre Sadar Hospital, Muzaffarpur	Blood Centre Sadar Hospital Muzaffarpur Near Muzaffarpur Railway StationHospital Road, Muzaffarpur, Dist. Muzaffarpur	7903146100	bloodbanksadarhospitalmuz1@gmail.com	Govt.	-	Camps
+
+Stock
+45	Blood Centre Sadar Hospital, Nawada	Blood Bank Sadar Hospital Nawada, Nawada, Dist. Nawada	9386641234	bbnawada@gmail.com	Govt.	-	Camps
+
+Stock
+46	Blood Centre Sadar Hospital, Purnia	Blood Bank Sadar Hospital Purnia, Line bazar, Purnia, Dist. Purnia	06454244486, 9431268348, 9334510634	bloodbankpurniasadar@gmail.com	Govt.	-	Camps
+
+Stock
+47	Blood Centre Sadar Hospital, Saharsa	Blood Bank Sadar Hospital Saharsa, Saharsa, Dist. Saharsa	9431243003	bloodbanksaharsa@gmail.com	Govt.	-	Camps
+
+Stock
+48	Blood Centre Sadar Hospital, Samastipur	Blood Bank Sadar Hospital Samastipur, Samastipur, Dist. Samastipur	9934057693	bbsamastipur@gmail.com	Govt.	-	Camps
+
+Stock
+49	Blood Centre Sadar Hospital Sasaram, Rohtas	Blood Bank Sadar Hospital, Sasaram Rauza Road, Near Head Post officeSasaram, Sasaram, Dist. Rohtas	9810478878	bloodbankssm@gmail.com	Govt.	-	Camps
+
+Stock
+50	Blood Centre Sadar Hospital Sitamarhi	Sadar Hospital Sitamarhi, Sitamarhi, Dist. Sitamarhi	6226255106	bloodbanksitamarhi@gmail.com	Govt.	-	Camps
+
+Stock
+51	Blood Centre Sadar Hospital Siwan	Blood Bank Sadar Hospital Siwan, Siwan, Dist. Siwan	9470335919	siwanbloodbank@gmail.com	Govt.	-	Camps
+
+Stock
+52	Blood Centre Skmch Muzaffarpur	Blood Bank SKMCH,Emergency Ward, Uma nagar Ahiapur, Muzaffarpur, Dist. Muzaffarpur	0621-2233033	bloodbankskmchmuzaffarpur@gmail.com	Govt.	-	Camps
+
+Stock
+53	Blood Centre Tapashya Hopewell Hospital	Tapahsya Hopewell Hospital, Yadopur Road, Lakhpatiya More, Gopalganj, Gopalganj, Dist. Gopalganj	9431893100	tapashyafoundation@gmail.com	Private	-	Camps
+
+Stock
+54	Blood Centre Tripolia Hospital Patna	Tripolia Social Service hospital, Gulzarbagh, Patna, Dist. Patna	9430249521, 9905049090, 0612/2311065	tripoliahospital@yahoo.com	Charitable/Vol	-	Camps
+
+Stock
+55	Bose Clinic Blood Centre	BOSE CLINIC BLOOD BANK, Canal Road, Dehri-on-Son, Sasaram, Dist. Rohtas	9470007662	bosebbdehri124@gmail.com	Private	-	Camps
+
+Stock
+56	Department Of Transfusion Medicine And Blood Centre Aiims	AIIMS, Phulwarisharif, Near Bank of India, Patna, Dist. Patna	9993028936	bloodbank@aiimspatna.org	Govt.	-	Camps
+
+Stock
+57	Desh Ratna Dr Rajendra Prasad Memorial Rotary Blood Centre	Kali Asthan, P. O.- Pokhariya, Begusarai, Dist. Begusarai	8051619517	rotarybloodbankbgs@gmail.com	Private	-	Camps
+
+Stock
+58	District Blood Centre, Khagaria	Sadar Hospital Campus, Khagaria, Khagaria, Dist. Khagaria	6203551191	bloodbankkhagaria@gmail.com	Govt.	-	Camps
+
+Stock
+59	Dr. Hedgewar Blood Center	In side Swami Vivekanand Cancer Aspatal Mabbi, Darbhanga, Darbhanga, Dist. Darbhanga	7870870696	svcaceo@gmail.com	Private	-	Camps
+
+Stock
+60	Esic Medical College & Hospital, Bihta	ESIC Medical College & Hospital, Bihta, Bihta, Dist. Patna	7488076838	bloodcentre.esicmchbihta@gmail.com	Govt.	-	Camps
+
+Stock
+61	Glocal Blood Centre	Near airport, sabour, Dist. Bhagalpur	8210585609	glocalbloodbank786@gmail.com	Private	-	Camps
+
+Stock
+62	Guru Govind Singh Sadar Hospital Patna	Guru Govind Singh Sadar Hosp.BB Gurahatta, Patna, Dist. Patna	7004067854	ggsshpatnabloodcentre@gmail.com	Govt.	-	Camps
+
+Stock
+63	Ircs Blood Centre, Ara	Red Cross Society, South Ramana Road, Ara, Dist. Bhojpur	9934041541	ircsbhojpurara@gmail.com	Red Cross	-	Camps
+
+Stock
+64	Ircs Blood Centre,Motihari	Red Cross Society Building, Sadar Hospital road, Motihari, Motihari, Dist. Purba Champaran	9430276423, 7079933453, 9709631635	ircsbloodbankmotihari@gmail.com	Red Cross	-	Camps
+
+Stock
+65	Ircs Blood Centre, Patna	Indian Red Cross Society,Indian Red Cross Bhawan, North Gandhi Maidan, Patna, Dist. Patna	9931682048,06122201035, 7004311200	drbinay21@gmail.com	Red Cross	-	Camps
+
+Stock
+66	Ircs Blood Centre, Purnia	Red Cross Blood Bank Purnea, Red Cross Bhawan, Line Bazar, Purnia, Dist. Purnia	9934915560, 9661790053,0654-244211	redcrosspurnea23@gmail.com	Red Cross	-	Camps
+
+Stock
+67	Ircs, Blood Centre, Samastipur	IRCS Blood Bank, Samastipur Sadar Hospital, Samastipur Campus, Opposite Circuit House, At & Po. Samastipur, Samastipur, Dist. Samastipur	9701833614	ircsbbsamastipur@gmail.com	Red Cross	-	Camps
+
+Stock
+68	Ircs Blood Centre, Sitamarhi	Red Cross Blood Bank, Rajendra Bhawan, Red Cross Building, Main Road, Sitamarhi, Dist. Sitamarhi	7903972175 , 6307111849 , 6204240723	redcrossbloodbanksitamarhi@gmail.com	Red Cross	-	Camps
+
+Stock
+69	Jan Nayak Karpuri Thakur Medical College & Hospital Madhepura	jnktmch,madhepura, Bihar, Madhepura, Dist. Madhepura	9431448950	bloodbankjnktmch@gmail.com	Govt.	-	Camps
+
+Stock
+70	Jeevan Jyoti Hospital Blood Centre, Biharsharif	Jeevan Jyoti Super Speciality Hospital, Patel Nagar , Nala Road, Biharsharif, Biharsharif, Dist. Nalanda	7903104375	jeevanjyotibloodcenter211@gmail.com	Private	-	Camps
+
+Stock
+71	Jeevan Rekha Blood Centre Patna	c/o Getwell Hospital, Raza Bazar, Patna, Dist. Patna	9334123578,9973597334	rajeevbloodbank@gmail.com	Private	-	Camps
+
+Stock
+72	JPN Hospital Sadar Hospital Gaya	JPN Hospital,GB Road Gaya, Gaya, Dist. Gaya	8651554649	bcjpnh22@gmail.com	Govt.	-	Camps
+
+Stock
+73	Kiran Charitable Blood Centre, Purnea	Advanced Orthopaedic & Spine Centre NH -31, Line Bazar, , 87.4997893, Purnia, Dist. Purnia	9572851001	bloodbank.kiran@gmail.com	Charitable/Vol	-	Camps
+
+Stock
+74	Krishna Devi Prasad Kejriwa Hospital Blood Bank	KDKM Hospital, Juran Chhapra, Muzaffarpur, Dist. Muzaffarpur	9334592816	kdmsadan@yahoo.co.in	Private	-	Camps
+
+Stock
+75	Life Line Blood Centre	Life Line Blood Bank, Govind Mitra Road, Patna, Dist. Patna	0612-2301600,9234990509,9334114009	lifelinebloodbank99@gmail.com	Private	-	Camps
+
+Stock
+76	Lions Jeewan Blood Centre Patna	c/o Jeevak Heart Hospital & Research Institute , Pvt. Ltd, D-6 Doctor's Colony, Kankarbagh, Patna, Dist. Patna	9798322206,8969447165	info@jeevakhospital.com	Private	-	Camps
+
+Stock
+77	Lions Mahavir Cancer Sansthan BloodCentre, Phulwarisharif, Patna	Mahavir Cancer Sansthan, Phulwarisharif, Patna, Dist. Patna	9334128429	mcspatna98@gmail.com	Charitable/Vol	-	Camps
+
+Stock
+78	Lord Buddha Koshi Medical College, Saharsa	A & P - Baijnthpur, NH 107, Saharsa, Saharsa, Dist. Saharsa			Private	-	Camps
+
+Stock
+79	Maa Blood Center	Behind Brahma Asthan Mandir, Dariyapur Gola, Patna, Patna, Dist. Patna	9199334333	maabloodcentre22@gmail.com	Charitable/Vol	-	Camps
+
+Stock
+80	Maa Vindhyawasini Blood Centre	Pakri Chowk, Arrah, Dist. Bhojpur	9835642642	maavindhyawasinibloodbank@gmail.com	Private	-	Camps
+
+Stock
+81	Madhubani Medical College Hospital Madhubani	Madhubani Medical College Hospital, Madhubani, Dist. Madhubani	9654571370, 7631268632	mmc.madhubani@gmail.com	Private	-	Camps
+
+Stock
+82	Mbb, Jaiprabha Hospital, Patna	State of art Model Blood Bank, Jay Prabha Hospital campus,Kankarbagh Colony, Patna, Dist. Patna	9431062836,9431062836,0612-2355805	modelbloodbankpatna@gmail.com	Govt.	-	Camps
+
+Stock
+83	Mediversal Blood Centre	Mediversal Multi Super Specialty Hospital (A unit of Mediversal Health Care Pvt. Ltd.), Lohia Nagar, Kankarbagh, Patna, Dist. Patna	0612-3500010	bloodcentre@mediversal.in	Private	-	Camps
+
+Stock
+84	Micro Blood Centre Sasaram	Micro Blood Bank, Raj Colony, Sasaram, Sasaram, Dist. Rohtas	9771022313,9097667663	microbloodbanksasaram@gmail.com	Private	-	Camps
+
+Stock
+85	M/S City Blood Center Maripur, Muzaffarpur	Power House Chowk, Maripur, Muzaffapur, Muzaffarpur, Dist. Muzaffarpur	8434082666	citybloodbank.m.24@gmail.com	Private	-	Camps
+
+Stock
+86	M/S Harsan Blood Centre, Gopalganj	M/S Harsan Blood Bank (A Unit of Aryan Health Services Pvt, Ltd.), Harsan Hospital & Trauma Center, Vill - Banjari, Po. & Dist -Gopalganj, Gopalganj, Dist. Gopalganj	9431407729	harsanbloodbankgpj@gmail.com	Private	-	Camps
+
+Stock
+87	MS Jay Prabha Medanta Blood Centre	Patna Housing Board Colony Kankarbagh Patrakarnagar, Main Road Patna, patna, Dist. Patna	6287796565	patna.bloodbank@medanta.org	Private	-	Camps
+
+Stock
+88	M/S Punam Blood Centre, Sasaram	Punam Hospital Company, Sarai, Rauza Road, Sasaram, Sasaram, Dist. Rohtas	9631917615, 9661507544	poonamhospitalssm@gmail.com	Private	-	Camps
+
+Stock
+89	M/S Red Life Blood Centre, Nawada	(A unit of Atiyuttam Adarsh Education & Welfare Society, H.N0- 38, Purna Bhadur, PO- Samhari, , Nawada, Dist. Nawada			Private	-	Camps
+
+Stock
+90	M/S Sushila Blood Bank, Bhagalpuar	C/o Sushila Hospital, South of Lajpat Park U. N. Bagchi Road, Mashakchak, Bhagalpur, Dist. Bhagalpur	9897087022, 0641-2420211	anjanaprakash421@gmail.com	Private	-	-
+
+Stock
+91	Nalanda Blood Centre, Biharsharif	College More, Baradari, Biharsharif , Quamruddinganj ,Bihar Sharif ,Nalanda, Biharsharif, Dist. Nalanda	6201906171	nalandabbcmb@gmail.com	Charitable/Vol	-	Camps
+
+Stock
+92	Narayana Medical College & Hospital	Narayan Medical College & Hospital, Jamuhar Sasaram, Rohtas, Sasaram, Dist. Rohtas	9431422803,06184-281888,06184-281899	narayanmedical@gmail.com	Private	-	Camps
+
+Stock
+93	National Blood Centre & Resarch Center, Kankarbagh Patna	N C 2B Main Road Kankarbagh, Patna, Dist. Patna	9835084483,9939679116	nbb_rs@rediffmail.com	Private	-	Camps
+
+Stock
+94	Netaji Subhas Medical College And Hospital Patna	Amhara, Raghopur, Bihta, Patna, Dist. Patna	7781020346	bloodbank@nsmch.in	Private	-	Camps
+
+Stock
+95	Niramaya Blood Centre Kankarbagh, Patna	3, near SBI Bank, Jogipur, Kankarbagh, Kumhrar Patna, Patna, Dist. Patna	7766904622		Private	-	Camps
+
+Stock
+96	Palm View Hospital Blood Centre	Palm View Hospital Campus, Ambedkar Path, Nandanpur, Near Jagdeo Path More, Khajpura, Patna, Dist. Patna	8969639027	pvbb999@gmail.com	Private	-	Camps
+
+Stock
+97	Paras Hmri Hospital Blood Centre	Paras HMRI Hospital, Raza Bazar, Baily Road, Patna, Dist. Patna	9431073889,0612-710770,Ext. 7828	santanu.kumar@parashospitals.com	Private	-	Camps
+
+Stock
+98	PHULAR BLOOD CENTRE	JURAN CHHAPRA ROAD NO 2, MUZAFFARPUR , Muzaffarpur, Dist. Muzaffarpur	7765921688	phularbloodcentre@gmail.com	Private	-	Camps
+
+Stock
+99	Prathama Blood Center Patna	Atlantis Hospital Campus,Back side, Rupaspur Rail over bridge, , West Bailey Road, Service Lane, Opposite Gola road, Dist. Patna	9510400158	patna@prathama.org	Charitable/Vol	-	Camps
+
+Stock
+100	Rastra Kavi Dinkar Blood Centre, District Hospital, Begusarai	Rashrtra Kavi Dinkar Blood Bank, Dist.Hospital, Begusarai, Begusarai, Dist. Begusarai	6243291075	bbdhbegusarai@gmail.com	Govt.	-	Camps
+
+Stock
+101	RDJM Medical College & Hospital Turki Muzaffarpur	R.D.J.M. Medical College & Hospital, Dr. Kamal Nagar, Manariya Chajjan, Turki State: 10, Muzaffarpur, Dist. Muzaffarpur	8271816803	bloodbankrdjmmc@gmail.com	Private	-	Camps
+
+Stock
+102	Regional Blood Centre, Dmch, Darbhanga	Regional Blood Bank, Darbhanga Surgery Building (Ground Floor) DMCH Campus, Laheriasarai Darbhanga, Dist. Darbhanga	9470003249	dmchdarbhanga@gmail.com	Govt.	-	Camps
+
+Stock
+103	RH Amarpur, Banka (BSU)	Dist. Banka			Govt.	-	-
+
+Stock
+104	RH Baniapur, Saran (BSU)	Dist. Saran			Govt.	-	-
+
+Stock
+105	RH Baunsi, Banka (BSU)	Dist. Banka			Govt.	-	-
+
+Stock
+106	RH Bihta, Patna (BSU)	Dist. Patna			Govt.	-	-
+
+Stock
+107	RH Chandi, Nalanda (BSU)	Dist. Nalanda			Govt.	-	-
+
+Stock
+108	RH Gaunaha, West Champaran (BSU)	Dist. Pashchim Champaran			Govt.	-	-
+
+Stock
+109	RH Ghoshi, Jehanabad (BSU)	Dist. Jehanabad			Govt.	-	-
+
+Stock
+110	RH, Jale	NA, Darbhanga, Dist. Darbhanga	0		Govt.	-	-
+
+Stock
+111	RH, Jhajha	NA, Jamui, Dist. Jamui	0		Govt.	-	-
+
+Stock
+112	RH Lalganj , Vaishali (BSU)	NA, Vaishali, Dist. Vaishali	0		Govt.	-	-
+
+Stock
+113	RH Lauria, West Champaran (BSU)	Dist. Pashchim Champaran			Govt.	-	-
+
+Stock
+114	RH Mairwan, Siwan (BSU)	Dist. Siwan			Govt.	-	-
+
+Stock
+115	RH Makhdumpur, Jehanabad (BSU)	Dist. Jehanabad			Govt.	-	-
+
+Stock
+116	RH Marhaura, Saran (BSU)	Dist. Saran			Govt.	-	-
+
+Stock
+117	RH Matihani, Begsarai (BSU)	NA, Begusarai, Dist. Begusarai	0		Govt.	-	-
+
+Stock
+118	RH Mokama, Patna (BSU)	Dist. Patna			Govt.	-	-
+
+Stock
+119	RH Nathnagar, Bhagalpur (BSU)	Dist. Bhagalpur			Govt.	-	-
+
+Stock
+120	RH Naubatpur, Patna (BSU)	Dist. Patna			Govt.	-	-
+
+Stock
+121	RH Raghopur, Supaul (BSU)	Dist. Supaul			Govt.	-	-
+
+Stock
+122	RH Ramgarh, Kaimur (BSU)	Dist. Kaimur (Bhabua)			Govt.	-	-
+
+Stock
+123	RH Sultanganj, Bhagalpur (BSU)	Dist. Bhagalpur			Govt.	-	-
+
+Stock
+124	Rotary Anup Memorial Blood Centre, Patna	G/75-77, Peoples Cooperative Colony, Kankarbag, Patna, Dist. Patna	9631542296	anupbloodbank@gmail.com	Private	-	Camps
+
+Stock
+125	Ruban Memorial Hospital	Blood Bank Ruban Memorial Hospital, Ratan Stone Clinic (Unit of Ruban Patliputra HospitalPvt. Ltd.) , 19 Patliputra Colony,Near Patliputra Golambar, Patna, Dist. Patna	0612350317	k25kishore@gmail.com	Private	-	Camps
+
+Stock
+126	Sadar Hospital, Madhepura	Blood Bank Sadar Hospital Madhepura , Medhapura, Dist. Madhepura	9504511618	bbdhmadhepura16@gmail.com	Govt.	-	Camps
+
+Stock
+127	Sadar Hospital Shekhpura	Sadar Hospital Shekhpura, Ballu Chauk, Sheikhpura, Dist. Sheikhpura	8340224162	bbsheikhpura@gmail.com	Govt.	-	Camps
+
+Stock
+128	Sadar Hospital Supaul	First Floor B-57, S.H Supaul , Supaul, Dist. Supaul	9431451511	bloodcentreshsupaul@gmail.com	Govt.	-	Camps
+
+Stock
+129	Saroja Sitaram Sadar Hospital Sheohar	Blood Bank SH Sheohar Sadar Hospital Campus Sheohar, Bihar, sheohar, Dist. Sheohar	7700843249	sheoharbc@gmail.com	Govt.	-	Camps
+
+Stock
+130	SDH, Areraj	NA, Purba Champaran, Dist. Purba Champaran	0		Govt.	-	-
+
+Stock
+131	SDH Bagaha, West Champaran (BSU)	Dist. Pashchim Champaran			Govt.	-	-
+
+Stock
+132	SDH Banmankhi, Purnea (BSU)	Dist. Purnia			Govt.	-	-
+
+Stock
+133	SDH Barh, Patna (BSU)	Dist. Patna			Govt.	-	-
+
+Stock
+134	SDH Bikramganj, Rohtas (BSU)	Dist. Rohtas			Govt.	-	-
+
+Stock
+135	SDH Dalsingsarai, Samastipur (BSU)	Dist. Samastipur			Govt.	-	-
+
+Stock
+136	SDH Danapur, Patna (BSU)	Dist. Patna			Govt.	-	-
+
+Stock
+137	SDH Daudnagar, Aurangabad (BSU)	Dist. Aurangabad			Govt.	-	-
+
+Stock
+138	SDH Dhamdaha, Purnea (BSU)	Dist. Purnia			Govt.	-	-
+
+Stock
+139	SDH Dumraon,Buxar (BSU)	Dist. Buxar			Govt.	-	-
+
+Stock
+140	SDH Hathua, Gopaganj (BSU)	Dist. Gopalganj			Govt.	-	-
+
+Stock
+141	SDH Hilsa, Nalanda (BSU)	Dist. Nalanda			Govt.	-	-
+
+Stock
+142	SDH Jaynagar, Madhubani (BSU)	Dist. Madhubani			Govt.	-	-
+
+Stock
+143	SDH Jhanjharpur, Madhubani (BSU)	Dist. Madhubani			Govt.	-	-
+
+Stock
+144	SDH Kahalgaon, Bhagalpur (BSU)	Dist. Bhagalpur			Govt.	-	-
+
+Stock
+145	SDH Mahua, Vaishali (BSU)	Dist. Vaishali			Govt.	-	-
+
+Stock
+146	SDH Manihari, Katihar (BSU)	Dist. Katihar			Govt.	-	-
+
+Stock
+147	SDH Masaurhi, Patna (BSU)	Dist. Patna			Govt.	-	-
+
+Stock
+148	SDH, Mohania	NA, Kaimur, Dist. Kaimur (Bhabua)	0		Govt.	-	-
+
+Stock
+149	SDH, Narkatiyaganj BSU	NA, Paschim Champaran, Dist. Pashchim Champaran	0		Govt.	-	-
+
+Stock
+150	SDH Naugachchia, Bhagalpur (BSU)	Dist. Bhagalpur			Govt.	-	-
+
+Stock
+151	SDH Paliganj, Patna (BSU)	Dist. Patna			Govt.	-	-
+
+Stock
+152	SDH Patori, Samastipur (BSU)	Dist. Samastipur			Govt.	-	-
+
+Stock
+153	SDH Phulparas, Madhubani (BSU)	Dist. Madhubani			Govt.	-	-
+
+Stock
+154	SDH Pupari, Sitamarhi (BSU)	Dist. Sitamarhi			Govt.	-	-
+
+Stock
+155	SDH Rajgir, Nalanda (BSU)	Dist. Nalanda			Govt.	-	-
+
+Stock
+156	. SDH Rosera, Samastipur (BSU)	Dist. Samastipur			Govt.	-	-
+
+Stock
+157	SDH Sakara, Muzaffarpur (BSU)	Dist. Muzaffarpur			Govt.	-	-
+
+Stock
+158	SDH, Sherghati	NA, Gaya, Dist. Gaya	0		Govt.	-	-
+
+Stock
+159	SDH Sonpur, Saran (BSU)	Dist. Saran			Govt.	-	-
+
+Stock
+160	SDH Tarapur, Munger (BSU)	Dist. Munger			Govt.	-	-
+
+Stock
+161	SH Araria (BSU)	Dist. Araria			Govt.	-	-
+
+Stock
+162	Shrinivas (G) blood Centre	Basement of C Block , Shrinivas Nagar, Kamalpur,NH-722,Chhapra Garkha Highway,Near Aloni Bazar,Chhapra ,841311, Bihar, Saran, Chhapra Garkha, Dist. Saran	9641809117	Yamitkr7@gmail.com	Charitable/Vol	-	Camps
+
+Stock
+163	Shristi Blood bank Patna	Shristi Blood bank (An unit of Sugam Jagriti) Kumhrar, , Kumhrar park, Patna, Dist. Patna	7903727609	shrishtibloodbank@gmail.com	Private	-	Camps
+
+Stock
+164	SH Supaul (BSU)	Dist. Supaul			Govt.	-	-
+
+Stock
+165	Shukla Medicity Blood Centre, Darbhanga	A unit of Dr. Shukla's Medicity Pvt. Ltd. Diggi West, , Darbhanga, Dist. Darbhanga	9430001280	1985mukesh0105@gmail.com	Private	-	Camps
+
+Stock
+166	Sinha Blood Centre	Sinha Blood Bank, Unit of Dr A. K. Sinha Nursing Home, Imlichatti, Muzaffarpur, Dist. Muzaffarpur	9572172100	sinhabloodbank.muzaffarpur@gmail.com	Private	-	Camps
+
+Stock
+167	S.R. Hospital	SR Hospital& Research Centre, BH.Colony near Tej Naryan Cmplex, Patna 800026, patna, Dist. Patna	7480094721	srhospital@gmail.com	Private	-	Camps
+
+Stock
+168	Sri Narayan Medical Institute & Hospital Saharsa	Sri Narayan Medical Institute & Hospital Mahavir Nagar, Bherdhari, Saharsa, Dist. Saharsa	9308317610	rksingh_gaya@yahoo.co.in	Private	-	Camps
+
+Stock
+169	Sub Divisional Hospital, Benipur Darbhanga	Blood Centre, Sub Divisional Hospital, Benipur Darbhanga, Darbhanga, Dist. Darbhanga	7870714100	sdhbenipurdbg@gmail.com	Govt.	-	Camps
+
+Stock
+170	Surya Hospital Blood Centre, Saharsa	c/o Surya Hospital, Gandhi Path, Satsang Mandir road, Saharsa, Dist. Saharsa	9931697749		Private	-	Camps
+
+Stock
+171	Vatsalya Blood Centre	Vaatsalya Blood Bank, Mahavir Vaatsalya Aspatal, East of Sadaquat Ashram,L. C. T. Ghat, Patna, Dist. Patna	7007349297	vaatsalyabloodbank@rediffmail.com	Charitable/Vol	-	Camps
+
+Stock, make this data LLm friendly or in csv like this -S.No.,Name,Address,Phone,Email,Category,Type
+1,Apollo Surgical & Urology Center,"Purani Jail Road, Nawada, Nawada, Dist. Nawada",8969860124,surgicalsapollonawada@gmail.com,Private,Camps
+2,Beena Bhawani Blood Center,"inside maa janki hospital bairiya golamber, Muzaffarpur, Dist. Muzaffarpur",9211845114,beenabhawanibloodcentre@gmail.com,Private,Camps
+3,Bhagwan Mahavir Institute Of Medical Science,"BMIMS Pawapuri Nalanda, Nalanda, Dist. Nalanda",06112-262793,bloodcentrepawapuri@gmail.com,Govt.,Camps
+4,Bharat Blood Centre, Patna,"Bharat Blood Bank,Churi Bazar, Dharahara Kothi, Patna, Dist. Patna",9334151682,bharatbloodbank0612@gmail.com,Private,Camps
+5,Bihar Charitable Blood Centre Motihari E. Champaran,"(Unit of Atut Welfare Foundation), Rahmania Medical Centre, NH 28A, Bariyarpur, Motihari , Motihari, Dist. Purba Champaran",0,,Private,Camps
+6,Bihar State Blood Centre, Pmch, Patna,"Bihar State Blood Bank PMCH, Ashok Raj Path, Bankipur, Patna, Dist. Patna",9835261061,bbpmch@gmail.com,Govt.,Camps
+7,Blood Bank And Research Center,"Mira Nursing Home, Ashok Nagar, Pokharia, Begusarai, Begusarai, Dist. Begusarai",7782871426,bbrcbegusarai@gmail.com,Private,Camps
+8,Blood Center Niveda Hospital Patna,"G-44, PC Colony, Kankarbagh, Patna, Dist. Patna",8051499145,bloodcenternivedahospital44@gmail.com,Private,Camps
+9,Blood Center Sadar Hospital Arwal,"SH Arwal, Arwal, Dist. Arwal",9504546290,bloodcentresharwal@gmail.com,Govt.,Camps
+10,Blood Centre Abhay Institute Of Medical Sciences,"M/S Blood Bank Abhay Institute of Medical Sciences Pvt. Ltd, HARIO, Dobhi Road, Gaya, Dist. Gaya",9006298774,aimsbloodbank@gmail.com,Private,Camps
+11,Blood Centre Anmmch, Gaya,"Blood Bank, ANMMCH Gaya, Gaya, Dist. Gaya",7992367813,bloodbankanmmc@gmail.com,Govt.,Camps
+12,Blood Centre Duncan Hospital,"The DUNCAN HOSPITAL, BLOOD BANK DEPARTMENT, Raxaul, Raxaul, Dist. Purba Champaran",9931847216,duncanbloodbankanup@gmail.com,Charitable/Vol,Camps
+13,Blood Centre Himalaya Medical College and Hospital,"Chiksi, Paliganj, Paliganj, Dist. Patna",9304637349,bloodcenterhmch@gmail.com,Charitable/Vol,Camps
+14,Blood Centre Hitech Emergency Hospital,"M/S Hitech Emergency Hospital Blood Bank, (A keshaw Hospital Pvt. Ltd.) SAGUNA MORE, KHAGAUL ROAD DANAPUR, , Patna, Dist. Patna","0612-3262107,9708036570",bbhitechemergency@gmail.com,Private,Camps
+15,Blood Centre Igims Patna,"Blood Bank IGIMS Sheikhpura, Patna, Dist. Patna","8544413216, 0612-2297631, 0612-2297215",director@gmail.com,Govt.,Camps
+16,Blood Centre Jlnmch Bhagalpur,"Mayaganj Tilkamanjhi, Bhagalpur, Dist. Bhagalpur",9934456029,rbbjlnmch@gmail.com,Govt.,Camps
+17,Blood Centre Kmch, Katihar,"Karim Bagh, Post Box No.- 23, Katihar, Katihar, Dist. Katihar",09955215438,bloodbankkmc100@gmail.com,Private,Camps
+18,Blood Centre Kurji Holy Family Hospital, Patna,"Blood Bank Kurji Holy Family Hospital,Sadakat Ashram, Patna, Dist. Patna",9835880918,khfhosp@gmail.com,Charitable/Vol,Camps
+19,Blood Centre Max Seven Hospital,"Max Seven Hospital Pvt. Ltd., NH 57, Lichi Bagan, Naulakha, Kasba, Dist. Purnia",9874777680,mshbloodcentre@gmail.com,Charitable/Vol,Camps
+20,Blood Centre Mgmm College And Hospital,"Mata Gujri Memorial Medical College & L.S.K. Hospital, Kishanganj BIHAR, Kishanganj, Dist. Kishanganj",6295486633,mgmkne@gmail.com,Private,Camps , 
+
+Certainly! Below is the summary formatted similarly to how it might appear for Bihar, with each center listed on a single line and separated by commas as you requested:
+
+```plaintext
+Saroj Super Speciality Hospital,Sector 14, Rohini, New Delhi, 9818442406, rbansal1970@yahoo.com, Private
+Shree Balaji Action Medical Institute,FC-34A-4, Paschim Vihar, New Delhi, 42888888, 42888967, mangwana.sadhna@actionhospital.com, Private
+Shri Moolchand Khariti-Ram Hospital And Ayurvedic Research Institute,Lajpat Nagar-III, New Delhi, 0114200000, info@mcdh.in, Private
+Sir Ganga Ram Hospital,Rajinder Nagar, New Delhi, 011-4225-1870, vivek.ranjan@sgrh.com, Charitable/Voluntary
+St. Stephens Hospital,Tis Hazari, Delhi, 8383853829, sshbloodbank@gmail.com, Charitable/Voluntary
+Lady Hardinge Medical College & Associated Hospitals (LADY HARDINGE MEDICAL COLLEGE),SHAHEED BHAGAT MARG, CONNAUGHT PLACE, New Delhi, 01123408270, bloodbanklhmc@gmail.com, Government
+Swami Dayanand Hospital,Shahadara, Delhi, 22581031, 22583809, bloodbank.sdnh.edmc@gmail.com, Government
+Tarak Hospital India Pvt Ltd,C-7,Jai Bharat Enclave,Dwarka, Metro Pillar no 789, Delhi, 7988746754, tarakbloodbank@gmail.com, Private
+White Cross Blood Centre,A-60, East of Kailash, New Delhi, 01149055916, 9289336131, kamalkantkohali@gmail.com, Private
+C.N. Centre Blood Centre (AIIMS),Ansari Nagar, New Delhi, 26593625, anjalihz@gmail.com, Government
+Central Polyclinic Blood Centre,Gagan Vihar, Delhi, 7982625423, cpcbloodbank1988@gmail.com, Private
+Cribs Blood Centre,Flat No, 101 & 104, 40 Feet Rd, Shaheen Bagh, Abul Fazal Enclave Part 2, Jamia Nagar, Okhla, New Delhi, 8826215745, cribscbc@gmail.com, Charitable/Voluntary
+Dr. Ram Manohar Lohia Hospital Blood Centre,Baba Kharak Sing Marg, Connaught Place, New Delhi, 23365581, ddarmlh2@gmail.com, Government
+Freedom Blood Centre,Plot no. c-1/2a and c-1/1a, Yamuna vihar, Yamuna vihar, Dist. North East, 8529839023, Freedombloodbankdelhi@gmail.com, Private
+Guru Nanak Dev Charitable Blood Centre,B-1/625 (Basement) Janak Puri New Delhi, 01140355666, gurunanakdevbloodcentre@gmail.com, Charitable/Voluntary
+Human Care Medical Charitable Trust,Palam Vihar, Sector-22, Rohni, Dist. South West, 9680976744, bloodcentre0024@gmail.com, Private
+Indian Red Cross Society National Headquarters Blood Centre,Red Cross Road, New Delhi, 9900000000, cdac@cdac.in, Government
+Kailash Deepak Hospital Blood Center,Karkar Doomah, New Delhi, 9900000000, cdac@cdac.in, Private
+Life Line Blood Centre (Mata Roop Rani Maggo & Mahindru Hospital),Om Vihar Phase 1 Rd, New Delhi, 9900000000, cdac@cdac.in, Private
+Madhukar Rainbow Children's Hospital (MRCH),Malviya Nagar, New Delhi, 9900000000, cdac@cdac.in, Private
+Shree Aggarsain International Hospital Blood Centre,PSP, Sector-22, Rohni, Dist. South West, 9680976744, bloodcentre0024@gmail.com, Private
+Venkateshwar Hospital,Dwarka Sector-18 A, New Delhi, 9900000000, cdac@cdac.in, Private
+OM CHARITABLE BLOOD CENTRE (A UNIT OF LOK SEVA CHARITABLE TRUST),G T Karnal Road Industrial Area, New Delhi, 9900000000, cdac@cdac.in, Private
+```
+
+This format lists each center on a single line with all relevant information separated by commas. If you need any specific adjustments or additional details, feel free to let me know!
+
+Certainly! Below is the summary of the data you provided, formatted similarly to the previous datasets for Bihar and Delhi.
+
+### Blood Storage Units and Hospitals in Jharkhand
+
+| ID | Name of Unit/Center | Address | Contact Number | Email ID | Type | Services | Notes |
+|-----|-------------------|---------|---------------|----------|------|--------|-------|
+| 64  | Hill View Blood Storage Unit   | Hill View Road, Bariatu, Ranchi, Dist. Ranchi | 9470590980 | hillviewhospital@gmail.com | Private | - | Camps |
+| 65  | Hope Hospital Blood Storage Unit | Ranchi Road, Marar, Ramgarh-829117, Ramgarh, Dist. Ramgarh | 6204481157 | thehopehospital2018@gmail.com | Private | - | Camps |
+| 66  | Indian Red Cross Society Blood Centre, Chatra | Near Post Office, Sadar Hospital Campus Chatra, Chatra, Dist. Chatra | 9934359125 | ircschatra@gmail.com | Red Cross | - | Camps |
+| 67  | Indian Red Cross Society Blood Centre, Bokaro | Near Circuit House, Sector-1, Bokaro, Dist. Bokaro | 8987625689 | jh.bb.ircsbksc@gmail.com | Red Cross | - | Camps |
+| 68  | Indian Red Cross Society Blood Centre, Ranchi | Red Cross Building, Morabadi maidan, Ranchi, Dist. Ranchi | 9819186308 | ircsmorabadi834002@gmail.com | Red Cross | - | Camps |
+| 69  | Jamshedpur Blood Centre | Stocking Road, Jamshedpur, Jamsedpur, Dist. Purbi Singhbhum | 9507164950 | jbbjsr@gmail.com | Charitable/Voluntary | - | Camps |
+| 70  | Jharkhand Blood Centre | S. R. Complex, Near Bariatu Masjid, Bariatu, Ranchi, Dist. Ranchi | 6514655060 | jharkhandbloodbank2004@gmail.com | Private | - | Camps |
+| 71  | Khushi Nursing Home BSU | Plot No-160, Cooperative colony, B.S. City, Bokaro - 827001, Bokaro Steel City, Dist. Bokaro | 9204747374 | kumaramitmahto2219@gmail.com | Private | - | Camps |
+| 72  | Kiriburu General Hospital | At/P.O.-Kiribur, West Singhbhum, Dist. Pashchimi Singhbhum | 8986881168 | jh.bb.sailkiriburu@gmail.com | Private | - | Camps |
+| 73  | K.M. Memorial Hospital Research Centre Blood Centre | Bye Pass Road, National Highway 23, Chas, NEAR RAJDOOT HOTEL BY PASS ROAD CHAS BOKARO, Bokaro, Dist. Bokaro | 9470592687 | jh.bb.kmmhbksc@gmail.com | Private | - | Camps |
+| 74  | State Of Art Model Blood Centre, Rims Bariatu, Ranchi | RIMS BLOOD BANK, Ranchi, Dist. Ranchi | 9470516651 | bldbnkrims@gmail.com | Govt. | - | Camps |
+| 75  | Singhpur Nursing Home Blood Centre | Muri, 835101, Ranchi, Dist. Ranchi | 9534789000 / 9471318300 | snhbloodcentre@gmail.com | Private | - | Camps |
+| 76  | Swarnrekha Hospital Blood Storage Unit | Swarnrekha Hospital, Opposite Petrol Pump, Near Cambridge School, Tatisilwai, Ranchi, Tatisilwai Ranchi, Dist. Ranchi | 7763071592 | drnasirhussain850@gmail.com | Private | - | Camps |
+| 77  | Tata Central Hospital Blood Centre | Jamadoba, P.O.- Bhaga, Dhanbad, Dist. Dhanbad | 9234612802 | hitendra.kumar@tatasteel.com | Private | - | Camps |
+| 78  | State Govt. Model Blood Bank | Sardar Patel Hospital, Tatanagar, Ranchi | 9470537263 | sbblodbank@gmail.com | Govt. | - | Camps |
+| 79  | Tata Iron & Steel Company (Tisco), West Bokaro Hospital Blood Centre | Ghatotand, Ramgarh, Dist. Ramgarh | 8818800480 | brp@tatasteel.com | Private | - | Camps |
+| 80  | The Blood Centre, Sadar Hospital, Gumla | The Blood Bank, Sadar Hospital, Gumla, Gumla, Gumla, Dist. Gumla | 9534032306 | bloodbankgumla@gmail.com | Govt. | - | Camps |
+| 81  | Sncm Chakraborty Nursing Home Blood Centre | Debraj Complex, 3rd Floor, Dhanbad, Dist. Dhanbad | 9939900855 | ranjansnh6@gmail.com | Private | - | Camps |
+| 82  | Shanti Bhawan Medical Centre, Blood Centre | Blood Bank, Shanti Bhawan Medical Centre, P.S. Biru, Simdega, Biru, Dist. Simdega | 8294034425 | sbmebiru@gmail.com | Private | - | Camps |
+| 83  | Shivay Blood Centre | 2nd Floor, Shivay Hospital, Near Tower Chowk, Shyamganj Road, Deoghar, Dist. Deoghar | 9771945631 | shivaaybloodcentre@gmail.com | Private | - | Camps |
+| 84  | Srinivas Blood Centre (Hazaribag) | Hazaribag, Dist. Hazaribagh | 7004926413 | snh.bb19@gmail.com | Private | - | Camps |
+| 85  | Srinivas Blood Centre (Dhanbad) | 1st floor Patliputra Multi-speciality Hospital, Jora-fatak road near shakti mandir, Dhanbad, Jharkhand, 826001, Dhanbad, Dist. Dhanbad | 0326554837 | snhbcdnb@gmail.com | Private | - | Camps |
+| 86  | Samford Hospital Pvt. Ltd. Blood Centre | Samford Hospital, D-Block, Kokar Chowk, Kokar, Ranchi, Dist. Ranchi | 7488823354 | samfordbloodcentre@gmail.com | Private | - | Camps |
+| 87  | Latehar District Government Hospital Blood Bank | Sadar Hospital, Latehar | 9430327172 | bloodbanklatehar@gmail.com | Govt. | - | Camps |
+| 88  | Madhupur District Hospital Blood Centre | Madhupur, Dist. Deoghar | 9536253209 | sbblodbankmadhpur@gmail.com | Govt. | - | Camps |
+| 89  | Sadar Hospital Saraikela Kharsawan Blood Bank | SARAIKELA HOSPITAL, SADAR, SARAIKELA-KHARSAWAN, JHARKHAND, INDIA, Saraikela Kharsawan, Dist. Saraikela-Kharsawan | 8369507243, 9431340962 | vishnudeoprasad14@gmail.com | Govt. | - | Camps |
+
+This summary includes all the relevant details from your dataset, formatted in a tabular manner for easy reference and comparison. If you need any further adjustments or additional information, please let me know!
+Rahul kumar Mahato Bokaro, JH |rahulkr.kr43@gmail.com |6207325688 |Rahul kr - Portfolio LinkedIn |GitHub Career Objective I’m an AI/ML enthusiast with a deep interest in building intelligent systems and exploring the latest advancements in Artificial Intelligence, Large Language Models (LLMs), and Generative AI.I have hands-on experience in developing machine learning & deep learning predictive modeling, NLP-based AI-driven applications.
+
+Seeking an opportunity to leverage my AI and machine learning skills to deliver impactful solutions, drive growth, and contribute to cutting-edge projects within a dynamic team Education Central University of South Bihar, Gaya , Master of Science in Data Science and Applied StatisticsPresent •CGPA: 8.27/10.0 | 3rd Semester SGPA: 9.02 Binod Bihari Mahato Koylanchal University, Dhanbad, Jharkhand , Bachelor of Science in Mathematics2019 – 2022 •GPA: 7.66/10 Skills Languages: Python ,R, SQL Technologies: Numpy ,Pandas,Seaborn, Scikit-learn,Mlflow,TensorFlow, Keras, PyTorch,Retrieval-Augmented Generation (RAG), Hugging Face Transformers, LangChain,GPT models. Tools & Platforms: Tableau ,IBM Spss, Linux , Git, Collab , Hugging Face Experience AI/ML Industrial training, National Institute of Electronics and Information Technology(NIELIT) , Patnapresent •Working on Deep Learning and NLP-based projects, focusing on building intelligent models for natural language understanding.
+
+Leveraging advanced neural networks and transformer-based deep learning architectures with recovered generation and few-shot voice cloning for personalized human-computer interaction Data science Poster Presentation Coordinator ,Central University of South Bihar, GayaDec 2024 •Organized and presented a poster on "Contributions to Data Science and Machine Learning by Indian Scholars and Industries".Highlighted how Indian statisticians contributed to solving real-world problems through innovative data science and machine learning methods. Projects An Emotionally Intelligent Voice Chatbot Using Deep Learning Present •Overview: Developed an advanced voice chatbot capable of emotionally intelligent conversations, powered by Retrieval-Augmented Generation (RAG) and few-shot voice cloning.
+
+The chatbot detects emotional tone in user input and generates personalized responses while replicating a specific person’s voice using minimal audio samples for a highly personalized conversational experience. •Applications: Customer support, virtual assistants, therapeutic chatbots, and personalized AI communication.•Tools Used: TensorFlow, Hugging Face Transformers, OpenAI Whisper, Python, Flask, Langchain Prediction of Air Quality Index (AQI) for Mumbai Region July 2024 - Dec 2024 •Developed a machine learning model to predict Air Quality Index (AQI) for Mumbai using historical air quality data.The project focuses on handling missing values, preprocessing data, and evaluating the performance of multiple regression models.Decision Tree and Random Forest models demonstrated superior performance.•Tools Used: Python: Pandas, NumPy, Matplotlib, Seaborn •Machine Learning: Linear Regression, Decision Tree, Random Forest, KNN, SVR (Scikit-learn)
+

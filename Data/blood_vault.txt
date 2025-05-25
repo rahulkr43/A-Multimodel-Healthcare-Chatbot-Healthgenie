@@ -1,0 +1,603 @@
+Click to show search results on Map
+Show 
+All
+ entriesSearch:
+S.No.	Name	Address	Phone	Email	Category	Distance (km)	Type
+1	Apollo Surgical & Urology Center	Purani Jail Road, Nawada, Nawada, Dist. Nawada	8969860124	surgicalsapollonawada@gmail.com	Private	-	Camps
+
+Stock
+2	Beena Bhawani Blood Center	inside maa janki hospital bairiya golamber, Muzaffarpur, Dist. Muzaffarpur	9211845114	beenabhawanibloodcentre@gmail.com	Private	-	Camps
+
+Stock
+3	Bhagwan Mahavir Institute Of Medical Science	BMIMS Pawapuri Nalanda, Nalanda, Dist. Nalanda	06112-262793	bloodcentrepawapuri@gmail.com	Govt.	-	Camps
+
+Stock
+4	Bharat Blood Centre, Patna	Bharat Blood Bank,Churi Bazar, Dharahara Kothi, Patna, Dist. Patna	9334151682	bharatbloodbank0612@gmail.com	Private	-	Camps
+
+Stock
+5	Bihar Charitable Blood Centre Motihari E. Champaran	(Unit of Atut Welfare Foundation), Rahmania Medical Centre, NH 28A, Bariyarpur, Motihari , Motihari, Dist. Purba Champaran	0		Private	-	Camps
+
+Stock
+6	Bihar State Blood Centre, Pmch, Patna	Bihar State Blood Bank PMCH, Ashok Raj Path, Bankipur, Patna, Dist. Patna	9835261061	bbpmch@gmail.com	Govt.	-	Camps
+
+Stock
+7	Blood Bank And Research Center	Mira Nursing Home, Ashok Nagar, Pokharia, Begusarai, Begusarai, Dist. Begusarai	7782871426	bbrcbegusarai@gmail.com	Private	-	Camps
+
+Stock
+8	Blood Center Niveda Hospital Patna	G-44, PC Colony, Kankarbagh, Patna, Dist. Patna	8051499145	bloodcenternivedahospital44@gmail.com	Private	-	Camps
+
+Stock
+9	Blood Center Sadar Hospital Arwal	SH Arwal, Arwal, Dist. Arwal	9504546290	bloodcentresharwal@gmail.com	Govt.	-	Camps
+
+Stock
+10	Blood Centre Abhay Institute Of Medical Sciences	M/S Blood Bank Abhay Institute of Medical Sciences Pvt. Ltd, HARIO, Dobhi Road, Gaya, Dist. Gaya	9006298774	aimsbloodbank@gmail.com	Private	-	Camps
+
+Stock
+11	Blood Centre Anmmch, Gaya	Blood Bank, ANMMCH Gaya, Gaya, Dist. Gaya	7992367813	bloodbankanmmc@gmail.com	Govt.	-	Camps
+
+Stock
+12	Blood Centre Duncan Hospital	The DUNCAN HOSPITAL, BLOOD BANK DEPARTMENT, Raxaul, Raxaul, Dist. Purba Champaran	9931847216	duncanbloodbankanup@gmail.com	Charitable/Vol	-	Camps
+
+Stock
+13	Blood Centre Himalaya Medical College and Hospital	Chiksi, Paliganj, Paliganj, Dist. Patna	9304637349	bloodcenterhmch@gmail.com	Charitable/Vol	-	Camps
+
+Stock
+14	Blood Centre Hitech Emergency Hospital	M/S Hitech Emergency Hospital Blood Bank, (A keshaw Hospital Pvt. Ltd.) SAGUNA MORE, KHAGAUL ROAD DANAPUR, , Patna, Dist. Patna	0612-3262107,9708036570	bbhitechemergency@gmail.com	Private	-	Camps
+
+Stock
+15	Blood Centre Igims Patna	Blood Bank IGIMS Sheikhpura, Patna, Dist. Patna	8544413216, 0612-2297631, 0612-2297215	director@gmail.com	Govt.	-	Camps
+
+Stock
+16	Blood Centre Jlnmch Bhagalpur	Mayaganj Tilkamanjhi, Bhagalpur, Dist. Bhagalpur	9934456029	rbbjlnmch@gmail.com	Govt.	-	Camps
+
+Stock
+17	Blood Centre Kmch, Katihar	Karim Bagh, Post Box No.- 23, Katihar, Katihar, Dist. Katihar	09955215438	bloodbankkmc100@gmail.com	Private	-	Camps
+
+Stock
+18	Blood Centre Kurji Holy Family Hospital, Patna	Blood Bank Kurji Holy Family Hospital,Sadakat Ashram, Patna, Dist. Patna	9835880918	khfhosp@gmail.com	Charitable/Vol	-	Camps
+
+Stock
+19	Blood Centre Max Seven Hospital	Max Seven Hospital Pvt. Ltd., NH 57, Lichi Bagan, Naulakha, Kasba, Dist. Purnia	9874777680	mshbloodcentre@gmail.com	Charitable/Vol	-	Camps
+
+Stock
+20	Blood Centre Mgmm College And Hospital	Mata Gujri Memorial Medical College & L.S.K. Hospital, Kishanganj BIHAR, Kishanganj, Dist. Kishanganj	6295486633	mgmkne@gmail.com	Private	-	Camps
+
+Stock
+21	Blood Centre Mjk Hospital, Betiah	Blood Bank MJK Hospital Betia West Champaran, Betiah, Dist. Pashchim Champaran	9431642371, 09122159981	bb2bth@gmail.com	Govt.	-	Camps
+
+Stock
+22	Blood Centre Nandipat Memorial Hospital & Research Centre, Sitamarhi	Ring Bandh, Near Saraswati Vidya Mandir, Sitamarhi, Dist. Sitamarhi	8228882221	npmhrc@gmail.com	Private	-	Camps
+
+Stock
+23	Blood Centre NMCH Patna	Blood Bank NMCH Patna, Agamkuan, Patna, Dist. Patna	9971818317	bankbloodnmchpatna@gmail.com	Govt.	-	Camps
+
+Stock
+24	Blood Centre P.N. H. Mahatma Budha Education Center	Blood Bank P.N. H. Mahatma Budha Education Center, East Gandhi Maidan, Siwan, Siwan, Dist. Siwan	7783006060, 0615-4245245, 9430523283	bloodbankpnhsiwan24@gmail.com	Charitable/Vol	-	Camps
+
+Stock
+25	Blood Centre Sadar Hospital, Ara	Sadar Hospital Ara, Shivganj, Dist-Bhojpur, Bhojpur Ara , Dist. Bhojpur	7870288755	bloodbankara@gmail.com	Govt.	-	Camps
+
+Stock
+26	Blood Centre Sadar Hospital Araria	Sadar Hospital Araria, Araria, Dist. Araria	0	bloodcentershararia@gmail.com	Govt.	-	Camps
+
+Stock
+27	Blood Centre Sadar Hospital, Aurangabad	Sadar Hospital, Aurangabad, Old G.B.Road, Aurangabad, Dist. Aurangabad	7277287443	bloodbankabadbihar@gmail.com	Govt.	-	Camps
+
+Stock
+28	Blood Centre Sadar Hospital Banka	SH Banka, Banka, Dist. Banka	88096 55885	bcshbank@gmail.com	Govt.	-	Camps
+
+Stock
+29	Blood Centre Sadar Hospital, Bhabua, Kaimur	Sadar Hospital Bhabua Kachahari Road , Bhabua, Bhabua, Dist. Kaimur (Bhabua)	9470003362	bbshkai2@gmail.com	Govt.	-	Camps
+
+Stock
+30	Blood Centre Sadar Hospital Bhagalpur	SH Bhagalpur, Bhagalpur, Dist. Bhagalpur	8271580382	bloodcentrebgp@gmail.com	Govt.	-	Camps
+
+Stock
+31	Blood Centre Sadar Hospital, Biharsharif	Blood Center Sadar Hospital Biharsharif Nalanda, Blood Center Sadar Hospital Biharsharif Nalanda, Biharsharif, Dist. Nalanda	9304081072	bbshbiharsarifnalanda@gmail.com	Govt.	-	Camps
+
+Stock
+32	Blood Centre Sadar Hospital, Buxar	Sadar Hospital, Central Jail, BUXAR, Buxar, Dist. Buxar	6183222017	bloodbankshbuxar@gmail.com	Govt.	-	Camps
+
+Stock
+33	Blood Centre Sadar Hospital, Chhapra	Blood Bank, Sadar Hospital Chhapra, Chhapra, Dist. Saran	9431088277	bloodbankchapra@gmail.com	Govt.	-	Camps
+
+Stock
+34	Blood Centre Sadar Hospital, Gopalganj	Blood Bank, Sadar Hospital Gopalganj, , Gopalganj, Dist. Gopalganj	9431283852	ddbloodbank.sadargpj@gmail.com	Govt.	-	Camps
+
+Stock
+35	Blood Centre Sadar Hospital , Hajipur	Blood Bank Sadar Hospital Hajipur, Hajipur, Dist. Vaishali	8051988279	shbbhajipur36@gmail.com	Govt.	-	Camps
+
+Stock
+36	Blood Centre Sadar Hospital, Jamui	Sadar Hospital Jamui , Jamui, Dist. Jamui	9470003349, 9431251684	bbjamui@gmail.com	Govt.	-	Camps
+
+Stock
+37	Blood Centre Sadar Hospital, Jehanabad	Amar Shahid Jagdeo Prasad Sadar Hospital Jehanabad Premises, Jehanabad, Dist. Jehanabad	9835407198, 06114225857	bloodbankshjeh@gmail.com	Govt.	-	Camps
+
+Stock
+38	Blood Centre Sadar Hospital Katihar	Sadar Hospital Katihar, Katihar, Dist. Katihar	7488179535	shkatbb1@gmail.com	Govt.	-	Camps
+
+Stock
+39	Blood Centre Sadar Hospital, Kishanganj	Sadar Hospital Kishanganj Campus , Kishanganj, Dist. Kishanganj	9470003401, 8544331639, 06456-223502	bloodbankkishanganjsadar@gmail.com	Govt.	-	Camps
+
+Stock
+40	Blood Centre Sadar Hospital, Lakhisarai	Sadar Hospital Lakhisarai (Second Floor) , Lakhisarai, Dist. Lakhisarai	7033901456	bloodbanklak@gmail.com	Govt.	-	Camps
+
+Stock
+41	Blood Centre Sadar Hospital, Madhubani	Blood Bank Sadar Hospital Madhubani, Madhubani, Dist. Madhubani	9431636181	BBSHMBI@gmail.com	Govt.	-	Camps
+
+Stock
+42	Blood Centre Sadar Hospital, Motihari, East Champaran	Sadar Hospital Motihari Campus, East Champaran, Motihari, Dist. Purba Champaran	7033605933	bcshmotihari@gmail.com	Govt.	-	Camps
+
+Stock
+43	Blood Centre Sadar Hospital, Munger	Blood Bank Sadar Hospital Munger , Munger, Dist. Munger	09472974539	bbmunger0@gmail.com	Govt.	-	Camps
+
+Stock
+44	Blood Centre Sadar Hospital, Muzaffarpur	Blood Centre Sadar Hospital Muzaffarpur Near Muzaffarpur Railway StationHospital Road, Muzaffarpur, Dist. Muzaffarpur	7903146100	bloodbanksadarhospitalmuz1@gmail.com	Govt.	-	Camps
+
+Stock
+45	Blood Centre Sadar Hospital, Nawada	Blood Bank Sadar Hospital Nawada, Nawada, Dist. Nawada	9386641234	bbnawada@gmail.com	Govt.	-	Camps
+
+Stock
+46	Blood Centre Sadar Hospital, Purnia	Blood Bank Sadar Hospital Purnia, Line bazar, Purnia, Dist. Purnia	06454244486, 9431268348, 9334510634	bloodbankpurniasadar@gmail.com	Govt.	-	Camps
+
+Stock
+47	Blood Centre Sadar Hospital, Saharsa	Blood Bank Sadar Hospital Saharsa, Saharsa, Dist. Saharsa	9431243003	bloodbanksaharsa@gmail.com	Govt.	-	Camps
+
+Stock
+48	Blood Centre Sadar Hospital, Samastipur	Blood Bank Sadar Hospital Samastipur, Samastipur, Dist. Samastipur	9934057693	bbsamastipur@gmail.com	Govt.	-	Camps
+
+Stock
+49	Blood Centre Sadar Hospital Sasaram, Rohtas	Blood Bank Sadar Hospital, Sasaram Rauza Road, Near Head Post officeSasaram, Sasaram, Dist. Rohtas	9810478878	bloodbankssm@gmail.com	Govt.	-	Camps
+
+Stock
+50	Blood Centre Sadar Hospital Sitamarhi	Sadar Hospital Sitamarhi, Sitamarhi, Dist. Sitamarhi	6226255106	bloodbanksitamarhi@gmail.com	Govt.	-	Camps
+
+Stock
+51	Blood Centre Sadar Hospital Siwan	Blood Bank Sadar Hospital Siwan, Siwan, Dist. Siwan	9470335919	siwanbloodbank@gmail.com	Govt.	-	Camps
+
+Stock
+52	Blood Centre Skmch Muzaffarpur	Blood Bank SKMCH,Emergency Ward, Uma nagar Ahiapur, Muzaffarpur, Dist. Muzaffarpur	0621-2233033	bloodbankskmchmuzaffarpur@gmail.com	Govt.	-	Camps
+
+Stock
+53	Blood Centre Tapashya Hopewell Hospital	Tapahsya Hopewell Hospital, Yadopur Road, Lakhpatiya More, Gopalganj, Gopalganj, Dist. Gopalganj	9431893100	tapashyafoundation@gmail.com	Private	-	Camps
+
+Stock
+54	Blood Centre Tripolia Hospital Patna	Tripolia Social Service hospital, Gulzarbagh, Patna, Dist. Patna	9430249521, 9905049090, 0612/2311065	tripoliahospital@yahoo.com	Charitable/Vol	-	Camps
+
+Stock
+55	Bose Clinic Blood Centre	BOSE CLINIC BLOOD BANK, Canal Road, Dehri-on-Son, Sasaram, Dist. Rohtas	9470007662	bosebbdehri124@gmail.com	Private	-	Camps
+
+Stock
+56	Department Of Transfusion Medicine And Blood Centre Aiims	AIIMS, Phulwarisharif, Near Bank of India, Patna, Dist. Patna	9993028936	bloodbank@aiimspatna.org	Govt.	-	Camps
+
+Stock
+57	Desh Ratna Dr Rajendra Prasad Memorial Rotary Blood Centre	Kali Asthan, P. O.- Pokhariya, Begusarai, Dist. Begusarai	8051619517	rotarybloodbankbgs@gmail.com	Private	-	Camps
+
+Stock
+58	District Blood Centre, Khagaria	Sadar Hospital Campus, Khagaria, Khagaria, Dist. Khagaria	6203551191	bloodbankkhagaria@gmail.com	Govt.	-	Camps
+
+Stock
+59	Dr. Hedgewar Blood Center	In side Swami Vivekanand Cancer Aspatal Mabbi, Darbhanga, Darbhanga, Dist. Darbhanga	7870870696	svcaceo@gmail.com	Private	-	Camps
+
+Stock
+60	Esic Medical College & Hospital, Bihta	ESIC Medical College & Hospital, Bihta, Bihta, Dist. Patna	7488076838	bloodcentre.esicmchbihta@gmail.com	Govt.	-	Camps
+
+Stock
+61	Glocal Blood Centre	Near airport, sabour, Dist. Bhagalpur	8210585609	glocalbloodbank786@gmail.com	Private	-	Camps
+
+Stock
+62	Guru Govind Singh Sadar Hospital Patna	Guru Govind Singh Sadar Hosp.BB Gurahatta, Patna, Dist. Patna	7004067854	ggsshpatnabloodcentre@gmail.com	Govt.	-	Camps
+
+Stock
+63	Ircs Blood Centre, Ara	Red Cross Society, South Ramana Road, Ara, Dist. Bhojpur	9934041541	ircsbhojpurara@gmail.com	Red Cross	-	Camps
+
+Stock
+64	Ircs Blood Centre,Motihari	Red Cross Society Building, Sadar Hospital road, Motihari, Motihari, Dist. Purba Champaran	9430276423, 7079933453, 9709631635	ircsbloodbankmotihari@gmail.com	Red Cross	-	Camps
+
+Stock
+65	Ircs Blood Centre, Patna	Indian Red Cross Society,Indian Red Cross Bhawan, North Gandhi Maidan, Patna, Dist. Patna	9931682048,06122201035, 7004311200	drbinay21@gmail.com	Red Cross	-	Camps
+
+Stock
+66	Ircs Blood Centre, Purnia	Red Cross Blood Bank Purnea, Red Cross Bhawan, Line Bazar, Purnia, Dist. Purnia	9934915560, 9661790053,0654-244211	redcrosspurnea23@gmail.com	Red Cross	-	Camps
+
+Stock
+67	Ircs, Blood Centre, Samastipur	IRCS Blood Bank, Samastipur Sadar Hospital, Samastipur Campus, Opposite Circuit House, At & Po. Samastipur, Samastipur, Dist. Samastipur	9701833614	ircsbbsamastipur@gmail.com	Red Cross	-	Camps
+
+Stock
+68	Ircs Blood Centre, Sitamarhi	Red Cross Blood Bank, Rajendra Bhawan, Red Cross Building, Main Road, Sitamarhi, Dist. Sitamarhi	7903972175 , 6307111849 , 6204240723	redcrossbloodbanksitamarhi@gmail.com	Red Cross	-	Camps
+
+Stock
+69	Jan Nayak Karpuri Thakur Medical College & Hospital Madhepura	jnktmch,madhepura, Bihar, Madhepura, Dist. Madhepura	9431448950	bloodbankjnktmch@gmail.com	Govt.	-	Camps
+
+Stock
+70	Jeevan Jyoti Hospital Blood Centre, Biharsharif	Jeevan Jyoti Super Speciality Hospital, Patel Nagar , Nala Road, Biharsharif, Biharsharif, Dist. Nalanda	7903104375	jeevanjyotibloodcenter211@gmail.com	Private	-	Camps
+
+Stock
+71	Jeevan Rekha Blood Centre Patna	c/o Getwell Hospital, Raza Bazar, Patna, Dist. Patna	9334123578,9973597334	rajeevbloodbank@gmail.com	Private	-	Camps
+
+Stock
+72	JPN Hospital Sadar Hospital Gaya	JPN Hospital,GB Road Gaya, Gaya, Dist. Gaya	8651554649	bcjpnh22@gmail.com	Govt.	-	Camps
+
+Stock
+73	Kiran Charitable Blood Centre, Purnea	Advanced Orthopaedic & Spine Centre NH -31, Line Bazar, , 87.4997893, Purnia, Dist. Purnia	9572851001	bloodbank.kiran@gmail.com	Charitable/Vol	-	Camps
+
+Stock
+74	Krishna Devi Prasad Kejriwa Hospital Blood Bank	KDKM Hospital, Juran Chhapra, Muzaffarpur, Dist. Muzaffarpur	9334592816	kdmsadan@yahoo.co.in	Private	-	Camps
+
+Stock
+75	Life Line Blood Centre	Life Line Blood Bank, Govind Mitra Road, Patna, Dist. Patna	0612-2301600,9234990509,9334114009	lifelinebloodbank99@gmail.com	Private	-	Camps
+
+Stock
+76	Lions Jeewan Blood Centre Patna	c/o Jeevak Heart Hospital & Research Institute , Pvt. Ltd, D-6 Doctor's Colony, Kankarbagh, Patna, Dist. Patna	9798322206,8969447165	info@jeevakhospital.com	Private	-	Camps
+
+Stock
+77	Lions Mahavir Cancer Sansthan BloodCentre, Phulwarisharif, Patna	Mahavir Cancer Sansthan, Phulwarisharif, Patna, Dist. Patna	9334128429	mcspatna98@gmail.com	Charitable/Vol	-	Camps
+
+Stock
+78	Lord Buddha Koshi Medical College, Saharsa	A & P - Baijnthpur, NH 107, Saharsa, Saharsa, Dist. Saharsa			Private	-	Camps
+
+Stock
+79	Maa Blood Center	Behind Brahma Asthan Mandir, Dariyapur Gola, Patna, Patna, Dist. Patna	9199334333	maabloodcentre22@gmail.com	Charitable/Vol	-	Camps
+
+Stock
+80	Maa Vindhyawasini Blood Centre	Pakri Chowk, Arrah, Dist. Bhojpur	9835642642	maavindhyawasinibloodbank@gmail.com	Private	-	Camps
+
+Stock
+81	Madhubani Medical College Hospital Madhubani	Madhubani Medical College Hospital, Madhubani, Dist. Madhubani	9654571370, 7631268632	mmc.madhubani@gmail.com	Private	-	Camps
+
+Stock
+82	Mbb, Jaiprabha Hospital, Patna	State of art Model Blood Bank, Jay Prabha Hospital campus,Kankarbagh Colony, Patna, Dist. Patna	9431062836,9431062836,0612-2355805	modelbloodbankpatna@gmail.com	Govt.	-	Camps
+
+Stock
+83	Mediversal Blood Centre	Mediversal Multi Super Specialty Hospital (A unit of Mediversal Health Care Pvt. Ltd.), Lohia Nagar, Kankarbagh, Patna, Dist. Patna	0612-3500010	bloodcentre@mediversal.in	Private	-	Camps
+
+Stock
+84	Micro Blood Centre Sasaram	Micro Blood Bank, Raj Colony, Sasaram, Sasaram, Dist. Rohtas	9771022313,9097667663	microbloodbanksasaram@gmail.com	Private	-	Camps
+
+Stock
+85	M/S City Blood Center Maripur, Muzaffarpur	Power House Chowk, Maripur, Muzaffapur, Muzaffarpur, Dist. Muzaffarpur	8434082666	citybloodbank.m.24@gmail.com	Private	-	Camps
+
+Stock
+86	M/S Harsan Blood Centre, Gopalganj	M/S Harsan Blood Bank (A Unit of Aryan Health Services Pvt, Ltd.), Harsan Hospital & Trauma Center, Vill - Banjari, Po. & Dist -Gopalganj, Gopalganj, Dist. Gopalganj	9431407729	harsanbloodbankgpj@gmail.com	Private	-	Camps
+
+Stock
+87	MS Jay Prabha Medanta Blood Centre	Patna Housing Board Colony Kankarbagh Patrakarnagar, Main Road Patna, patna, Dist. Patna	6287796565	patna.bloodbank@medanta.org	Private	-	Camps
+
+Stock
+88	M/S Punam Blood Centre, Sasaram	Punam Hospital Company, Sarai, Rauza Road, Sasaram, Sasaram, Dist. Rohtas	9631917615, 9661507544	poonamhospitalssm@gmail.com	Private	-	Camps
+
+Stock
+89	M/S Red Life Blood Centre, Nawada	(A unit of Atiyuttam Adarsh Education & Welfare Society, H.N0- 38, Purna Bhadur, PO- Samhari, , Nawada, Dist. Nawada			Private	-	Camps
+
+Stock
+90	M/S Sushila Blood Bank, Bhagalpuar	C/o Sushila Hospital, South of Lajpat Park U. N. Bagchi Road, Mashakchak, Bhagalpur, Dist. Bhagalpur	9897087022, 0641-2420211	anjanaprakash421@gmail.com	Private	-	-
+
+Stock
+91	Nalanda Blood Centre, Biharsharif	College More, Baradari, Biharsharif , Quamruddinganj ,Bihar Sharif ,Nalanda, Biharsharif, Dist. Nalanda	6201906171	nalandabbcmb@gmail.com	Charitable/Vol	-	Camps
+
+Stock
+92	Narayana Medical College & Hospital	Narayan Medical College & Hospital, Jamuhar Sasaram, Rohtas, Sasaram, Dist. Rohtas	9431422803,06184-281888,06184-281899	narayanmedical@gmail.com	Private	-	Camps
+
+Stock
+93	National Blood Centre & Resarch Center, Kankarbagh Patna	N C 2B Main Road Kankarbagh, Patna, Dist. Patna	9835084483,9939679116	nbb_rs@rediffmail.com	Private	-	Camps
+
+Stock
+94	Netaji Subhas Medical College And Hospital Patna	Amhara, Raghopur, Bihta, Patna, Dist. Patna	7781020346	bloodbank@nsmch.in	Private	-	Camps
+
+Stock
+95	Niramaya Blood Centre Kankarbagh, Patna	3, near SBI Bank, Jogipur, Kankarbagh, Kumhrar Patna, Patna, Dist. Patna	7766904622		Private	-	Camps
+
+Stock
+96	Palm View Hospital Blood Centre	Palm View Hospital Campus, Ambedkar Path, Nandanpur, Near Jagdeo Path More, Khajpura, Patna, Dist. Patna	8969639027	pvbb999@gmail.com	Private	-	Camps
+
+Stock
+97	Paras Hmri Hospital Blood Centre	Paras HMRI Hospital, Raza Bazar, Baily Road, Patna, Dist. Patna	9431073889,0612-710770,Ext. 7828	santanu.kumar@parashospitals.com	Private	-	Camps
+
+Stock
+98	PHULAR BLOOD CENTRE	JURAN CHHAPRA ROAD NO 2, MUZAFFARPUR , Muzaffarpur, Dist. Muzaffarpur	7765921688	phularbloodcentre@gmail.com	Private	-	Camps
+
+Stock
+99	Prathama Blood Center Patna	Atlantis Hospital Campus,Back side, Rupaspur Rail over bridge, , West Bailey Road, Service Lane, Opposite Gola road, Dist. Patna	9510400158	patna@prathama.org	Charitable/Vol	-	Camps
+
+Stock
+100	Rastra Kavi Dinkar Blood Centre, District Hospital, Begusarai	Rashrtra Kavi Dinkar Blood Bank, Dist.Hospital, Begusarai, Begusarai, Dist. Begusarai	6243291075	bbdhbegusarai@gmail.com	Govt.	-	Camps
+
+Stock
+101	RDJM Medical College & Hospital Turki Muzaffarpur	R.D.J.M. Medical College & Hospital, Dr. Kamal Nagar, Manariya Chajjan, Turki State: 10, Muzaffarpur, Dist. Muzaffarpur	8271816803	bloodbankrdjmmc@gmail.com	Private	-	Camps
+
+Stock
+102	Regional Blood Centre, Dmch, Darbhanga	Regional Blood Bank, Darbhanga Surgery Building (Ground Floor) DMCH Campus, Laheriasarai Darbhanga, Dist. Darbhanga	9470003249	dmchdarbhanga@gmail.com	Govt.	-	Camps
+
+Stock
+103	RH Amarpur, Banka (BSU)	Dist. Banka			Govt.	-	-
+
+Stock
+104	RH Baniapur, Saran (BSU)	Dist. Saran			Govt.	-	-
+
+Stock
+105	RH Baunsi, Banka (BSU)	Dist. Banka			Govt.	-	-
+
+Stock
+106	RH Bihta, Patna (BSU)	Dist. Patna			Govt.	-	-
+
+Stock
+107	RH Chandi, Nalanda (BSU)	Dist. Nalanda			Govt.	-	-
+
+Stock
+108	RH Gaunaha, West Champaran (BSU)	Dist. Pashchim Champaran			Govt.	-	-
+
+Stock
+109	RH Ghoshi, Jehanabad (BSU)	Dist. Jehanabad			Govt.	-	-
+
+Stock
+110	RH, Jale	NA, Darbhanga, Dist. Darbhanga	0		Govt.	-	-
+
+Stock
+111	RH, Jhajha	NA, Jamui, Dist. Jamui	0		Govt.	-	-
+
+Stock
+112	RH Lalganj , Vaishali (BSU)	NA, Vaishali, Dist. Vaishali	0		Govt.	-	-
+
+Stock
+113	RH Lauria, West Champaran (BSU)	Dist. Pashchim Champaran			Govt.	-	-
+
+Stock
+114	RH Mairwan, Siwan (BSU)	Dist. Siwan			Govt.	-	-
+
+Stock
+115	RH Makhdumpur, Jehanabad (BSU)	Dist. Jehanabad			Govt.	-	-
+
+Stock
+116	RH Marhaura, Saran (BSU)	Dist. Saran			Govt.	-	-
+
+Stock
+117	RH Matihani, Begsarai (BSU)	NA, Begusarai, Dist. Begusarai	0		Govt.	-	-
+
+Stock
+118	RH Mokama, Patna (BSU)	Dist. Patna			Govt.	-	-
+
+Stock
+119	RH Nathnagar, Bhagalpur (BSU)	Dist. Bhagalpur			Govt.	-	-
+
+Stock
+120	RH Naubatpur, Patna (BSU)	Dist. Patna			Govt.	-	-
+
+Stock
+121	RH Raghopur, Supaul (BSU)	Dist. Supaul			Govt.	-	-
+
+Stock
+122	RH Ramgarh, Kaimur (BSU)	Dist. Kaimur (Bhabua)			Govt.	-	-
+
+Stock
+123	RH Sultanganj, Bhagalpur (BSU)	Dist. Bhagalpur			Govt.	-	-
+
+Stock
+124	Rotary Anup Memorial Blood Centre, Patna	G/75-77, Peoples Cooperative Colony, Kankarbag, Patna, Dist. Patna	9631542296	anupbloodbank@gmail.com	Private	-	Camps
+
+Stock
+125	Ruban Memorial Hospital	Blood Bank Ruban Memorial Hospital, Ratan Stone Clinic (Unit of Ruban Patliputra HospitalPvt. Ltd.) , 19 Patliputra Colony,Near Patliputra Golambar, Patna, Dist. Patna	0612350317	k25kishore@gmail.com	Private	-	Camps
+
+Stock
+126	Sadar Hospital, Madhepura	Blood Bank Sadar Hospital Madhepura , Medhapura, Dist. Madhepura	9504511618	bbdhmadhepura16@gmail.com	Govt.	-	Camps
+
+Stock
+127	Sadar Hospital Shekhpura	Sadar Hospital Shekhpura, Ballu Chauk, Sheikhpura, Dist. Sheikhpura	8340224162	bbsheikhpura@gmail.com	Govt.	-	Camps
+
+Stock
+128	Sadar Hospital Supaul	First Floor B-57, S.H Supaul , Supaul, Dist. Supaul	9431451511	bloodcentreshsupaul@gmail.com	Govt.	-	Camps
+
+Stock
+129	Saroja Sitaram Sadar Hospital Sheohar	Blood Bank SH Sheohar Sadar Hospital Campus Sheohar, Bihar, sheohar, Dist. Sheohar	7700843249	sheoharbc@gmail.com	Govt.	-	Camps
+
+Stock
+130	SDH, Areraj	NA, Purba Champaran, Dist. Purba Champaran	0		Govt.	-	-
+
+Stock
+131	SDH Bagaha, West Champaran (BSU)	Dist. Pashchim Champaran			Govt.	-	-
+
+Stock
+132	SDH Banmankhi, Purnea (BSU)	Dist. Purnia			Govt.	-	-
+
+Stock
+133	SDH Barh, Patna (BSU)	Dist. Patna			Govt.	-	-
+
+Stock
+134	SDH Bikramganj, Rohtas (BSU)	Dist. Rohtas			Govt.	-	-
+
+Stock
+135	SDH Dalsingsarai, Samastipur (BSU)	Dist. Samastipur			Govt.	-	-
+
+Stock
+136	SDH Danapur, Patna (BSU)	Dist. Patna			Govt.	-	-
+
+Stock
+137	SDH Daudnagar, Aurangabad (BSU)	Dist. Aurangabad			Govt.	-	-
+
+Stock
+138	SDH Dhamdaha, Purnea (BSU)	Dist. Purnia			Govt.	-	-
+
+Stock
+139	SDH Dumraon,Buxar (BSU)	Dist. Buxar			Govt.	-	-
+
+Stock
+140	SDH Hathua, Gopaganj (BSU)	Dist. Gopalganj			Govt.	-	-
+
+Stock
+141	SDH Hilsa, Nalanda (BSU)	Dist. Nalanda			Govt.	-	-
+
+Stock
+142	SDH Jaynagar, Madhubani (BSU)	Dist. Madhubani			Govt.	-	-
+
+Stock
+143	SDH Jhanjharpur, Madhubani (BSU)	Dist. Madhubani			Govt.	-	-
+
+Stock
+144	SDH Kahalgaon, Bhagalpur (BSU)	Dist. Bhagalpur			Govt.	-	-
+
+Stock
+145	SDH Mahua, Vaishali (BSU)	Dist. Vaishali			Govt.	-	-
+
+Stock
+146	SDH Manihari, Katihar (BSU)	Dist. Katihar			Govt.	-	-
+
+Stock
+147	SDH Masaurhi, Patna (BSU)	Dist. Patna			Govt.	-	-
+
+Stock
+148	SDH, Mohania	NA, Kaimur, Dist. Kaimur (Bhabua)	0		Govt.	-	-
+
+Stock
+149	SDH, Narkatiyaganj BSU	NA, Paschim Champaran, Dist. Pashchim Champaran	0		Govt.	-	-
+
+Stock
+150	SDH Naugachchia, Bhagalpur (BSU)	Dist. Bhagalpur			Govt.	-	-
+
+Stock
+151	SDH Paliganj, Patna (BSU)	Dist. Patna			Govt.	-	-
+
+Stock
+152	SDH Patori, Samastipur (BSU)	Dist. Samastipur			Govt.	-	-
+
+Stock
+153	SDH Phulparas, Madhubani (BSU)	Dist. Madhubani			Govt.	-	-
+
+Stock
+154	SDH Pupari, Sitamarhi (BSU)	Dist. Sitamarhi			Govt.	-	-
+
+Stock
+155	SDH Rajgir, Nalanda (BSU)	Dist. Nalanda			Govt.	-	-
+
+Stock
+156	. SDH Rosera, Samastipur (BSU)	Dist. Samastipur			Govt.	-	-
+
+Stock
+157	SDH Sakara, Muzaffarpur (BSU)	Dist. Muzaffarpur			Govt.	-	-
+
+Stock
+158	SDH, Sherghati	NA, Gaya, Dist. Gaya	0		Govt.	-	-
+
+Stock
+159	SDH Sonpur, Saran (BSU)	Dist. Saran			Govt.	-	-
+
+Stock
+160	SDH Tarapur, Munger (BSU)	Dist. Munger			Govt.	-	-
+
+Stock
+161	SH Araria (BSU)	Dist. Araria			Govt.	-	-
+
+Stock
+162	Shrinivas (G) blood Centre	Basement of C Block , Shrinivas Nagar, Kamalpur,NH-722,Chhapra Garkha Highway,Near Aloni Bazar,Chhapra ,841311, Bihar, Saran, Chhapra Garkha, Dist. Saran	9641809117	Yamitkr7@gmail.com	Charitable/Vol	-	Camps
+
+Stock
+163	Shristi Blood bank Patna	Shristi Blood bank (An unit of Sugam Jagriti) Kumhrar, , Kumhrar park, Patna, Dist. Patna	7903727609	shrishtibloodbank@gmail.com	Private	-	Camps
+
+Stock
+164	SH Supaul (BSU)	Dist. Supaul			Govt.	-	-
+
+Stock
+165	Shukla Medicity Blood Centre, Darbhanga	A unit of Dr. Shukla's Medicity Pvt. Ltd. Diggi West, , Darbhanga, Dist. Darbhanga	9430001280	1985mukesh0105@gmail.com	Private	-	Camps
+
+Stock
+166	Sinha Blood Centre	Sinha Blood Bank, Unit of Dr A. K. Sinha Nursing Home, Imlichatti, Muzaffarpur, Dist. Muzaffarpur	9572172100	sinhabloodbank.muzaffarpur@gmail.com	Private	-	Camps
+
+Stock
+167	S.R. Hospital	SR Hospital& Research Centre, BH.Colony near Tej Naryan Cmplex, Patna 800026, patna, Dist. Patna	7480094721	srhospital@gmail.com	Private	-	Camps
+
+Stock
+168	Sri Narayan Medical Institute & Hospital Saharsa	Sri Narayan Medical Institute & Hospital Mahavir Nagar, Bherdhari, Saharsa, Dist. Saharsa	9308317610	rksingh_gaya@yahoo.co.in	Private	-	Camps
+
+Stock
+169	Sub Divisional Hospital, Benipur Darbhanga	Blood Centre, Sub Divisional Hospital, Benipur Darbhanga, Darbhanga, Dist. Darbhanga	7870714100	sdhbenipurdbg@gmail.com	Govt.	-	Camps
+
+Stock
+170	Surya Hospital Blood Centre, Saharsa	c/o Surya Hospital, Gandhi Path, Satsang Mandir road, Saharsa, Dist. Saharsa	9931697749		Private	-	Camps
+
+Stock
+171	Vatsalya Blood Centre	Vaatsalya Blood Bank, Mahavir Vaatsalya Aspatal, East of Sadaquat Ashram,L. C. T. Ghat, Patna, Dist. Patna	7007349297	vaatsalyabloodbank@rediffmail.com	Charitable/Vol	-	Camps
+
+Stock, make this data LLm friendly or in csv like this -S.No.,Name,Address,Phone,Email,Category,Type
+1,Apollo Surgical & Urology Center,"Purani Jail Road, Nawada, Nawada, Dist. Nawada",8969860124,surgicalsapollonawada@gmail.com,Private,Camps
+2,Beena Bhawani Blood Center,"inside maa janki hospital bairiya golamber, Muzaffarpur, Dist. Muzaffarpur",9211845114,beenabhawanibloodcentre@gmail.com,Private,Camps
+3,Bhagwan Mahavir Institute Of Medical Science,"BMIMS Pawapuri Nalanda, Nalanda, Dist. Nalanda",06112-262793,bloodcentrepawapuri@gmail.com,Govt.,Camps
+4,Bharat Blood Centre, Patna,"Bharat Blood Bank,Churi Bazar, Dharahara Kothi, Patna, Dist. Patna",9334151682,bharatbloodbank0612@gmail.com,Private,Camps
+5,Bihar Charitable Blood Centre Motihari E. Champaran,"(Unit of Atut Welfare Foundation), Rahmania Medical Centre, NH 28A, Bariyarpur, Motihari , Motihari, Dist. Purba Champaran",0,,Private,Camps
+6,Bihar State Blood Centre, Pmch, Patna,"Bihar State Blood Bank PMCH, Ashok Raj Path, Bankipur, Patna, Dist. Patna",9835261061,bbpmch@gmail.com,Govt.,Camps
+7,Blood Bank And Research Center,"Mira Nursing Home, Ashok Nagar, Pokharia, Begusarai, Begusarai, Dist. Begusarai",7782871426,bbrcbegusarai@gmail.com,Private,Camps
+8,Blood Center Niveda Hospital Patna,"G-44, PC Colony, Kankarbagh, Patna, Dist. Patna",8051499145,bloodcenternivedahospital44@gmail.com,Private,Camps
+9,Blood Center Sadar Hospital Arwal,"SH Arwal, Arwal, Dist. Arwal",9504546290,bloodcentresharwal@gmail.com,Govt.,Camps
+10,Blood Centre Abhay Institute Of Medical Sciences,"M/S Blood Bank Abhay Institute of Medical Sciences Pvt. Ltd, HARIO, Dobhi Road, Gaya, Dist. Gaya",9006298774,aimsbloodbank@gmail.com,Private,Camps
+11,Blood Centre Anmmch, Gaya,"Blood Bank, ANMMCH Gaya, Gaya, Dist. Gaya",7992367813,bloodbankanmmc@gmail.com,Govt.,Camps
+12,Blood Centre Duncan Hospital,"The DUNCAN HOSPITAL, BLOOD BANK DEPARTMENT, Raxaul, Raxaul, Dist. Purba Champaran",9931847216,duncanbloodbankanup@gmail.com,Charitable/Vol,Camps
+13,Blood Centre Himalaya Medical College and Hospital,"Chiksi, Paliganj, Paliganj, Dist. Patna",9304637349,bloodcenterhmch@gmail.com,Charitable/Vol,Camps
+14,Blood Centre Hitech Emergency Hospital,"M/S Hitech Emergency Hospital Blood Bank, (A keshaw Hospital Pvt. Ltd.) SAGUNA MORE, KHAGAUL ROAD DANAPUR, , Patna, Dist. Patna","0612-3262107,9708036570",bbhitechemergency@gmail.com,Private,Camps
+15,Blood Centre Igims Patna,"Blood Bank IGIMS Sheikhpura, Patna, Dist. Patna","8544413216, 0612-2297631, 0612-2297215",director@gmail.com,Govt.,Camps
+16,Blood Centre Jlnmch Bhagalpur,"Mayaganj Tilkamanjhi, Bhagalpur, Dist. Bhagalpur",9934456029,rbbjlnmch@gmail.com,Govt.,Camps
+17,Blood Centre Kmch, Katihar,"Karim Bagh, Post Box No.- 23, Katihar, Katihar, Dist. Katihar",09955215438,bloodbankkmc100@gmail.com,Private,Camps
+18,Blood Centre Kurji Holy Family Hospital, Patna,"Blood Bank Kurji Holy Family Hospital,Sadakat Ashram, Patna, Dist. Patna",9835880918,khfhosp@gmail.com,Charitable/Vol,Camps
+19,Blood Centre Max Seven Hospital,"Max Seven Hospital Pvt. Ltd., NH 57, Lichi Bagan, Naulakha, Kasba, Dist. Purnia",9874777680,mshbloodcentre@gmail.com,Charitable/Vol,Camps
+20,Blood Centre Mgmm College And Hospital,"Mata Gujri Memorial Medical College & L.S.K. Hospital, Kishanganj BIHAR, Kishanganj, Dist. Kishanganj",6295486633,mgmkne@gmail.com,Private,Camps , 
+
+Certainly! Below is the summary formatted similarly to how it might appear for Bihar, with each center listed on a single line and separated by commas as you requested:
+
+```plaintext
+Saroj Super Speciality Hospital,Sector 14, Rohini, New Delhi, 9818442406, rbansal1970@yahoo.com, Private
+Shree Balaji Action Medical Institute,FC-34A-4, Paschim Vihar, New Delhi, 42888888, 42888967, mangwana.sadhna@actionhospital.com, Private
+Shri Moolchand Khariti-Ram Hospital And Ayurvedic Research Institute,Lajpat Nagar-III, New Delhi, 0114200000, info@mcdh.in, Private
+Sir Ganga Ram Hospital,Rajinder Nagar, New Delhi, 011-4225-1870, vivek.ranjan@sgrh.com, Charitable/Voluntary
+St. Stephens Hospital,Tis Hazari, Delhi, 8383853829, sshbloodbank@gmail.com, Charitable/Voluntary
+Lady Hardinge Medical College & Associated Hospitals (LADY HARDINGE MEDICAL COLLEGE),SHAHEED BHAGAT MARG, CONNAUGHT PLACE, New Delhi, 01123408270, bloodbanklhmc@gmail.com, Government
+Swami Dayanand Hospital,Shahadara, Delhi, 22581031, 22583809, bloodbank.sdnh.edmc@gmail.com, Government
+Tarak Hospital India Pvt Ltd,C-7,Jai Bharat Enclave,Dwarka, Metro Pillar no 789, Delhi, 7988746754, tarakbloodbank@gmail.com, Private
+White Cross Blood Centre,A-60, East of Kailash, New Delhi, 01149055916, 9289336131, kamalkantkohali@gmail.com, Private
+C.N. Centre Blood Centre (AIIMS),Ansari Nagar, New Delhi, 26593625, anjalihz@gmail.com, Government
+Central Polyclinic Blood Centre,Gagan Vihar, Delhi, 7982625423, cpcbloodbank1988@gmail.com, Private
+Cribs Blood Centre,Flat No, 101 & 104, 40 Feet Rd, Shaheen Bagh, Abul Fazal Enclave Part 2, Jamia Nagar, Okhla, New Delhi, 8826215745, cribscbc@gmail.com, Charitable/Voluntary
+Dr. Ram Manohar Lohia Hospital Blood Centre,Baba Kharak Sing Marg, Connaught Place, New Delhi, 23365581, ddarmlh2@gmail.com, Government
+Freedom Blood Centre,Plot no. c-1/2a and c-1/1a, Yamuna vihar, Yamuna vihar, Dist. North East, 8529839023, Freedombloodbankdelhi@gmail.com, Private
+Guru Nanak Dev Charitable Blood Centre,B-1/625 (Basement) Janak Puri New Delhi, 01140355666, gurunanakdevbloodcentre@gmail.com, Charitable/Voluntary
+Human Care Medical Charitable Trust,Palam Vihar, Sector-22, Rohni, Dist. South West, 9680976744, bloodcentre0024@gmail.com, Private
+Indian Red Cross Society National Headquarters Blood Centre,Red Cross Road, New Delhi, 9900000000, cdac@cdac.in, Government
+Kailash Deepak Hospital Blood Center,Karkar Doomah, New Delhi, 9900000000, cdac@cdac.in, Private
+Life Line Blood Centre (Mata Roop Rani Maggo & Mahindru Hospital),Om Vihar Phase 1 Rd, New Delhi, 9900000000, cdac@cdac.in, Private
+Madhukar Rainbow Children's Hospital (MRCH),Malviya Nagar, New Delhi, 9900000000, cdac@cdac.in, Private
+Shree Aggarsain International Hospital Blood Centre,PSP, Sector-22, Rohni, Dist. South West, 9680976744, bloodcentre0024@gmail.com, Private
+Venkateshwar Hospital,Dwarka Sector-18 A, New Delhi, 9900000000, cdac@cdac.in, Private
+OM CHARITABLE BLOOD CENTRE (A UNIT OF LOK SEVA CHARITABLE TRUST),G T Karnal Road Industrial Area, New Delhi, 9900000000, cdac@cdac.in, Private
+```
+
+This format lists each center on a single line with all relevant information separated by commas. If you need any specific adjustments or additional details, feel free to let me know!
+
+Certainly! Below is the summary of the data you provided, formatted similarly to the previous datasets for Bihar and Delhi.
+
+### Blood Storage Units and Hospitals in Jharkhand
+
+| ID | Name of Unit/Center | Address | Contact Number | Email ID | Type | Services | Notes |
+|-----|-------------------|---------|---------------|----------|------|--------|-------|
+| 64  | Hill View Blood Storage Unit   | Hill View Road, Bariatu, Ranchi, Dist. Ranchi | 9470590980 | hillviewhospital@gmail.com | Private | - | Camps |
+| 65  | Hope Hospital Blood Storage Unit | Ranchi Road, Marar, Ramgarh-829117, Ramgarh, Dist. Ramgarh | 6204481157 | thehopehospital2018@gmail.com | Private | - | Camps |
+| 66  | Indian Red Cross Society Blood Centre, Chatra | Near Post Office, Sadar Hospital Campus Chatra, Chatra, Dist. Chatra | 9934359125 | ircschatra@gmail.com | Red Cross | - | Camps |
+| 67  | Indian Red Cross Society Blood Centre, Bokaro | Near Circuit House, Sector-1, Bokaro, Dist. Bokaro | 8987625689 | jh.bb.ircsbksc@gmail.com | Red Cross | - | Camps |
+| 68  | Indian Red Cross Society Blood Centre, Ranchi | Red Cross Building, Morabadi maidan, Ranchi, Dist. Ranchi | 9819186308 | ircsmorabadi834002@gmail.com | Red Cross | - | Camps |
+| 69  | Jamshedpur Blood Centre | Stocking Road, Jamshedpur, Jamsedpur, Dist. Purbi Singhbhum | 9507164950 | jbbjsr@gmail.com | Charitable/Voluntary | - | Camps |
+| 70  | Jharkhand Blood Centre | S. R. Complex, Near Bariatu Masjid, Bariatu, Ranchi, Dist. Ranchi | 6514655060 | jharkhandbloodbank2004@gmail.com | Private | - | Camps |
+| 71  | Khushi Nursing Home BSU | Plot No-160, Cooperative colony, B.S. City, Bokaro - 827001, Bokaro Steel City, Dist. Bokaro | 9204747374 | kumaramitmahto2219@gmail.com | Private | - | Camps |
+| 72  | Kiriburu General Hospital | At/P.O.-Kiribur, West Singhbhum, Dist. Pashchimi Singhbhum | 8986881168 | jh.bb.sailkiriburu@gmail.com | Private | - | Camps |
+| 73  | K.M. Memorial Hospital Research Centre Blood Centre | Bye Pass Road, National Highway 23, Chas, NEAR RAJDOOT HOTEL BY PASS ROAD CHAS BOKARO, Bokaro, Dist. Bokaro | 9470592687 | jh.bb.kmmhbksc@gmail.com | Private | - | Camps |
+| 74  | State Of Art Model Blood Centre, Rims Bariatu, Ranchi | RIMS BLOOD BANK, Ranchi, Dist. Ranchi | 9470516651 | bldbnkrims@gmail.com | Govt. | - | Camps |
+| 75  | Singhpur Nursing Home Blood Centre | Muri, 835101, Ranchi, Dist. Ranchi | 9534789000 / 9471318300 | snhbloodcentre@gmail.com | Private | - | Camps |
+| 76  | Swarnrekha Hospital Blood Storage Unit | Swarnrekha Hospital, Opposite Petrol Pump, Near Cambridge School, Tatisilwai, Ranchi, Tatisilwai Ranchi, Dist. Ranchi | 7763071592 | drnasirhussain850@gmail.com | Private | - | Camps |
+| 77  | Tata Central Hospital Blood Centre | Jamadoba, P.O.- Bhaga, Dhanbad, Dist. Dhanbad | 9234612802 | hitendra.kumar@tatasteel.com | Private | - | Camps |
+| 78  | State Govt. Model Blood Bank | Sardar Patel Hospital, Tatanagar, Ranchi | 9470537263 | sbblodbank@gmail.com | Govt. | - | Camps |
+| 79  | Tata Iron & Steel Company (Tisco), West Bokaro Hospital Blood Centre | Ghatotand, Ramgarh, Dist. Ramgarh | 8818800480 | brp@tatasteel.com | Private | - | Camps |
+| 80  | The Blood Centre, Sadar Hospital, Gumla | The Blood Bank, Sadar Hospital, Gumla, Gumla, Gumla, Dist. Gumla | 9534032306 | bloodbankgumla@gmail.com | Govt. | - | Camps |
+| 81  | Sncm Chakraborty Nursing Home Blood Centre | Debraj Complex, 3rd Floor, Dhanbad, Dist. Dhanbad | 9939900855 | ranjansnh6@gmail.com | Private | - | Camps |
+| 82  | Shanti Bhawan Medical Centre, Blood Centre | Blood Bank, Shanti Bhawan Medical Centre, P.S. Biru, Simdega, Biru, Dist. Simdega | 8294034425 | sbmebiru@gmail.com | Private | - | Camps |
+| 83  | Shivay Blood Centre | 2nd Floor, Shivay Hospital, Near Tower Chowk, Shyamganj Road, Deoghar, Dist. Deoghar | 9771945631 | shivaaybloodcentre@gmail.com | Private | - | Camps |
+| 84  | Srinivas Blood Centre (Hazaribag) | Hazaribag, Dist. Hazaribagh | 7004926413 | snh.bb19@gmail.com | Private | - | Camps |
+| 85  | Srinivas Blood Centre (Dhanbad) | 1st floor Patliputra Multi-speciality Hospital, Jora-fatak road near shakti mandir, Dhanbad, Jharkhand, 826001, Dhanbad, Dist. Dhanbad | 0326554837 | snhbcdnb@gmail.com | Private | - | Camps |
+| 86  | Samford Hospital Pvt. Ltd. Blood Centre | Samford Hospital, D-Block, Kokar Chowk, Kokar, Ranchi, Dist. Ranchi | 7488823354 | samfordbloodcentre@gmail.com | Private | - | Camps |
+| 87  | Latehar District Government Hospital Blood Bank | Sadar Hospital, Latehar | 9430327172 | bloodbanklatehar@gmail.com | Govt. | - | Camps |
+| 88  | Madhupur District Hospital Blood Centre | Madhupur, Dist. Deoghar | 9536253209 | sbblodbankmadhpur@gmail.com | Govt. | - | Camps |
+| 89  | Sadar Hospital Saraikela Kharsawan Blood Bank | SARAIKELA HOSPITAL, SADAR, SARAIKELA-KHARSAWAN, JHARKHAND, INDIA, Saraikela Kharsawan, Dist. Saraikela-Kharsawan | 8369507243, 9431340962 | vishnudeoprasad14@gmail.com | Govt. | - | Camps |
+
+This summary includes all the relevant details from your dataset, formatted in a tabular manner for easy reference and comparison. If you need any further adjustments or additional information, please let me know!

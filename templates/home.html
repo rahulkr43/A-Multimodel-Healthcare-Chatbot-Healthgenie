@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HealthGenie</title>
+    <link rel="stylesheet" href="static/css/style.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+   <link href="https://fonts.googleapis.com/css2?family=Nunito&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <!-- Sample website content -->
+    <div class="website-content">
+        <h1>Welcome to  AI powered medical chatbot. <h5>This is a sample website. </h5></h1>
+        <div class="website-content">
+            <head>
+                <meta charset="UTF-8">
+                <title>Project Proposal</title>
+            </head>
+            <body>
+            
+                <h1>Project presentaion</h1>
+                <h2>Rahul kumar mahato<br>Master of Science(Data Science and Applied Statistics)</h2>
+            
+                <h3>Project <u>Title</u></h3>
+            
+                <h2 style="font-weight: bold;">
+                    An Intelligent medical Chatbot Using NLP and Retrieval-Augmented Generation for <br>
+                    better medical queries and Personalized Human-Computer Interaction <br>
+                </h2>
+        <!-- More content here -->
+    </div>
+
+    <!-- Chat button -->
+    <div class="chat-button" id="chatButton">
+        <i class="fas fa-comments"></i>
+    </div>
+
+    <!-- Chat container -->
+    <div class="chat-container" id="chatContainer">
+        <div class="chat-header">
+            <div class="chatbox__image--header">
+                    <img src="https://img.icons8.com/color/48/000000/circled-user-female-skin-type-5--v1.png" alt="image">
+            </div>    
+            <span>Heathcare RAG Assistant</span>
+            <span class="chat-close" id="chatClose">×</span>
+        </div>
+        <div class="chat-messages" id="chatMessages">
+            <!-- Default intro message for text chat -->
+            <div class="message bot-message intro-bubble">
+                Hello! How can I help you today?
+            </div>
+        </div>
+        
+        <!-- Voice Chat Mode UI (hidden initially) -->
+        <div class="voice-mode-container" id="voiceModeContainer" style="display: none;">
+            <div class="voice-animation">
+                <div class="pulse-circle"></div>
+                <p class="listening-text">Listening...</p>
+            </div>
+            <div class="voice-response" id="voiceResponse">
+                <!-- Bot response will appear here -->
+            </div>
+        </div>
+        
+        <div class="chat-input">
+            <label for="pdfUpload" class="upload-button" title="Upload PDF">
+                <i class="fas fa-file-upload"></i>
+            </label>
+            <input type="file" id="pdfUpload" accept="application/pdf" style="display: none;" onchange="uploadPDF(this)">
+            
+            <input type="text" id="messageInput" placeholder="Type a message..." onkeypress="handleKeyPress(event)">
+            <div class="chat-input-buttons">
+                <button class="voice-button" id="voiceButton" title="Voice input">
+                    <i class="fas fa-microphone"></i>
+                </button>
+                <button class="send-button" onclick="sendMessage()" title="Send message">
+                    <i class="fas fa-paper-plane"></i>
+                </button>
+            </div>
+        </div>
+    </div>  
+     <script src="static/css/chat.js"></script>
+    
+</body>
+</html>

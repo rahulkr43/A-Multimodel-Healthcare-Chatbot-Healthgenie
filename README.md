@@ -15,14 +15,14 @@ HealthGenie is an intelligent medical chatbot that uses Natural Language Process
 ## Screenshots
 
 ### HealthGenie Interface
-![Screenshot](static/css/Screenshot%20(352).png)
+![Suggested Diagnosis](static/css/Screenshot%20(352).png)
 
 
 ### Medicine Query Example
-![Medicine Query Example](Screenshot%20(353).png)
+![Medicine Query Example](static/css/Screenshot%20(353).png)
 
 ### Blood Bank Query Example
-![Blood Bank Query Example](Screenshot%20(354).png)
+![Blood Bank Query Example](static/css/Screenshot%20(354).png)
 
 ## Project Overview
 
